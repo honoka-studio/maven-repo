@@ -1,0 +1,134 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.qqrobot",
+    "module": "qqrobot-spring-boot-starter",
+    "version": "1.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.qqrobot",
+          "module": "qqrobot-framework",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "qqrobot-spring-boot-starter-1.1.1.jar",
+          "url": "qqrobot-spring-boot-starter-1.1.1.jar",
+          "size": 884212,
+          "sha512": "90dd628535042f512bbb4cde62046ccccf88a9defd3693ee69a9dff649edf3ad5d842652efa2891bb82aaeaea913a52b6469e71d684f9e142782c22a867f3157",
+          "sha256": "fe9afe6f3a537fcb019f1696978b9fa4475977743f12f3d3735aa2adbc1423f4",
+          "sha1": "05ce3f0776cb437b5f0e4e24d30f107e92fb9720",
+          "md5": "b4cc2a0c23f3e4d8225ec999a7ada484"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-aop"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-websocket"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-configuration-processor"
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "net.mamoe",
+          "module": "mirai-core-jvm",
+          "version": {
+            "requires": "2.8.2"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson"
+        },
+        {
+          "group": "com.github.houbb",
+          "module": "opencc4j",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.hibernate.validator",
+          "module": "hibernate-validator"
+        },
+        {
+          "group": "com.h2database",
+          "module": "h2",
+          "version": {
+            "requires": "2.1.214"
+          }
+        },
+        {
+          "group": "de.honoka.qqrobot",
+          "module": "qqrobot-framework",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "qqrobot-spring-boot-starter-1.1.1.jar",
+          "url": "qqrobot-spring-boot-starter-1.1.1.jar",
+          "size": 884212,
+          "sha512": "90dd628535042f512bbb4cde62046ccccf88a9defd3693ee69a9dff649edf3ad5d842652efa2891bb82aaeaea913a52b6469e71d684f9e142782c22a867f3157",
+          "sha256": "fe9afe6f3a537fcb019f1696978b9fa4475977743f12f3d3735aa2adbc1423f4",
+          "sha1": "05ce3f0776cb437b5f0e4e24d30f107e92fb9720",
+          "md5": "b4cc2a0c23f3e4d8225ec999a7ada484"
+        }
+      ]
+    }
+  ]
+}

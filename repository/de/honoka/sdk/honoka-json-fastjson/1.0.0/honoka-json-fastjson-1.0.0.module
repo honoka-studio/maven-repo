@@ -1,0 +1,92 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-json-fastjson",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-json-api",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-json-fastjson-1.0.0.jar",
+          "url": "honoka-json-fastjson-1.0.0.jar",
+          "size": 7951,
+          "sha512": "305532fb94a5394a933aa7148a2f32905bd77ab4f6ea075c9889f6331cc8f37555dc4321890cd4b31e934779cddd8504dd33bc0a37d7afe75f2d717c566342bd",
+          "sha256": "a4ebee5931559e7f80e7fcf1e9100ec38d2100264d6824b71df03565e7a2a08e",
+          "sha1": "f8ce54aa9dd37e86561ea769f809f5599509ee7f",
+          "md5": "266e61440f1a66455e7e3cb46ec028bf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-json-api",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.alibaba",
+          "module": "fastjson",
+          "version": {
+            "requires": "1.2.75"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-json-fastjson-1.0.0.jar",
+          "url": "honoka-json-fastjson-1.0.0.jar",
+          "size": 7951,
+          "sha512": "305532fb94a5394a933aa7148a2f32905bd77ab4f6ea075c9889f6331cc8f37555dc4321890cd4b31e934779cddd8504dd33bc0a37d7afe75f2d717c566342bd",
+          "sha256": "a4ebee5931559e7f80e7fcf1e9100ec38d2100264d6824b71df03565e7a2a08e",
+          "sha1": "f8ce54aa9dd37e86561ea769f809f5599509ee7f",
+          "md5": "266e61440f1a66455e7e3cb46ec028bf"
+        }
+      ]
+    }
+  ]
+}

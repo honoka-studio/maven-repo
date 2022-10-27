@@ -1,0 +1,127 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-utils",
+    "version": "1.0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.10"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.9"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.11.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-utils-1.0.5.jar",
+          "url": "honoka-utils-1.0.5.jar",
+          "size": 56961,
+          "sha512": "f48cb6b182191d5ec08eefbb6b6231c38a470b7165119f24217eecdbfa6f41181f1f97540b3fc96e22ea16e56cad6fb162d003bde20922ee62886cf60fa7f4bd",
+          "sha256": "e8d6119c13b38b474d24fb647b2d03edde08a08cd5e82be9ceb6151c6699ba04",
+          "sha1": "291a01a9d9db61aa544dc3c173b71e0f57ae2a93",
+          "md5": "3433d5a16ddd43cccb584c0f15e99718"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.10"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.9"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.11.3"
+          }
+        },
+        {
+          "group": "gui.ava",
+          "module": "html2image",
+          "version": {
+            "requires": "2.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-utils-1.0.5.jar",
+          "url": "honoka-utils-1.0.5.jar",
+          "size": 56961,
+          "sha512": "f48cb6b182191d5ec08eefbb6b6231c38a470b7165119f24217eecdbfa6f41181f1f97540b3fc96e22ea16e56cad6fb162d003bde20922ee62886cf60fa7f4bd",
+          "sha256": "e8d6119c13b38b474d24fb647b2d03edde08a08cd5e82be9ceb6151c6699ba04",
+          "sha1": "291a01a9d9db61aa544dc3c173b71e0f57ae2a93",
+          "md5": "3433d5a16ddd43cccb584c0f15e99718"
+        }
+      ]
+    }
+  ]
+}

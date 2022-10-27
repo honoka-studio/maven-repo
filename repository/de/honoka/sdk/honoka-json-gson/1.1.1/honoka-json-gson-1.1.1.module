@@ -1,0 +1,92 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-json-gson",
+    "version": "1.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-json-api",
+          "version": {
+            "requires": "1.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-json-gson-1.1.1.jar",
+          "url": "honoka-json-gson-1.1.1.jar",
+          "size": 11607,
+          "sha512": "90d271f4e66116139f64e6d33a4c918e08f1d51360c5286e34f24c0a0d7c5b7d1c5833d25672dd659c8ba202ffc11d3858d1fd62c6e24e9d5b3da39c30951d61",
+          "sha256": "3ea15c682c7972abf6c532365b0b62a3ede8695ccb3b6478b0cd427df9e16447",
+          "sha1": "4e2ec5f539742689c6bb62f23c5d159fcc291d3e",
+          "md5": "e35d094571eb8f7c8c6b67b1c13379fc"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-json-api",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-json-gson-1.1.1.jar",
+          "url": "honoka-json-gson-1.1.1.jar",
+          "size": 11607,
+          "sha512": "90d271f4e66116139f64e6d33a4c918e08f1d51360c5286e34f24c0a0d7c5b7d1c5833d25672dd659c8ba202ffc11d3858d1fd62c6e24e9d5b3da39c30951d61",
+          "sha256": "3ea15c682c7972abf6c532365b0b62a3ede8695ccb3b6478b0cd427df9e16447",
+          "sha1": "4e2ec5f539742689c6bb62f23c5d159fcc291d3e",
+          "md5": "e35d094571eb8f7c8c6b67b1c13379fc"
+        }
+      ]
+    }
+  ]
+}

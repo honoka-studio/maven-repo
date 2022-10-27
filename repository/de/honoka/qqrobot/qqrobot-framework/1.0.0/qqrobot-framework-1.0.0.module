@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.qqrobot",
+    "module": "qqrobot-framework",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "qqrobot-framework-1.0.0.jar",
+          "url": "qqrobot-framework-1.0.0.jar",
+          "size": 8170,
+          "sha512": "e234d4a728709cc11dd374961c0aae97325cfd3eb10430200601475456b1f58255d51df072446e8c18078da483dc101da9db766a211e0308121e9c6cb9f03c91",
+          "sha256": "dcd6838303f6f3e8836c1758c106c9780e176bd68561dd53b4f7b55c2f056cc6",
+          "sha1": "6815b569bec37742ae162bab2ed3407a86630753",
+          "md5": "bfec64bb2dde5d7b2d688cf089dc28db"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "qqrobot-framework-1.0.0.jar",
+          "url": "qqrobot-framework-1.0.0.jar",
+          "size": 8170,
+          "sha512": "e234d4a728709cc11dd374961c0aae97325cfd3eb10430200601475456b1f58255d51df072446e8c18078da483dc101da9db766a211e0308121e9c6cb9f03c91",
+          "sha256": "dcd6838303f6f3e8836c1758c106c9780e176bd68561dd53b4f7b55c2f056cc6",
+          "sha1": "6815b569bec37742ae162bab2ed3407a86630753",
+          "md5": "bfec64bb2dde5d7b2d688cf089dc28db"
+        }
+      ]
+    }
+  ]
+}
