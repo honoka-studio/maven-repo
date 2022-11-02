@@ -1,0 +1,141 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.qqrobot",
+    "module": "qqrobot-spring-boot-starter",
+    "version": "1.2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.qqrobot",
+          "module": "qqrobot-framework",
+          "version": {
+            "requires": "1.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "qqrobot-spring-boot-starter-1.2.1.jar",
+          "url": "qqrobot-spring-boot-starter-1.2.1.jar",
+          "size": 891060,
+          "sha512": "c8f88e9c5d96d11ece84967d42aa09be066daadedf61f88ae3bfd9314aea6551089ea1865d84cf937046ca0862732f9e94063802fb91993e17804a8b21343725",
+          "sha256": "bf15aa83cf8fe3c30c3a0016db038b5093e75f68582e77406eaeabf1d1d24bbc",
+          "sha1": "757df03bd26989bd17ced8861756550cf898b7b8",
+          "md5": "f47ada3691b1151b73c2b0d5cb90a029"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-aop"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-websocket"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-configuration-processor"
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.0.6"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-framework-utils",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "net.mamoe",
+          "module": "mirai-core-jvm",
+          "version": {
+            "requires": "2.8.2"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson"
+        },
+        {
+          "group": "com.github.houbb",
+          "module": "opencc4j",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.hibernate.validator",
+          "module": "hibernate-validator"
+        },
+        {
+          "group": "com.h2database",
+          "module": "h2",
+          "version": {
+            "requires": "2.1.214"
+          }
+        },
+        {
+          "group": "de.honoka.qqrobot",
+          "module": "qqrobot-framework",
+          "version": {
+            "requires": "1.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "qqrobot-spring-boot-starter-1.2.1.jar",
+          "url": "qqrobot-spring-boot-starter-1.2.1.jar",
+          "size": 891060,
+          "sha512": "c8f88e9c5d96d11ece84967d42aa09be066daadedf61f88ae3bfd9314aea6551089ea1865d84cf937046ca0862732f9e94063802fb91993e17804a8b21343725",
+          "sha256": "bf15aa83cf8fe3c30c3a0016db038b5093e75f68582e77406eaeabf1d1d24bbc",
+          "sha1": "757df03bd26989bd17ced8861756550cf898b7b8",
+          "md5": "f47ada3691b1151b73c2b0d5cb90a029"
+        }
+      ]
+    }
+  ]
+}
