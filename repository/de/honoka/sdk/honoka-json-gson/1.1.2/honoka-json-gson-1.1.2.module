@@ -37,10 +37,10 @@
           "name": "honoka-json-gson-1.1.2.jar",
           "url": "honoka-json-gson-1.1.2.jar",
           "size": 11607,
-          "sha512": "6b5d462526ee97b39b452b8dad5ba9bd49f05f750cdf1248083b37c1464af7eebe0283b7f947b5c241a0ae6581e2ebd816fb6afe43f60eadde7c483331e7505e",
-          "sha256": "bf971cdcd95fb54ff1c980bd4237f48656ba4d11b2a1fff4836a27daa875057a",
-          "sha1": "2da3d145128778eb50feefd1317a2bc8bd5aef03",
-          "md5": "ad740f45398fa2617accb88af6febf0d"
+          "sha512": "b61cdfc9437182e9b3069ab1b2a3aa6c5fc8ac26598f84ee9c7574ae846bab3a2b43c95470354c98b104af823beea04d0f8bf69a4e6cda32631ffc469cf0ef8c",
+          "sha256": "665c3d8425fd856b5cb3733b3c9d99f556b9fcece122ae4ff501d5b5954ed7c3",
+          "sha1": "e8b6aa686b4710dd80326757bd3ac558db1deacd",
+          "md5": "825dece3f1c79986774fe6e8ac433a3d"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "honoka-json-gson-1.1.2.jar",
           "url": "honoka-json-gson-1.1.2.jar",
           "size": 11607,
-          "sha512": "6b5d462526ee97b39b452b8dad5ba9bd49f05f750cdf1248083b37c1464af7eebe0283b7f947b5c241a0ae6581e2ebd816fb6afe43f60eadde7c483331e7505e",
-          "sha256": "bf971cdcd95fb54ff1c980bd4237f48656ba4d11b2a1fff4836a27daa875057a",
-          "sha1": "2da3d145128778eb50feefd1317a2bc8bd5aef03",
-          "md5": "ad740f45398fa2617accb88af6febf0d"
+          "sha512": "b61cdfc9437182e9b3069ab1b2a3aa6c5fc8ac26598f84ee9c7574ae846bab3a2b43c95470354c98b104af823beea04d0f8bf69a4e6cda32631ffc469cf0ef8c",
+          "sha256": "665c3d8425fd856b5cb3733b3c9d99f556b9fcece122ae4ff501d5b5954ed7c3",
+          "sha1": "e8b6aa686b4710dd80326757bd3ac558db1deacd",
+          "md5": "825dece3f1c79986774fe6e8ac433a3d"
         }
       ]
     }
