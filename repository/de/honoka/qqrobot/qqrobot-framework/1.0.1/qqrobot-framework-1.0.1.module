@@ -28,10 +28,10 @@
           "name": "qqrobot-framework-1.0.1.jar",
           "url": "qqrobot-framework-1.0.1.jar",
           "size": 8174,
-          "sha512": "fa681b79c7e8f4ac0580f0ecdaf596207ade0d24aeba281a0be37abfc155af5f5d6588fdb554fcd4a77e1ea991c7823655b989cd554deedefa6f05aa8e30db12",
-          "sha256": "8e25b15bea558bf60e5e35ded51e0bbc8d18466ebf6fceb845a006eb6bf8187f",
-          "sha1": "81ad7f31c31da6e4a80125c7acf341e2889297f7",
-          "md5": "c2dd74e059cbf817572d9735bcba5d96"
+          "sha512": "a3b9ff06a32966d70a7948977317b25a75ff8b4929b480afe79037c741dc102d3ae2fcea3f64ec43593328f8dced640b206815e5a82f3c863d391abeb0510194",
+          "sha256": "c3e847e88517a5772ae31418e8d0138c587199237c656557330f4561bafac0c2",
+          "sha1": "1e72746a4a6b7f6bec2fd73bf57e5eacedc6d871",
+          "md5": "1e6933ffd8b9164dd1ef9dc0907bca5e"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "qqrobot-framework-1.0.1.jar",
           "url": "qqrobot-framework-1.0.1.jar",
           "size": 8174,
-          "sha512": "fa681b79c7e8f4ac0580f0ecdaf596207ade0d24aeba281a0be37abfc155af5f5d6588fdb554fcd4a77e1ea991c7823655b989cd554deedefa6f05aa8e30db12",
-          "sha256": "8e25b15bea558bf60e5e35ded51e0bbc8d18466ebf6fceb845a006eb6bf8187f",
-          "sha1": "81ad7f31c31da6e4a80125c7acf341e2889297f7",
-          "md5": "c2dd74e059cbf817572d9735bcba5d96"
+          "sha512": "a3b9ff06a32966d70a7948977317b25a75ff8b4929b480afe79037c741dc102d3ae2fcea3f64ec43593328f8dced640b206815e5a82f3c863d391abeb0510194",
+          "sha256": "c3e847e88517a5772ae31418e8d0138c587199237c656557330f4561bafac0c2",
+          "sha1": "1e72746a4a6b7f6bec2fd73bf57e5eacedc6d871",
+          "md5": "1e6933ffd8b9164dd1ef9dc0907bca5e"
         }
       ]
     }
