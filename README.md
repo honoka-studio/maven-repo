@@ -29,7 +29,7 @@
 <repositories>
     <repository>
         <id>honoka-maven-repo</id>
-        <url>https://www.honoka.de/maven-repo/</url>
+        <url>https://mirrors.honoka.de/maven-repo/</url>
     </repository>
 </repositories>
 ```
@@ -48,7 +48,7 @@ repositories {
 repositories {
     mavenCentral()
     maven {
-        url 'https://www.honoka.de/maven-repo/'
+        url 'https://mirrors.honoka.de/maven-repo/'
     }
 }
 ```
