@@ -27,11 +27,11 @@
         {
           "name": "honoka-json-api-1.1.3.jar",
           "url": "honoka-json-api-1.1.3.jar",
-          "size": 11021,
-          "sha512": "6dd94615fe28cecb2789db6387941b964d843da9c3f842a6c0d4c311c315cdece3c267fd1f1570fdbbecc9282d90a413ea23e61e40e9223d872c2485ae65e8ba",
-          "sha256": "4835092164da024e4e21e7e643a8c3db3f6ab1156b20ac036113f5687c9e7a82",
-          "sha1": "29873126f03900102b83635c0f7338cf67a815a4",
-          "md5": "e9d35f65d95dab84cbf8825b9c504478"
+          "size": 11145,
+          "sha512": "e2c8be5fe4f5408511607845393eed5a100dfa10d8b10737636ddab4158f4d415d5c97cbaa483850406770ac83f5fe285989ddf1b0ad3a2fc08c9eade0be8016",
+          "sha256": "055f07c4eb997215cae8b43f96b62e6af836a927bf0a106ec4dfe37307f98064",
+          "sha1": "19ca6aaa400d37706a3875b886e281ebf344e526",
+          "md5": "ea057fc485f5659084c28b3ebc0c7ed0"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "honoka-json-api-1.1.3.jar",
           "url": "honoka-json-api-1.1.3.jar",
-          "size": 11021,
-          "sha512": "6dd94615fe28cecb2789db6387941b964d843da9c3f842a6c0d4c311c315cdece3c267fd1f1570fdbbecc9282d90a413ea23e61e40e9223d872c2485ae65e8ba",
-          "sha256": "4835092164da024e4e21e7e643a8c3db3f6ab1156b20ac036113f5687c9e7a82",
-          "sha1": "29873126f03900102b83635c0f7338cf67a815a4",
-          "md5": "e9d35f65d95dab84cbf8825b9c504478"
+          "size": 11145,
+          "sha512": "e2c8be5fe4f5408511607845393eed5a100dfa10d8b10737636ddab4158f4d415d5c97cbaa483850406770ac83f5fe285989ddf1b0ad3a2fc08c9eade0be8016",
+          "sha256": "055f07c4eb997215cae8b43f96b62e6af836a927bf0a106ec4dfe37307f98064",
+          "sha1": "19ca6aaa400d37706a3875b886e281ebf344e526",
+          "md5": "ea057fc485f5659084c28b3ebc0c7ed0"
         }
       ]
     }

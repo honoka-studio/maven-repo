@@ -27,11 +27,11 @@
         {
           "name": "honoka-framework-utils-1.0.1.jar",
           "url": "honoka-framework-utils-1.0.1.jar",
-          "size": 13329,
-          "sha512": "55893b6b767dcbbf2245e8edf55de6c36966f7c6c728b796abddad2b539192895ad3909ce8cfb8b3180760e03fda29ff6f5ae4ce0eb508e33b9d6f7e97e4017e",
-          "sha256": "6ce2fe6053705e6c057626555419035d2b2f1ae0b4d6885a84a5c820943f06d2",
-          "sha1": "7a303acd22d24636b3eb9a7d0f0e4d56baaaf693",
-          "md5": "3117dc42e5e9bd75e07eb2899c0a84d9"
+          "size": 13414,
+          "sha512": "f0c278e9c4214456fabc67e4dde444a367cd34c0b2a3596d7e7d781f6ba644c6b6cdb40d22bce826b886307aa9c5735691bf90e6ee4137cbd960ef7d98be10a5",
+          "sha256": "784600c1de689f211836cb3883946473586c000cfef4a660ef83876ab0d86f47",
+          "sha1": "5e9c6d1116aae0bc6fa9d56a11902c9797482aab",
+          "md5": "1d434ecdab8836d756bd80a22ac903ca"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "honoka-framework-utils-1.0.1.jar",
           "url": "honoka-framework-utils-1.0.1.jar",
-          "size": 13329,
-          "sha512": "55893b6b767dcbbf2245e8edf55de6c36966f7c6c728b796abddad2b539192895ad3909ce8cfb8b3180760e03fda29ff6f5ae4ce0eb508e33b9d6f7e97e4017e",
-          "sha256": "6ce2fe6053705e6c057626555419035d2b2f1ae0b4d6885a84a5c820943f06d2",
-          "sha1": "7a303acd22d24636b3eb9a7d0f0e4d56baaaf693",
-          "md5": "3117dc42e5e9bd75e07eb2899c0a84d9"
+          "size": 13414,
+          "sha512": "f0c278e9c4214456fabc67e4dde444a367cd34c0b2a3596d7e7d781f6ba644c6b6cdb40d22bce826b886307aa9c5735691bf90e6ee4137cbd960ef7d98be10a5",
+          "sha256": "784600c1de689f211836cb3883946473586c000cfef4a660ef83876ab0d86f47",
+          "sha1": "5e9c6d1116aae0bc6fa9d56a11902c9797482aab",
+          "md5": "1d434ecdab8836d756bd80a22ac903ca"
         }
       ]
     }
