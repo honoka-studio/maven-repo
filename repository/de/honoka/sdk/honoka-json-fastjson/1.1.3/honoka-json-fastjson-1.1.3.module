@@ -36,11 +36,11 @@
         {
           "name": "honoka-json-fastjson-1.1.3.jar",
           "url": "honoka-json-fastjson-1.1.3.jar",
-          "size": 11356,
-          "sha512": "6537f06fd8f42774d500c385084fcc267a96c5d44fd99dabdfffac1662f965aa9f979103744575515e55b50789414336cf96a13ac37080c79ecbd480cc047f93",
-          "sha256": "926d46adc82e8005b564403f3abf5381e57e149ad29d9a69b146ec3d41d07904",
-          "sha1": "e0fc9732f2b552e3257b000f14bc8df4c200986e",
-          "md5": "93929f7346e2d9ce3117dda18c7af98d"
+          "size": 11359,
+          "sha512": "0e3dddac944e27962948681813706b61d45f2b42a230c65345e459a58de7a042c7accb0c44d86d1b18c61c35cd2c5a81645694e1babd74d75262ff225ab6437c",
+          "sha256": "eefe91a010ea201d5d4c72b9fa145d3382e56c7fb10cc093623ec6c0f8be5806",
+          "sha1": "391c41b911bc4fc9bd9b7c5037cbcbd240d0c4b3",
+          "md5": "67fdfcdeb0999f384e64549e1d77254d"
         }
       ]
     },
@@ -80,11 +80,11 @@
         {
           "name": "honoka-json-fastjson-1.1.3.jar",
           "url": "honoka-json-fastjson-1.1.3.jar",
-          "size": 11356,
-          "sha512": "6537f06fd8f42774d500c385084fcc267a96c5d44fd99dabdfffac1662f965aa9f979103744575515e55b50789414336cf96a13ac37080c79ecbd480cc047f93",
-          "sha256": "926d46adc82e8005b564403f3abf5381e57e149ad29d9a69b146ec3d41d07904",
-          "sha1": "e0fc9732f2b552e3257b000f14bc8df4c200986e",
-          "md5": "93929f7346e2d9ce3117dda18c7af98d"
+          "size": 11359,
+          "sha512": "0e3dddac944e27962948681813706b61d45f2b42a230c65345e459a58de7a042c7accb0c44d86d1b18c61c35cd2c5a81645694e1babd74d75262ff225ab6437c",
+          "sha256": "eefe91a010ea201d5d4c72b9fa145d3382e56c7fb10cc093623ec6c0f8be5806",
+          "sha1": "391c41b911bc4fc9bd9b7c5037cbcbd240d0c4b3",
+          "md5": "67fdfcdeb0999f384e64549e1d77254d"
         }
       ]
     }
