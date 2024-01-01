@@ -1,6 +1,6 @@
 # Honoka Maven Repository
 [![License](https://img.shields.io/github/license/kosaka-bun/maven-repo?label=License&color=blue&logo=Github)](./LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/kosaka-bun/maven-repo?label=Stars&logo=GitHub)
+![GitHub Stars](https://img.shields.io/github/stars/kosaka-bun/maven-repo?label=Stars&logo=GitHub&style=flat)
 
 ## 简介
 本仓库主要用于存储由[Kosaka Bun](https://github.com/kosaka-bun)所开发的几款Java与Kotlin类库与框架，亦用于存储某些在Maven中心仓库中不存在的依赖库。
