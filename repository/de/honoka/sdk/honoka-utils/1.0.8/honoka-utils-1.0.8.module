@@ -58,10 +58,10 @@
           "name": "honoka-utils-1.0.8.jar",
           "url": "honoka-utils-1.0.8.jar",
           "size": 66078,
-          "sha512": "11744a63eb491132db5da5f90c91e254d2d3853795a0e6b50e9be4a35906c6fa2279c7e79b8965f20d243a9ce3217f722692bd720d55227e72247de8aabd169f",
-          "sha256": "0294345f449a589efa16551f3580ab4aa891e17385548dadcc8fcf852118380a",
-          "sha1": "ac0ec4256e48c012cfa9ccc8e118e0075a2478e7",
-          "md5": "938b189b7ef6545c298c964fa0406532"
+          "sha512": "4bf3f60756e097e6c6457e1a393491e2a352d319916c21fc33f159e2a201c09fed49402500b8357556b849929cd9fe30ac20e4dacab6a21c57e1d90805642fe6",
+          "sha256": "65689ef83ccc6141f018f2ff7d6c076e23342718facb41746cb1023759c0a6fb",
+          "sha1": "9da025cda7d7fc0e5707070f639b463fd6cf859f",
+          "md5": "aec9bff2602b281354313d89f2cbfb50"
         }
       ]
     },
@@ -116,10 +116,10 @@
           "name": "honoka-utils-1.0.8.jar",
           "url": "honoka-utils-1.0.8.jar",
           "size": 66078,
-          "sha512": "11744a63eb491132db5da5f90c91e254d2d3853795a0e6b50e9be4a35906c6fa2279c7e79b8965f20d243a9ce3217f722692bd720d55227e72247de8aabd169f",
-          "sha256": "0294345f449a589efa16551f3580ab4aa891e17385548dadcc8fcf852118380a",
-          "sha1": "ac0ec4256e48c012cfa9ccc8e118e0075a2478e7",
-          "md5": "938b189b7ef6545c298c964fa0406532"
+          "sha512": "4bf3f60756e097e6c6457e1a393491e2a352d319916c21fc33f159e2a201c09fed49402500b8357556b849929cd9fe30ac20e4dacab6a21c57e1d90805642fe6",
+          "sha256": "65689ef83ccc6141f018f2ff7d6c076e23342718facb41746cb1023759c0a6fb",
+          "sha1": "9da025cda7d7fc0e5707070f639b463fd6cf859f",
+          "md5": "aec9bff2602b281354313d89f2cbfb50"
         }
       ]
     }
