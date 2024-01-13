@@ -37,10 +37,10 @@
           "name": "honoka-json-fastjson-1.1.3.jar",
           "url": "honoka-json-fastjson-1.1.3.jar",
           "size": 11356,
-          "sha512": "7adca62e687bd6bd74992ff85382a94b0234804fc0a9a84db36ebbb61a861471f4c18bf8edc0234c5ce8d550e8acca7939f8adedcf752fe4e86c421448d2e665",
-          "sha256": "56b8b850030aaa15ae4540e6a1dff1e496ad26838a9ea05b484cfeb7ad2d594d",
-          "sha1": "428e948b206029d6bc5dec691b35eeb0296b2c94",
-          "md5": "5c343421711e8ded9995a2755161848f"
+          "sha512": "4225b7dd2b232a5d94637cb41deb10a69f30582f4cb760490e050dc38bd2c49a16d0e4537c6376d08e712a43f4962829ee2a1e46a1930669c92bfcd962b7379c",
+          "sha256": "b16d993b3bf8b70033676a1f7e5d0f83417b92de6c61c46e610773e9ff5872b6",
+          "sha1": "6a7c9a8c641ec1f08b7965d68ef5fb839badb892",
+          "md5": "9ac0d981ac4b2659bc1459883ed6eaba"
         }
       ]
     },
@@ -81,10 +81,30 @@
           "name": "honoka-json-fastjson-1.1.3.jar",
           "url": "honoka-json-fastjson-1.1.3.jar",
           "size": 11356,
-          "sha512": "7adca62e687bd6bd74992ff85382a94b0234804fc0a9a84db36ebbb61a861471f4c18bf8edc0234c5ce8d550e8acca7939f8adedcf752fe4e86c421448d2e665",
-          "sha256": "56b8b850030aaa15ae4540e6a1dff1e496ad26838a9ea05b484cfeb7ad2d594d",
-          "sha1": "428e948b206029d6bc5dec691b35eeb0296b2c94",
-          "md5": "5c343421711e8ded9995a2755161848f"
+          "sha512": "4225b7dd2b232a5d94637cb41deb10a69f30582f4cb760490e050dc38bd2c49a16d0e4537c6376d08e712a43f4962829ee2a1e46a1930669c92bfcd962b7379c",
+          "sha256": "b16d993b3bf8b70033676a1f7e5d0f83417b92de6c61c46e610773e9ff5872b6",
+          "sha1": "6a7c9a8c641ec1f08b7965d68ef5fb839badb892",
+          "md5": "9ac0d981ac4b2659bc1459883ed6eaba"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-json-fastjson-1.1.3-sources.jar",
+          "url": "honoka-json-fastjson-1.1.3-sources.jar",
+          "size": 6457,
+          "sha512": "0cca7ba4edae4e7cf59be97359c6f0ccfc56c002924cfe2436355e6f17ae8d772e31e12ab7a9de1c63b51f5eaef5546b5e3b7099cc88c6ff8d5422173791e943",
+          "sha256": "e27e84417d438f9621e4477af2a70ed2c1bbd60ed62d51dfcc2424e94c3f423b",
+          "sha1": "22fbee376abe465fc8dadcd8ee860e302e718a9d",
+          "md5": "c3c54cc8ba83144d45bc68482092ba93"
         }
       ]
     }

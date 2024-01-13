@@ -28,10 +28,10 @@
           "name": "honoka-framework-utils-1.0.2.jar",
           "url": "honoka-framework-utils-1.0.2.jar",
           "size": 15885,
-          "sha512": "c7851eed6e2c40aa013acf797ca1868f5fc7eff7e861cee8638e18095ad1e8d697288cd79ec6bccc8af4097c80a87cd21675fb5d564251ae500ba8def201bf6c",
-          "sha256": "b1f1c6d39f1ffe9172308a4f7f9880bd8138fc6e40661074e630f6fef5025736",
-          "sha1": "c47377cee78ce823f5f2cb65c4dc4f47529cea34",
-          "md5": "bd505e61b87a4966fdc12fa6db5025ec"
+          "sha512": "65164c45d96861b7191f2906ada30376f078fa7b056a9d867abdb9303b600a519096bab5837124a989dece78799fa182c3c53a182f4b1f1bdb887bc67d2cc1ea",
+          "sha256": "a981b36c48be441bdbd579f4a83646ee11908886a55dc0bb341c37e89f6e0749",
+          "sha1": "becfdb41a2f329259426868e67ee83c579a76343",
+          "md5": "31be1cb6e3faff9225cc24f3d55771f6"
         }
       ]
     },
@@ -58,10 +58,30 @@
           "name": "honoka-framework-utils-1.0.2.jar",
           "url": "honoka-framework-utils-1.0.2.jar",
           "size": 15885,
-          "sha512": "c7851eed6e2c40aa013acf797ca1868f5fc7eff7e861cee8638e18095ad1e8d697288cd79ec6bccc8af4097c80a87cd21675fb5d564251ae500ba8def201bf6c",
-          "sha256": "b1f1c6d39f1ffe9172308a4f7f9880bd8138fc6e40661074e630f6fef5025736",
-          "sha1": "c47377cee78ce823f5f2cb65c4dc4f47529cea34",
-          "md5": "bd505e61b87a4966fdc12fa6db5025ec"
+          "sha512": "65164c45d96861b7191f2906ada30376f078fa7b056a9d867abdb9303b600a519096bab5837124a989dece78799fa182c3c53a182f4b1f1bdb887bc67d2cc1ea",
+          "sha256": "a981b36c48be441bdbd579f4a83646ee11908886a55dc0bb341c37e89f6e0749",
+          "sha1": "becfdb41a2f329259426868e67ee83c579a76343",
+          "md5": "31be1cb6e3faff9225cc24f3d55771f6"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-framework-utils-1.0.2-sources.jar",
+          "url": "honoka-framework-utils-1.0.2-sources.jar",
+          "size": 11340,
+          "sha512": "8c1f2b2ac44415b97e7d9883bf2b401e24b0f0c4bd6e05bacf457431703baa8173987de45f9943f8c1707c44dc9a647c2fa264d4698a84a1ca43f67986a80d7b",
+          "sha256": "42150f6f46e029de2f707c2d1614889e2484da56f0cfe885a92e66d9d0de1a42",
+          "sha1": "ead884bf8ff43c91919842dac6589b3c6b14b408",
+          "md5": "1f93aab4f7d29117abeaab8976a4288d"
         }
       ]
     }

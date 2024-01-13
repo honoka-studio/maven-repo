@@ -26,16 +26,16 @@
       "dependencies": [
         {
           "group": "org.apache.commons",
-          "module": "commons-lang3",
+          "module": "commons-text",
           "version": {
-            "requires": "3.10"
+            "requires": "1.9"
           }
         },
         {
           "group": "org.apache.commons",
-          "module": "commons-text",
+          "module": "commons-lang3",
           "version": {
-            "requires": "1.9"
+            "requires": "3.10"
           }
         },
         {
@@ -58,10 +58,10 @@
           "name": "honoka-utils-1.0.8.jar",
           "url": "honoka-utils-1.0.8.jar",
           "size": 66078,
-          "sha512": "11744a63eb491132db5da5f90c91e254d2d3853795a0e6b50e9be4a35906c6fa2279c7e79b8965f20d243a9ce3217f722692bd720d55227e72247de8aabd169f",
-          "sha256": "0294345f449a589efa16551f3580ab4aa891e17385548dadcc8fcf852118380a",
-          "sha1": "ac0ec4256e48c012cfa9ccc8e118e0075a2478e7",
-          "md5": "938b189b7ef6545c298c964fa0406532"
+          "sha512": "bac410dcc3bf8219b24c912a5ceda362f484ed0ed2c0711560d9ec0e1c86ee05d19a1bc93d6e9215f11d01da05645837f040dca2a22e11e2a98a7baa22c0b5fe",
+          "sha256": "b75a911dbeac11618d244553f9485d86275ee59cd4ecb69b0855a99999ce79f4",
+          "sha1": "fbe7f52d6b4e4ec4eed5e3bfd89157fefd0d9563",
+          "md5": "92b1df3fbe4ce1eed660ca6eace107cf"
         }
       ]
     },
@@ -77,16 +77,16 @@
       "dependencies": [
         {
           "group": "org.apache.commons",
-          "module": "commons-lang3",
+          "module": "commons-text",
           "version": {
-            "requires": "3.10"
+            "requires": "1.9"
           }
         },
         {
           "group": "org.apache.commons",
-          "module": "commons-text",
+          "module": "commons-lang3",
           "version": {
-            "requires": "1.9"
+            "requires": "3.10"
           }
         },
         {
@@ -116,10 +116,30 @@
           "name": "honoka-utils-1.0.8.jar",
           "url": "honoka-utils-1.0.8.jar",
           "size": 66078,
-          "sha512": "11744a63eb491132db5da5f90c91e254d2d3853795a0e6b50e9be4a35906c6fa2279c7e79b8965f20d243a9ce3217f722692bd720d55227e72247de8aabd169f",
-          "sha256": "0294345f449a589efa16551f3580ab4aa891e17385548dadcc8fcf852118380a",
-          "sha1": "ac0ec4256e48c012cfa9ccc8e118e0075a2478e7",
-          "md5": "938b189b7ef6545c298c964fa0406532"
+          "sha512": "bac410dcc3bf8219b24c912a5ceda362f484ed0ed2c0711560d9ec0e1c86ee05d19a1bc93d6e9215f11d01da05645837f040dca2a22e11e2a98a7baa22c0b5fe",
+          "sha256": "b75a911dbeac11618d244553f9485d86275ee59cd4ecb69b0855a99999ce79f4",
+          "sha1": "fbe7f52d6b4e4ec4eed5e3bfd89157fefd0d9563",
+          "md5": "92b1df3fbe4ce1eed660ca6eace107cf"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-utils-1.0.8-sources.jar",
+          "url": "honoka-utils-1.0.8-sources.jar",
+          "size": 36189,
+          "sha512": "b635b116e09fa9f20c8088fdcb6b720471e88c508404baba8dababbf47c61340e8aecad24e8eaced4de5dd7292ffbdd1fb7bc6639f20795daada1f91db931b09",
+          "sha256": "a1e1d40db497fd80b5da0c319afe00ed1b3b9960f33700489cbbf8a26d7f2181",
+          "sha1": "e333f9c5445115aaff60ce191b93ea0563dafbca",
+          "md5": "fb53319a201cd36f2cb1ec81fd2d5f2c"
         }
       ]
     }
