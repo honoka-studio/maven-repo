@@ -1,0 +1,153 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.lavender",
+    "module": "lavender-data-source-starter",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.lavender",
+          "module": "lavender-api",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lavender-data-source-starter-1.0.0.jar",
+          "url": "lavender-data-source-starter-1.0.0.jar",
+          "size": 14554,
+          "sha512": "271e6727746bb569cd5c98505a57fde07994a577ee8d22f499de24751792abd3dad3636341190a9a8f1f0897edc5a5e161a532c0d0c9d69eb13da6532172999e",
+          "sha256": "1ce449853b1a87b308f779a11430ce5969776916eb447df45713ba6221b40c86",
+          "sha1": "978fd7147d2ca5f4060c3f178c8e697e76b20681",
+          "md5": "cde9da6b5609f65c2017493028b9cdcd"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "de.honoka.lavender",
+          "module": "lavender-api",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-configuration-processor"
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.0.8"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-framework-utils",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all",
+          "version": {
+            "requires": "5.8.18"
+          }
+        },
+        {
+          "group": "org.hibernate.validator",
+          "module": "hibernate-validator"
+        }
+      ],
+      "files": [
+        {
+          "name": "lavender-data-source-starter-1.0.0.jar",
+          "url": "lavender-data-source-starter-1.0.0.jar",
+          "size": 14554,
+          "sha512": "271e6727746bb569cd5c98505a57fde07994a577ee8d22f499de24751792abd3dad3636341190a9a8f1f0897edc5a5e161a532c0d0c9d69eb13da6532172999e",
+          "sha256": "1ce449853b1a87b308f779a11430ce5969776916eb447df45713ba6221b40c86",
+          "sha1": "978fd7147d2ca5f4060c3f178c8e697e76b20681",
+          "md5": "cde9da6b5609f65c2017493028b9cdcd"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "lavender-data-source-starter-1.0.0-sources.jar",
+          "url": "lavender-data-source-starter-1.0.0-sources.jar",
+          "size": 6020,
+          "sha512": "939f9e5e3b93b8bf719a320950a1ed4fac9bbccb69fd09b75238b89045fd6bed45f2fdbab68c8e4936f76fd1d013c37b2dad437facd4389668df665a6e05c263",
+          "sha256": "fbac07096ad3e70e3e3da37aee934b2821398daa15714b3983cbf7871c0901e3",
+          "sha1": "8140147db7f1bb558f1a65ee5f7ed99a7f3e04c0",
+          "md5": "6ef97d5d5a07240715355b2a704a7ed9"
+        }
+      ]
+    }
+  ]
+}
