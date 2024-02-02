@@ -28,10 +28,10 @@
           "name": "honoka-json-api-1.1.3.jar",
           "url": "honoka-json-api-1.1.3.jar",
           "size": 11145,
-          "sha512": "da99b87810708b164cad00e2ef94c894748750056af7d15511f3ca71802a892f310c47ab8edcefe1a91c00670473ac4025e2e6e9068853c49069770d20f1d3a5",
-          "sha256": "55f635e4f648448fffd79901990a3a2348e50883f56dcf2ecd7166696b3e0d41",
-          "sha1": "84a394bdfdc9f70844e9c7854c3b54c041942e24",
-          "md5": "a6e566149121ad1da5a415da9a72a9bf"
+          "sha512": "685ab3c1b789e46135dd0e42b62a20563b19c59d0780d8b8bec1e8d4a930c33595ada1609d2719f53659e2cf9c8dda57b64a58b8afa7c442cf9ec73f44be672a",
+          "sha256": "74a51569487a2b7358e42f4e90dda5c1e80941aad34964448ac586b64ca9f63b",
+          "sha1": "ad2a423fe1afa8d297596be5da54d7d9334e104a",
+          "md5": "ecd9b88fcffbc10da80a4f45a03e3601"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "honoka-json-api-1.1.3.jar",
           "url": "honoka-json-api-1.1.3.jar",
           "size": 11145,
-          "sha512": "da99b87810708b164cad00e2ef94c894748750056af7d15511f3ca71802a892f310c47ab8edcefe1a91c00670473ac4025e2e6e9068853c49069770d20f1d3a5",
-          "sha256": "55f635e4f648448fffd79901990a3a2348e50883f56dcf2ecd7166696b3e0d41",
-          "sha1": "84a394bdfdc9f70844e9c7854c3b54c041942e24",
-          "md5": "a6e566149121ad1da5a415da9a72a9bf"
+          "sha512": "685ab3c1b789e46135dd0e42b62a20563b19c59d0780d8b8bec1e8d4a930c33595ada1609d2719f53659e2cf9c8dda57b64a58b8afa7c442cf9ec73f44be672a",
+          "sha256": "74a51569487a2b7358e42f4e90dda5c1e80941aad34964448ac586b64ca9f63b",
+          "sha1": "ad2a423fe1afa8d297596be5da54d7d9334e104a",
+          "md5": "ecd9b88fcffbc10da80a4f45a03e3601"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "honoka-json-api-1.1.3-sources.jar",
           "url": "honoka-json-api-1.1.3-sources.jar",
           "size": 6903,
-          "sha512": "6e7e976e3f47f22e40b56d6f110e075054956d1ee2052d8f336a67cf6c706d864026ad299341fcdbae2c9c71a6bcf64f0cc33d31354d461cd1d17e4b81924acf",
-          "sha256": "c8ff8c9714d3e79d0ead71f137cd9fb3aea30af6bcc9d9f59a9b23e530731021",
-          "sha1": "34d8178a8bf432d1dd066d0b3ebbd32c050d6a6c",
-          "md5": "fe0db6d05c29913ab29894f09ac7b9da"
+          "sha512": "4c2d149cebc75442fac3dcad9d1f6a1108c1fb97da2e9bec18c1a02d501342e57742f484a83a59477a39a1ec1ce372471322ff441c34691f676ee083d88469be",
+          "sha256": "1826b157c02f31104b6b0767f4fe384477cab34b8ddf73a39966dc3aacf17ce7",
+          "sha1": "28d3ef506e4b30a6233c52613389da4decf48db9",
+          "md5": "d75adf953b413d8a4aca241282d8ddd1"
         }
       ]
     }
