@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -28,10 +28,10 @@
           "name": "honoka-json-api-1.1.3.jar",
           "url": "honoka-json-api-1.1.3.jar",
           "size": 11145,
-          "sha512": "822139b6dcc75a20f2195fbc53b90ffb6956259ed34089d10ac0ce83cc38c53cef1fdb72e0b6550a98c860424bceaaed51512d83c863f1fe5194a1fb0233ab5a",
-          "sha256": "6ab6430aa150692717d783aa87dfa7c51052ca034fb0d469d288a67c3f5060d9",
-          "sha1": "e03569ae1896996bb26a2d094393e470d1cc22e1",
-          "md5": "1430afcd46d5e9e7b699550db6554872"
+          "sha512": "0ad37aa70275bb4c7b5c613d74ab82ee87fd36da22a50c1c7f9a7c8b864836fa11dd1aaf0cde7fb9c347c7abdd88b5e89f1fee5a9df60ba86cdc12b91ce9fa05",
+          "sha256": "8be4c97cce9d1043cad53983817ae73eaee0243fa7e55f2f2fb3f0f1d1ff792e",
+          "sha1": "2ecc91ef508ca45594aea77343253ba987f285d4",
+          "md5": "4b4848c62889ea2a0463cb4b3fa6c984"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "honoka-json-api-1.1.3.jar",
           "url": "honoka-json-api-1.1.3.jar",
           "size": 11145,
-          "sha512": "822139b6dcc75a20f2195fbc53b90ffb6956259ed34089d10ac0ce83cc38c53cef1fdb72e0b6550a98c860424bceaaed51512d83c863f1fe5194a1fb0233ab5a",
-          "sha256": "6ab6430aa150692717d783aa87dfa7c51052ca034fb0d469d288a67c3f5060d9",
-          "sha1": "e03569ae1896996bb26a2d094393e470d1cc22e1",
-          "md5": "1430afcd46d5e9e7b699550db6554872"
+          "sha512": "0ad37aa70275bb4c7b5c613d74ab82ee87fd36da22a50c1c7f9a7c8b864836fa11dd1aaf0cde7fb9c347c7abdd88b5e89f1fee5a9df60ba86cdc12b91ce9fa05",
+          "sha256": "8be4c97cce9d1043cad53983817ae73eaee0243fa7e55f2f2fb3f0f1d1ff792e",
+          "sha1": "2ecc91ef508ca45594aea77343253ba987f285d4",
+          "md5": "4b4848c62889ea2a0463cb4b3fa6c984"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "honoka-json-api-1.1.3-sources.jar",
           "url": "honoka-json-api-1.1.3-sources.jar",
           "size": 6903,
-          "sha512": "905919135aff1a35cdf9fefc6e900ed2382bcadf18f36b693bea46c97c95e0c47a36d991149cd3da13bc7f681ff7bac0847249ac31146e3bc7b5fb35230a332c",
-          "sha256": "dc770af06d570286705c5b3fe8d60b2bf43ef01fc90e579e7d91986794180030",
-          "sha1": "ebb2593b615d07a2c72426b32956e6f30616ceea",
-          "md5": "03b1ed3db0cc4db5c63246ecffe60d48"
+          "sha512": "c08a64236c4019fed2887ea7663b453c8327d7e2bc41725371b90c40d189b6d16cb016da8153244e78248f893b2b20b3de805112d9d1b9d3da764929ad45a2e2",
+          "sha256": "f9f36de3a6fd3af5f9fbc0b018e748248fe60f45517b2fd66bc9c141440b53e1",
+          "sha1": "eee84942dc3dd18e3cd559cf203f22857fce1992",
+          "md5": "561a36ee5f72bad6b09d24cf046a7079"
         }
       ]
     }

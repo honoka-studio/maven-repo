@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -58,10 +58,10 @@
           "name": "honoka-utils-1.0.10.jar",
           "url": "honoka-utils-1.0.10.jar",
           "size": 70540,
-          "sha512": "50a3d5a6c2012a908f0125f7ec083f975bd41984b2c83028ccc04f654a8680ad9c0ae546769914983c6f9e0b08e80e1d77e49914f197ea16312eaee2ebc6a37e",
-          "sha256": "9a1b5bb8037896855ed3273ba648cdc46d988f0dea82af3a18130ae8d534243b",
-          "sha1": "c848d0a2204871d9b7560a9ae0beaf127fc5cf7f",
-          "md5": "5d95359bd37d73337e79f298c712dfca"
+          "sha512": "c3a67353c10f64afa2013b24684cc71d4f0d1e6fb9a01c6e308e4429a2702294f8b9b97b7ebe397dfc90d57111eb456bc5456511a4724f9b98077900555262b8",
+          "sha256": "94b1cc1a0a1dd915a12ca1930727b116056e007162785a747eead9f5196454ec",
+          "sha1": "1ac5265367c7f603785dd709ac1e7df9770f6044",
+          "md5": "debf8877d3835b0e65cf9c00e02a33c2"
         }
       ]
     },
@@ -116,10 +116,10 @@
           "name": "honoka-utils-1.0.10.jar",
           "url": "honoka-utils-1.0.10.jar",
           "size": 70540,
-          "sha512": "50a3d5a6c2012a908f0125f7ec083f975bd41984b2c83028ccc04f654a8680ad9c0ae546769914983c6f9e0b08e80e1d77e49914f197ea16312eaee2ebc6a37e",
-          "sha256": "9a1b5bb8037896855ed3273ba648cdc46d988f0dea82af3a18130ae8d534243b",
-          "sha1": "c848d0a2204871d9b7560a9ae0beaf127fc5cf7f",
-          "md5": "5d95359bd37d73337e79f298c712dfca"
+          "sha512": "c3a67353c10f64afa2013b24684cc71d4f0d1e6fb9a01c6e308e4429a2702294f8b9b97b7ebe397dfc90d57111eb456bc5456511a4724f9b98077900555262b8",
+          "sha256": "94b1cc1a0a1dd915a12ca1930727b116056e007162785a747eead9f5196454ec",
+          "sha1": "1ac5265367c7f603785dd709ac1e7df9770f6044",
+          "md5": "debf8877d3835b0e65cf9c00e02a33c2"
         }
       ]
     },
@@ -136,10 +136,10 @@
           "name": "honoka-utils-1.0.10-sources.jar",
           "url": "honoka-utils-1.0.10-sources.jar",
           "size": 37750,
-          "sha512": "ba56fd495aa29e0b91c918a54456d1a5efb335d3b625e09c4e95e9d29eab8a174ed7f545f67c30b45e3224d8f1a3e9f0669ddea7a020c24e0c267b45ab91aa5b",
-          "sha256": "bab583f0d52abfe47e339363a6f8250a0e2061d66cc0022e93358eb53bdc631d",
-          "sha1": "a9b90e021ca1a8be436d844ffc288e7ca164d2e8",
-          "md5": "faaa945af4046c9a8aa3777e25d5651d"
+          "sha512": "4a1fd04aa0344937381449cf917c1389154200ce6e76a9fe7d1991888a8b62ff8fd1139379698aef160ccfdc0a912b8403aa7e81f255010ca413f8e3dbaf8705",
+          "sha256": "a0b02645b9cdd03dfcd7ce09ede3e51fcf6986faa23221be510170783cb152a8",
+          "sha1": "3ae8e21d7345d47d895460e513afd24c4d6025d4",
+          "md5": "1ecd9dfed84077860c1d56ec57a841ca"
         }
       ]
     }

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -28,10 +28,10 @@
           "name": "honoka-framework-utils-1.0.4.jar",
           "url": "honoka-framework-utils-1.0.4.jar",
           "size": 16868,
-          "sha512": "ba00a7dd7c9f34a3d3e158319c7980d677cbdf754d002505adac192e0c00fe239b93b83bf47587ea76242bc25bdca2637c83ed79900bd2e3f0175aad04883d69",
-          "sha256": "019d125d7853b0776c84342ab3b0bb67b69be0ea686c56517141eb5a277a8925",
-          "sha1": "b5de612787a8f11e9071ad352185954f25a34239",
-          "md5": "b94a9d963ad1b1cc4bcb4af613b95a8f"
+          "sha512": "11016ee401589b8845a09e282310fdaee5baac2a1146c2647dcaa266fbec1f9af5ac12c85acd1e9bdaed734bbab8f845ab6dc44e4e9057d1bed1e165858b802f",
+          "sha256": "317b1a0f1021e8695cd9abc934fc0ac902753eff4582a2cc697a8007f96bd3a3",
+          "sha1": "e74d1879c7e6375eb39931a2b3f339f4488cdb77",
+          "md5": "31581f2d7e4d7b81cfd96041ad26157c"
         }
       ]
     },
@@ -58,10 +58,10 @@
           "name": "honoka-framework-utils-1.0.4.jar",
           "url": "honoka-framework-utils-1.0.4.jar",
           "size": 16868,
-          "sha512": "ba00a7dd7c9f34a3d3e158319c7980d677cbdf754d002505adac192e0c00fe239b93b83bf47587ea76242bc25bdca2637c83ed79900bd2e3f0175aad04883d69",
-          "sha256": "019d125d7853b0776c84342ab3b0bb67b69be0ea686c56517141eb5a277a8925",
-          "sha1": "b5de612787a8f11e9071ad352185954f25a34239",
-          "md5": "b94a9d963ad1b1cc4bcb4af613b95a8f"
+          "sha512": "11016ee401589b8845a09e282310fdaee5baac2a1146c2647dcaa266fbec1f9af5ac12c85acd1e9bdaed734bbab8f845ab6dc44e4e9057d1bed1e165858b802f",
+          "sha256": "317b1a0f1021e8695cd9abc934fc0ac902753eff4582a2cc697a8007f96bd3a3",
+          "sha1": "e74d1879c7e6375eb39931a2b3f339f4488cdb77",
+          "md5": "31581f2d7e4d7b81cfd96041ad26157c"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "honoka-framework-utils-1.0.4-sources.jar",
           "url": "honoka-framework-utils-1.0.4-sources.jar",
           "size": 10546,
-          "sha512": "3bd93faed053d898c7a46d75f0fe6fc8e0c18bc45d57b9d4e9a3c2b86ffab4391eea862ac4794acb6e9c9a6b68eee909a42dfb7d599f78f9d647767b951a69c1",
-          "sha256": "7ca8d41bd876c1559b0f1cca050a76b3cef3a334a6e992db19fc9afb24fc6493",
-          "sha1": "368705da528637699623773078f41f990379ec73",
-          "md5": "544e8b1032ce477a89dec1e7ebaa152c"
+          "sha512": "e30b9533cdb420a028d8e48f2fa815d52453cc6548f6406c3bca58cca6b4043461660fa86beef1d1fcf4bcb9879d740fe927d5c941d79e558f24d519a113adc1",
+          "sha256": "8316f9a895ba647eac068fdb64310af01eb436d516afd511558e5c27b6b90615",
+          "sha1": "547b2d58fe8aa53691f476020aec1ed8c9f1d77d",
+          "md5": "7a573f8c486e1389e7e2fa91747053f8"
         }
       ]
     }
