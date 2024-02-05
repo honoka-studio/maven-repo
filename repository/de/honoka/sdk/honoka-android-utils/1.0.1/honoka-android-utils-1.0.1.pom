@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.honoka.sdk</groupId>
+  <artifactId>honoka-android-utils</artifactId>
+  <version>1.0.1</version>
+  <packaging>aar</packaging>
+  <dependencyManagement>
+    <dependencies/>
+  </dependencyManagement>
+  <dependencies>
+    <dependency>
+      <artifactId>kotlinx-coroutines-android</artifactId>
+      <version>1.6.1</version>
+      <groupId>org.jetbrains.kotlinx</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>honoka-framework-utils</artifactId>
+      <version>1.0.4</version>
+      <groupId>de.honoka.sdk</groupId>
+    </dependency>
+    <dependency>
+      <artifactId>hutool-all</artifactId>
+      <version>5.8.18</version>
+      <groupId>cn.hutool</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>nanohttpd</artifactId>
+      <version>2.3.1</version>
+      <groupId>org.nanohttpd</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>ormlite-android</artifactId>
+      <version>5.1</version>
+      <groupId>com.j256.ormlite</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>kotlin-stdlib-jdk8</artifactId>
+      <version>1.8.0</version>
+      <groupId>org.jetbrains.kotlin</groupId>
+    </dependency>
+  </dependencies>
+</project>
