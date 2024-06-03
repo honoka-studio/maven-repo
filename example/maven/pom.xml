@@ -18,7 +18,7 @@
     <repositories>
         <repository>
             <id>honoka-maven-repo</id>
-            <url>https://mirrors.honoka.de/maven-repo</url>
+            <url>https://mirrors.honoka.de/maven-repo/release</url>
         </repository>
     </repositories>
 

@@ -20,7 +20,7 @@
 <repositories>
     <repository>
         <id>honoka-maven-repo</id>
-        <url>https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository</url>
+        <url>https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository/release</url>
     </repository>
 </repositories>
 ```
@@ -29,7 +29,7 @@
 <repositories>
     <repository>
         <id>honoka-maven-repo</id>
-        <url>https://mirrors.honoka.de/maven-repo</url>
+        <url>https://mirrors.honoka.de/maven-repo/release</url>
     </repository>
 </repositories>
 ```
@@ -39,7 +39,7 @@
 repositories {
     mavenCentral()
     maven {
-        url 'https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository'
+        url 'https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository/release'
     }
 }
 ```
@@ -48,7 +48,7 @@ repositories {
 repositories {
     mavenCentral()
     maven {
-        url 'https://mirrors.honoka.de/maven-repo'
+        url 'https://mirrors.honoka.de/maven-repo/release'
     }
 }
 ```
