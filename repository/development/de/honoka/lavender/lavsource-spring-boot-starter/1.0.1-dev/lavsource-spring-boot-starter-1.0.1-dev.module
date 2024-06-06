@@ -1,0 +1,153 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.lavender",
+    "module": "lavsource-spring-boot-starter",
+    "version": "1.0.1-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.lavender",
+          "module": "lavender-api",
+          "version": {
+            "requires": "1.0.1-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lavsource-spring-boot-starter-1.0.1-dev.jar",
+          "url": "lavsource-spring-boot-starter-1.0.1-dev.jar",
+          "size": 20001,
+          "sha512": "e7af9386e91a6f92369a9f38b0204ef385bf0468113e22ee8048849e7524fe86e4e615a8766aaf0bb21635fcd5af5d0b01e206eec219509e7858e2f786c55cf5",
+          "sha256": "36bc8ac6ee10e91e9649e6724afb848eaf78fe585eac407e5eeb88f0eaea1814",
+          "sha1": "a7760c5058cf99887ce4999468c6d855f49ce712",
+          "md5": "27df202bc0b7009691af2844f4bb5af3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.3"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all",
+          "version": {
+            "requires": "5.8.18"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-configuration-processor"
+        },
+        {
+          "group": "de.honoka.lavender",
+          "module": "lavender-api",
+          "version": {
+            "requires": "1.0.1-dev"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-framework-utils",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "org.hibernate.validator",
+          "module": "hibernate-validator"
+        }
+      ],
+      "files": [
+        {
+          "name": "lavsource-spring-boot-starter-1.0.1-dev.jar",
+          "url": "lavsource-spring-boot-starter-1.0.1-dev.jar",
+          "size": 20001,
+          "sha512": "e7af9386e91a6f92369a9f38b0204ef385bf0468113e22ee8048849e7524fe86e4e615a8766aaf0bb21635fcd5af5d0b01e206eec219509e7858e2f786c55cf5",
+          "sha256": "36bc8ac6ee10e91e9649e6724afb848eaf78fe585eac407e5eeb88f0eaea1814",
+          "sha1": "a7760c5058cf99887ce4999468c6d855f49ce712",
+          "md5": "27df202bc0b7009691af2844f4bb5af3"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "lavsource-spring-boot-starter-1.0.1-dev-sources.jar",
+          "url": "lavsource-spring-boot-starter-1.0.1-dev-sources.jar",
+          "size": 7396,
+          "sha512": "dbcc9f5a0b9a2ceb86c2180b958324195d877a8e870636fe607d2fe9731ff719cb12c587877b5ab66db755ee9158bea713ea06f1cb7af33738186c76c494b231",
+          "sha256": "47f94a04590071f99f4df72b692ffee69b975ce766a4db4e6a736bd9e3ac8784",
+          "sha1": "f3ecd554aca35d9a7d71961ec0f6bbe0fb0db644",
+          "md5": "4a1ebd8e17987e363da9542afb0209ef"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.lavender",
+    "module": "lavender-api",
+    "version": "1.0.1-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.0.1-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lavender-api-1.0.1-dev.jar",
+          "url": "lavender-api-1.0.1-dev.jar",
+          "size": 39490,
+          "sha512": "3895eae1ee0d5d9b3aa27ef61d68d99fc6e20a5d34df993e1fcd49283cfdbdd67d8222d391d8700ab9a71793c4cf9d579e076d619694cdb175872918814f5f16",
+          "sha256": "bb64e2fc1e45c1ce57915a284fa9d6a7fe55bb0d2996f556d8d61fdb3f083cdb",
+          "sha1": "170e46205c404a8a651f6ee34bfa81e53d6ee9d4",
+          "md5": "8148525b044221b395c85fa9bbc89b63"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.3"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all",
+          "version": {
+            "requires": "5.8.18"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.0.1-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lavender-api-1.0.1-dev.jar",
+          "url": "lavender-api-1.0.1-dev.jar",
+          "size": 39490,
+          "sha512": "3895eae1ee0d5d9b3aa27ef61d68d99fc6e20a5d34df993e1fcd49283cfdbdd67d8222d391d8700ab9a71793c4cf9d579e076d619694cdb175872918814f5f16",
+          "sha256": "bb64e2fc1e45c1ce57915a284fa9d6a7fe55bb0d2996f556d8d61fdb3f083cdb",
+          "sha1": "170e46205c404a8a651f6ee34bfa81e53d6ee9d4",
+          "md5": "8148525b044221b395c85fa9bbc89b63"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "lavender-api-1.0.1-dev-sources.jar",
+          "url": "lavender-api-1.0.1-dev-sources.jar",
+          "size": 5858,
+          "sha512": "e7cf02b50330e91849b7333d3ae5d497e77ee12c371ff3f39461e4d1d18a6c92d804e68f9af5755ea842e94e4a397163ac3ad27680e2d84d0b0f3788fa44679b",
+          "sha256": "3f97cae47daa99ce4b0b2a2be45cfc537d5d31ab5fc6ca33f738d21bf5be6630",
+          "sha1": "85b3d8e85c4c8843fa4f0cae3cecae88b5efb6cd",
+          "md5": "3371ae795c2f2a0316eb6861565cbcf8"
+        }
+      ]
+    }
+  ]
+}
