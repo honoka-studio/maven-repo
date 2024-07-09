@@ -1,0 +1,234 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-framework-utils",
+    "version": "1.0.5-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.0.1-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-framework-utils-1.0.5-dev.jar",
+          "url": "honoka-framework-utils-1.0.5-dev.jar",
+          "size": 18613,
+          "sha512": "2e1f895e51c8b24f6dd01b5cffb5ac5ff07c79bc70d09e86d5e496586210d3411bc3be5252bcfb22518d5ca58ec95830f05e08011b4524e4ac1df4d509f9a55d",
+          "sha256": "39b8aa1320dbf619f11dcfc539c82efb154771060af6556d60ce8b2e7b203a99",
+          "sha1": "c2ef34183ce725d783dd3802b4743e1e8ed7a22f",
+          "md5": "781cde4c750fc754aeada3bf38827bd4"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.6.21"
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.3"
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.0.1-dev"
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.0.1-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-framework-utils-1.0.5-dev.jar",
+          "url": "honoka-framework-utils-1.0.5-dev.jar",
+          "size": 18613,
+          "sha512": "2e1f895e51c8b24f6dd01b5cffb5ac5ff07c79bc70d09e86d5e496586210d3411bc3be5252bcfb22518d5ca58ec95830f05e08011b4524e4ac1df4d509f9a55d",
+          "sha256": "39b8aa1320dbf619f11dcfc539c82efb154771060af6556d60ce8b2e7b203a99",
+          "sha1": "c2ef34183ce725d783dd3802b4743e1e8ed7a22f",
+          "md5": "781cde4c750fc754aeada3bf38827bd4"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-framework-utils-1.0.5-dev-sources.jar",
+          "url": "honoka-framework-utils-1.0.5-dev-sources.jar",
+          "size": 10658,
+          "sha512": "b56edb894e3ba9ef3131ea2061bd5b6e8b65b58d654e0c3c9e66869ba8efdcb857bfddd8ef13db57d86ff212b6f0a9ab04edd1c95ac335d5b97560aeb885c514",
+          "sha256": "ff2c354d78e450fa5d326394563530bd3d16960e3889118e8e5fe5471be9da1c",
+          "sha1": "609327305c262f5185a5f8a3cf1b13898dd4d313",
+          "md5": "9354bae012d02a3e961c20027bcb8ce3"
+        }
+      ]
+    }
+  ]
+}
