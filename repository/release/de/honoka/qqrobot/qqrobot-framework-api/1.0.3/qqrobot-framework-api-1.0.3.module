@@ -28,10 +28,10 @@
           "name": "qqrobot-framework-api-1.0.3.jar",
           "url": "qqrobot-framework-api-1.0.3.jar",
           "size": 8552,
-          "sha512": "ed190676224bc93d1fd8230235dbed6c8e89fb28965270a85f2a21b787b703afd0b0d740c05fff432bd5a3d18dfdcd791537cc572403cb397ffe6b90bd588571",
-          "sha256": "af97db4caaeabe70e17b5d2e1890d2f4524e1a8f63a67a15dd5bfa324161f2b4",
-          "sha1": "3ef551389342f1493c7cecf0e8a0b59c817c657d",
-          "md5": "d01db479177c47b0bceb700c6f6752d5"
+          "sha512": "7e98bc53ec8bd305d75cb67f7eeac1c0cd868c7c9e405a4af02669cf0fe1360d66d5107057aeb310232d4df66a98df4d16eedebc9588110d066d0b2dd47dcbda",
+          "sha256": "5bbb186c21a08f21e19cb66264b9c871d51e14360e13784fe8c0dda7e5724f15",
+          "sha1": "b4968c4daf9a2a6f011a6cc8b35f0b7e129e0011",
+          "md5": "1d8e0e608e797c613ded24a5490c40ce"
         }
       ]
     },
@@ -49,10 +49,10 @@
           "name": "qqrobot-framework-api-1.0.3.jar",
           "url": "qqrobot-framework-api-1.0.3.jar",
           "size": 8552,
-          "sha512": "ed190676224bc93d1fd8230235dbed6c8e89fb28965270a85f2a21b787b703afd0b0d740c05fff432bd5a3d18dfdcd791537cc572403cb397ffe6b90bd588571",
-          "sha256": "af97db4caaeabe70e17b5d2e1890d2f4524e1a8f63a67a15dd5bfa324161f2b4",
-          "sha1": "3ef551389342f1493c7cecf0e8a0b59c817c657d",
-          "md5": "d01db479177c47b0bceb700c6f6752d5"
+          "sha512": "7e98bc53ec8bd305d75cb67f7eeac1c0cd868c7c9e405a4af02669cf0fe1360d66d5107057aeb310232d4df66a98df4d16eedebc9588110d066d0b2dd47dcbda",
+          "sha256": "5bbb186c21a08f21e19cb66264b9c871d51e14360e13784fe8c0dda7e5724f15",
+          "sha1": "b4968c4daf9a2a6f011a6cc8b35f0b7e129e0011",
+          "md5": "1d8e0e608e797c613ded24a5490c40ce"
         }
       ]
     },
@@ -69,10 +69,10 @@
           "name": "qqrobot-framework-api-1.0.3-sources.jar",
           "url": "qqrobot-framework-api-1.0.3-sources.jar",
           "size": 4676,
-          "sha512": "dee217df7d4a9d04263c1c2a5217850a96a7faf4fc4d4123b7f5762aac50ee51fa731444d2c4f8b279315fade58649f2e90eecb54476e7f963fe3ca936148331",
-          "sha256": "224b51b85debb46eafb132e53554d85df11119ec06634e66e3f27efc73c9e1ec",
-          "sha1": "7f14e6c12b6b9b9f6d55e2e93a84b73ff294bf45",
-          "md5": "86d766a4b909827c6c65f70536a7666e"
+          "sha512": "a710c748cfaf4d16c01e3f4fe7ae35db431532e5539e6f28dadf30ec50cf8134f2f7ed215bb8dfa762845af5d8cdb5c2a0e2737e49261a45be9964031c14abb7",
+          "sha256": "a5d92c7f6c89e47bf05d06382a9984e23ad422b3214187c2a10fe8eba4f5cebd",
+          "sha1": "297d453e4cd34bff674aea030daf50a88d9a61ed",
+          "md5": "594a2020d0939cba6170f7142a71b7cc"
         }
       ]
     }
