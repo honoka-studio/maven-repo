@@ -9,6 +9,17 @@
   <groupId>de.honoka.qqrobot</groupId>
   <artifactId>qqrobot-spring-boot-starter</artifactId>
   <version>1.4.0-dev</version>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>2.7.5</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
   <dependencies>
     <dependency>
       <groupId>de.honoka.qqrobot</groupId>
@@ -43,20 +54,15 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-configuration-processor</artifactId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>de.honoka.sdk</groupId>
-      <artifactId>honoka-utils</artifactId>
-      <version>1.0.6</version>
+      <artifactId>honoka-kotlin-utils</artifactId>
+      <version>1.0.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>de.honoka.sdk</groupId>
       <artifactId>honoka-framework-utils</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.4</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -88,15 +94,4 @@
       <scope>runtime</scope>
     </dependency>
   </dependencies>
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-dependencies</artifactId>
-        <version>2.7.5</version>
-        <scope>import</scope>
-        <type>pom</type>
-      </dependency>
-    </dependencies>
-  </dependencyManagement>
 </project>
