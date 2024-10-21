@@ -46,10 +46,10 @@
           "name": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
           "url": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
           "size": 1178363,
-          "sha512": "711733f21a5fcd4496b96ea5af4979427c3359005235fba7878df45f118885b26db341faddce7c9e864eaec606b44bbfaf026cf1d265822061c3aa83e718d4bd",
-          "sha256": "d7d962a0c71feb61125ca291db1d698f9b8d7c1b11f46eee00112c5d00eb0c50",
-          "sha1": "7d109f4a5f2173911f2056355aac807686521d7d",
-          "md5": "ac86a474929780002e7e10b833442593"
+          "sha512": "7be2dca034092b045d3fa60bef59eb8605cbd430349ab1fcd2add7b5b1b328c0ff5133afa2587e716a8e040c8eb60425fe7d2ebebaf20c8544f50318a0689225",
+          "sha256": "46966f2ac87cd4721d0b2a4f4c3b44a210b4a2ece091cb95de8929e0feaa7d56",
+          "sha1": "fe1dd2813d4f4650a8d06864bb12a89b1193e019",
+          "md5": "c08a20db50d7ddc5e440a7a59419781d"
         }
       ]
     },
@@ -144,10 +144,10 @@
           "name": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
           "url": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
           "size": 1178363,
-          "sha512": "711733f21a5fcd4496b96ea5af4979427c3359005235fba7878df45f118885b26db341faddce7c9e864eaec606b44bbfaf026cf1d265822061c3aa83e718d4bd",
-          "sha256": "d7d962a0c71feb61125ca291db1d698f9b8d7c1b11f46eee00112c5d00eb0c50",
-          "sha1": "7d109f4a5f2173911f2056355aac807686521d7d",
-          "md5": "ac86a474929780002e7e10b833442593"
+          "sha512": "7be2dca034092b045d3fa60bef59eb8605cbd430349ab1fcd2add7b5b1b328c0ff5133afa2587e716a8e040c8eb60425fe7d2ebebaf20c8544f50318a0689225",
+          "sha256": "46966f2ac87cd4721d0b2a4f4c3b44a210b4a2ece091cb95de8929e0feaa7d56",
+          "sha1": "fe1dd2813d4f4650a8d06864bb12a89b1193e019",
+          "md5": "c08a20db50d7ddc5e440a7a59419781d"
         }
       ]
     },
@@ -164,10 +164,10 @@
           "name": "qqrobot-spring-boot-starter-1.4.0-dev-sources.jar",
           "url": "qqrobot-spring-boot-starter-1.4.0-dev-sources.jar",
           "size": 1109064,
-          "sha512": "96aa43b98c08031730e2180b08e8c8c4631ea2eabf03c2ce08f47534df1ede70cad5e9a49c6da71a189c8d76fafe2a86bafd3640765b07a1e0c2c33ad19e5a23",
-          "sha256": "b87a735d8902f4fde261fa97ebee8792dc185bd1535316242292be26f23c02eb",
-          "sha1": "28d20820a9263e7e2ad93ef97f4b528f661696f1",
-          "md5": "1be19fa4f48aafdce85d1d7e05bf8f16"
+          "sha512": "9183382558ff33a3f663490ff67c7ccf67d93812c81e2bbdaa5712a183df4deee362729c80da8838f901bd211db4fd836636403c26a9e5c2eb72186e4d6c854f",
+          "sha256": "538a4e7d214c09e9bcd529d7f583f23ebb92755853df0e97e1d56613f4bd4d5c",
+          "sha1": "e967bef91d3d757f146eb3e1901ae6526a914052",
+          "md5": "8781c7cd2fa0508b31904e82cc94c375"
         }
       ]
     }
