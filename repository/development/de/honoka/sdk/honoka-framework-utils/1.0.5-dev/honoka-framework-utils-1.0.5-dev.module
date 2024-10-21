@@ -39,10 +39,10 @@
           "name": "honoka-framework-utils-1.0.5-dev.jar",
           "url": "honoka-framework-utils-1.0.5-dev.jar",
           "size": 18032,
-          "sha512": "a086879b0ecb1e0294008aeb01f5a9d9c97003a0066782d90bfb6ec7d1bf5031642e83d665de3057f138a2d697bd3c744fb7f33d3e2be67ee8a5dcc13913630c",
-          "sha256": "c528dd57a9f8555a31890f3069b24a4d60e7c9110395c9fe3c67fb16ec7be420",
-          "sha1": "c1a8dbc839074ae738f9d8dc68c5707f5d0828ea",
-          "md5": "0f5ed118993647186a5c1b79d0df97c9"
+          "sha512": "c162ab7f24083e845b18bfbb7ccade96a3e873324c9e9ce5612aa63b9b15160ff66dcea7f226b8f7ccaa6ba3614cfbd3856762c274d2e7486fdacc3db128091d",
+          "sha256": "6c45c1b81652044a310b2bb2d94c1cc33972e8dd9c0556ec91671d8aa6225985",
+          "sha1": "e053a8c4a64eb7baf58be16cb2c8ebc0ae559483",
+          "md5": "1ffee74158ef807637abc50791e7ea7d"
         }
       ]
     },
@@ -63,21 +63,132 @@
           "module": "kotlin-stdlib-jdk8",
           "version": {
             "requires": "1.6.21"
-          }
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
             "requires": "1.6.21"
-          }
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
             "requires": "1.6.3"
-          }
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.0.1-dev"
+          },
+          "excludes": [
+            {
+              "group": "jaxen",
+              "module": "jaxen"
+            },
+            {
+              "group": "net.java.dev.msv",
+              "module": "xsdlib"
+            },
+            {
+              "group": "javax.xml.stream",
+              "module": "stax-api"
+            },
+            {
+              "group": "xpp3",
+              "module": "xpp3"
+            },
+            {
+              "group": "relaxngDatatype",
+              "module": "relaxngDatatype"
+            },
+            {
+              "group": "pull-parser",
+              "module": "pull-parser"
+            }
+          ]
         },
         {
           "group": "de.honoka.sdk",
@@ -92,10 +203,10 @@
           "name": "honoka-framework-utils-1.0.5-dev.jar",
           "url": "honoka-framework-utils-1.0.5-dev.jar",
           "size": 18032,
-          "sha512": "a086879b0ecb1e0294008aeb01f5a9d9c97003a0066782d90bfb6ec7d1bf5031642e83d665de3057f138a2d697bd3c744fb7f33d3e2be67ee8a5dcc13913630c",
-          "sha256": "c528dd57a9f8555a31890f3069b24a4d60e7c9110395c9fe3c67fb16ec7be420",
-          "sha1": "c1a8dbc839074ae738f9d8dc68c5707f5d0828ea",
-          "md5": "0f5ed118993647186a5c1b79d0df97c9"
+          "sha512": "c162ab7f24083e845b18bfbb7ccade96a3e873324c9e9ce5612aa63b9b15160ff66dcea7f226b8f7ccaa6ba3614cfbd3856762c274d2e7486fdacc3db128091d",
+          "sha256": "6c45c1b81652044a310b2bb2d94c1cc33972e8dd9c0556ec91671d8aa6225985",
+          "sha1": "e053a8c4a64eb7baf58be16cb2c8ebc0ae559483",
+          "md5": "1ffee74158ef807637abc50791e7ea7d"
         }
       ]
     },
@@ -112,10 +223,10 @@
           "name": "honoka-framework-utils-1.0.5-dev-sources.jar",
           "url": "honoka-framework-utils-1.0.5-dev-sources.jar",
           "size": 10654,
-          "sha512": "d3f3cd83bc43be9ccb441162308d8fe55ed2b9f70f4f1ab22c36d29d0797c7813fcdd365bf9625b02a730e6c6bf50ef7e2bf66d02945c646ea73c2c3ec89304b",
-          "sha256": "fe5037d0c7ba48e35135ce335a420dd4ad75fb407e92d1132bcbde30aa3cf1e3",
-          "sha1": "af1f7bb8bf84891c15c6e2cc3fec37544134da62",
-          "md5": "091f907c6dde52ff481286f81adcca4e"
+          "sha512": "e54d6eb957134a7d09ba3a3626fdd21af4006cf35f927400bb7567da871fe13f40cf0933e5d030df10d14a1c730438a5ba58de117ce0142d70bf0bb16761198d",
+          "sha256": "80a0c6f8b0dae2d04fe34ee981d37e575938207a36a0c9bd4fbad526878c0ba7",
+          "sha1": "16577cc11117092f638ab1fc648156d7c640cc41",
+          "md5": "7e50b33ebe84b59c5662c6fee6c4e7c9"
         }
       ]
     }
