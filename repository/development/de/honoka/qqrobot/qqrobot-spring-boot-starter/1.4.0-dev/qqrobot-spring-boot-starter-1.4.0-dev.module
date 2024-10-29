@@ -45,11 +45,11 @@
         {
           "name": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
           "url": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
-          "size": 1181844,
-          "sha512": "e54acbc7818fc9ac14b819c6d609cd131ec2b746db0e9f54e28c4469b8edd116cf02ecbeba52a50ab8cd4962a2de73911962acffc888cb0b7c769a527669fe45",
-          "sha256": "fe157a9f6858b3d1fae8fae94480afa414996272a3f74ba944ebc503189e5181",
-          "sha1": "fe6eac93574af21bab53da54289efb7a7c1d144c",
-          "md5": "bb1db53aa2e6f0b9bced6a635cbe7e01"
+          "size": 1181771,
+          "sha512": "1d7a3940b28a517136996c15d4fb35bba3f38172049665a36fc3d7525e5eadf04b1ee234f38b6f780b2843abe7c4076c91c61bd3d095a80edff29ada1bc464e3",
+          "sha256": "cf60bc26e5f55df8a8421879ea43702de41bbcf4c438d839015dbd9799e72dd1",
+          "sha1": "4460c27a75e19699492776f39d41a6123d2f36e0",
+          "md5": "bca31133cc44d9fdb54df3f985d0a6b9"
         }
       ]
     },
@@ -147,11 +147,11 @@
         {
           "name": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
           "url": "qqrobot-spring-boot-starter-1.4.0-dev.jar",
-          "size": 1181844,
-          "sha512": "e54acbc7818fc9ac14b819c6d609cd131ec2b746db0e9f54e28c4469b8edd116cf02ecbeba52a50ab8cd4962a2de73911962acffc888cb0b7c769a527669fe45",
-          "sha256": "fe157a9f6858b3d1fae8fae94480afa414996272a3f74ba944ebc503189e5181",
-          "sha1": "fe6eac93574af21bab53da54289efb7a7c1d144c",
-          "md5": "bb1db53aa2e6f0b9bced6a635cbe7e01"
+          "size": 1181771,
+          "sha512": "1d7a3940b28a517136996c15d4fb35bba3f38172049665a36fc3d7525e5eadf04b1ee234f38b6f780b2843abe7c4076c91c61bd3d095a80edff29ada1bc464e3",
+          "sha256": "cf60bc26e5f55df8a8421879ea43702de41bbcf4c438d839015dbd9799e72dd1",
+          "sha1": "4460c27a75e19699492776f39d41a6123d2f36e0",
+          "md5": "bca31133cc44d9fdb54df3f985d0a6b9"
         }
       ]
     },
@@ -167,11 +167,11 @@
         {
           "name": "qqrobot-spring-boot-starter-1.4.0-dev-sources.jar",
           "url": "qqrobot-spring-boot-starter-1.4.0-dev-sources.jar",
-          "size": 1110664,
-          "sha512": "682e9b5169c2f08cd772f8d349b5c90ac77b8f7973dc8773ff5542379a4647be9f269bcf56b74ab0d790fc853fe925f5f459a15defdedc5b7e5731cab56c5b85",
-          "sha256": "29f2e6bf21ffaadb6b7f2db301050f1e612cd25667cdb90dc99572e66cfe1330",
-          "sha1": "b879eba1675e6d8f64e8e320a4cb413ee5c07bc9",
-          "md5": "0c4670ad4fa33b0c64fcb1aa10871513"
+          "size": 1110560,
+          "sha512": "d14384f4a706ed07a78d6ed3c429200761b913c18639d72c83e8390f90e1aeb5df8587ab9aad3694415c22adb824ef96c286e03cd7e38b43262fd58a9c140399",
+          "sha256": "debbb8d2506bf20915f75715d57a29b537d4765a1bf6af4ef1529440a184829e",
+          "sha1": "d566184afe881cb6bd12962355f391aa1beae22c",
+          "md5": "d75c00de53a00fd42aae0ddd712a5b79"
         }
       ]
     }
