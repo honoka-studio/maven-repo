@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.honoka.sdk</groupId>
+  <artifactId>honoka-utils</artifactId>
+  <versioning>
+    <latest>1.0.12-dev</latest>
+    <release>1.0.12-dev</release>
+    <versions>
+      <version>1.0.12-dev</version>
+    </versions>
+    <lastUpdated>20241029183911</lastUpdated>
+  </versioning>
+</metadata>
