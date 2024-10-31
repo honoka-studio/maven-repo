@@ -13,7 +13,7 @@
     <dependency>
       <groupId>de.honoka.sdk</groupId>
       <artifactId>honoka-utils</artifactId>
-      <version>1.0.11</version>
+      <version>1.0.12-dev</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
