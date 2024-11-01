@@ -50,13 +50,13 @@
     <dependency>
       <groupId>de.honoka.sdk</groupId>
       <artifactId>honoka-kotlin-utils</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1-dev</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>de.honoka.sdk</groupId>
       <artifactId>honoka-framework-utils</artifactId>
-      <version>1.0.4</version>
+      <version>1.0.5-dev</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
