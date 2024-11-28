@@ -3,11 +3,12 @@
   <groupId>de.honoka.sdk</groupId>
   <artifactId>honoka-utils</artifactId>
   <versioning>
-    <latest>1.0.12-dev</latest>
-    <release>1.0.12-dev</release>
+    <latest>2.0.0-dev</latest>
+    <release>2.0.0-dev</release>
     <versions>
       <version>1.0.12-dev</version>
+      <version>2.0.0-dev</version>
     </versions>
-    <lastUpdated>20241031134659</lastUpdated>
+    <lastUpdated>20241128083016</lastUpdated>
   </versioning>
 </metadata>
