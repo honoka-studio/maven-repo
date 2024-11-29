@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-spring-boot-starter",
+    "version": "2.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-spring-boot-starter-2.0.0.jar",
+          "url": "honoka-spring-boot-starter-2.0.0.jar",
+          "size": 51740,
+          "sha512": "e9f87a40b6b9950d24dc4c3b83fc1166d38df57b8d862f5e9e4aa4d253f80d6379004077fc7a558bb04b2c32959414ed6e3723f13a34fe0e046220aaa1d50b27",
+          "sha256": "388eb45bf87c40405ac887f48529671c62a91c1c77cbd1283143cbd9c7f9e206",
+          "sha1": "9cafccc392e98d19df31fd6a63d32f6f99baf31b",
+          "md5": "9934c716ab50fec415ba6e901b218019"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "2.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-spring-boot-starter-2.0.0.jar",
+          "url": "honoka-spring-boot-starter-2.0.0.jar",
+          "size": 51740,
+          "sha512": "e9f87a40b6b9950d24dc4c3b83fc1166d38df57b8d862f5e9e4aa4d253f80d6379004077fc7a558bb04b2c32959414ed6e3723f13a34fe0e046220aaa1d50b27",
+          "sha256": "388eb45bf87c40405ac887f48529671c62a91c1c77cbd1283143cbd9c7f9e206",
+          "sha1": "9cafccc392e98d19df31fd6a63d32f6f99baf31b",
+          "md5": "9934c716ab50fec415ba6e901b218019"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-spring-boot-starter-2.0.0-sources.jar",
+          "url": "honoka-spring-boot-starter-2.0.0-sources.jar",
+          "size": 18539,
+          "sha512": "268b1eb2bcfbb1bca9ff223ac87f31da9cea5b84492330fa9821af9ee551a72e870bb0fd6cef597ee1b8cbc0c91404862c00b6f306788b41355f6467a04a2894",
+          "sha256": "58e3f4b7c33d1ac1956729ecc2d3badb4bdb5578c17db95530aa40be7ccc51a1",
+          "sha1": "2eb08ebf478baa4fd2385a5323f4986cadfb3daa",
+          "md5": "7ffe2b5660216dc94362f72d1aed3876"
+        }
+      ]
+    }
+  ]
+}
