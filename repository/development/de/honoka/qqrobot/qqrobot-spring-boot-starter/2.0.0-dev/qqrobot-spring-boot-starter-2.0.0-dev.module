@@ -1,0 +1,172 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.qqrobot",
+    "module": "qqrobot-spring-boot-starter",
+    "version": "2.0.0-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.qqrobot",
+          "module": "qqrobot-framework-api",
+          "version": {
+            "requires": "1.1.0-dev"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "qqrobot-spring-boot-starter-2.0.0-dev.jar",
+          "url": "qqrobot-spring-boot-starter-2.0.0-dev.jar",
+          "size": 1185854,
+          "sha512": "382a5e508425724d620df9d431691a84b4c7613939b65f3319977ca42e356faee0410000b432cc86ae9a72554c83ef73813cc5b375056c3d0b5337f7a197523e",
+          "sha256": "dd5606fda753d5fecbd785228a8b6244098206248de619aef98b8578678fc801",
+          "sha1": "cc09ee0a07104c320d56ebb39229eeef23f789b4",
+          "md5": "df2809d234108c348b2345dfc9a208be"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-aop"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-websocket"
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-configuration-processor"
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-spring-boot-starter",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
+          "group": "de.honoka.qqrobot",
+          "module": "qqrobot-framework-api",
+          "version": {
+            "requires": "1.1.0-dev"
+          }
+        },
+        {
+          "group": "net.mamoe",
+          "module": "mirai-core-jvm",
+          "version": {
+            "requires": "2.16.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson"
+        },
+        {
+          "group": "com.github.houbb",
+          "module": "opencc4j",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.hibernate.validator",
+          "module": "hibernate-validator"
+        },
+        {
+          "group": "com.h2database",
+          "module": "h2",
+          "version": {
+            "requires": "2.1.214"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "qqrobot-spring-boot-starter-2.0.0-dev.jar",
+          "url": "qqrobot-spring-boot-starter-2.0.0-dev.jar",
+          "size": 1185854,
+          "sha512": "382a5e508425724d620df9d431691a84b4c7613939b65f3319977ca42e356faee0410000b432cc86ae9a72554c83ef73813cc5b375056c3d0b5337f7a197523e",
+          "sha256": "dd5606fda753d5fecbd785228a8b6244098206248de619aef98b8578678fc801",
+          "sha1": "cc09ee0a07104c320d56ebb39229eeef23f789b4",
+          "md5": "df2809d234108c348b2345dfc9a208be"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "qqrobot-spring-boot-starter-2.0.0-dev-sources.jar",
+          "url": "qqrobot-spring-boot-starter-2.0.0-dev-sources.jar",
+          "size": 1110727,
+          "sha512": "e276609491707f3aeba94afbda1d68c1de5bf20c99dbd8b48f62f10783ad07983dca11aca559b853357ea64ff18acac69ad34045e41fe86574491238e7bf6d75",
+          "sha256": "d1835dacae1c0cba529c202fa96ed0bb598d0d6389c619fadbf898060fc5b287",
+          "sha1": "1cd98abdcb1ddd673883489f9afd7219057f197c",
+          "md5": "07e511ff2dde6a37bed3867a36ee1af9"
+        }
+      ]
+    }
+  ]
+}

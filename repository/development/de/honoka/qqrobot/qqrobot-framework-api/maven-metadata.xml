@@ -3,11 +3,12 @@
   <groupId>de.honoka.qqrobot</groupId>
   <artifactId>qqrobot-framework-api</artifactId>
   <versioning>
-    <latest>1.1.0-dev</latest>
-    <release>1.1.0-dev</release>
+    <latest>2.0.0-dev</latest>
+    <release>2.0.0-dev</release>
     <versions>
       <version>1.1.0-dev</version>
+      <version>2.0.0-dev</version>
     </versions>
-    <lastUpdated>20241129073742</lastUpdated>
+    <lastUpdated>20241129082211</lastUpdated>
   </versioning>
 </metadata>
