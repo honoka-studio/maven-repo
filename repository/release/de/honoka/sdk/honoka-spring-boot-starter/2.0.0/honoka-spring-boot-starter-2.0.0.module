@@ -38,11 +38,11 @@
         {
           "name": "honoka-spring-boot-starter-2.0.0.jar",
           "url": "honoka-spring-boot-starter-2.0.0.jar",
-          "size": 51740,
-          "sha512": "c2a2655cc9cc3c7f96c99dc012eb52c2c9e0bfa061dfb6a175eda685699934bb7e25197c6651d6c34458505e047219c81dc19f9604801e15a6db99992729c295",
-          "sha256": "2606d725a67a3750b1c2876179b8b61e1ee00ab6a6cfb32e31c1dff1a56585f1",
-          "sha1": "33ae26e9e42dabd0c7483b0312ecbcad994ad682",
-          "md5": "2e83d529d5854ae2788e5686288e671d"
+          "size": 52979,
+          "sha512": "0ed73ad2b526f07da0e8cc1e7724346c6313f9323243eb237c4f966d108fac7b6f866c25dc608861b3b2431cc1453b8aae72d35dc7a0333fb3fc1de4fbd09a1e",
+          "sha256": "dd51036b3dcfbc360051ed09a0755f8ed827f701830e4e9a5ec4803f6daa09d0",
+          "sha1": "32d379e22bda0f01145e64fae7514004b824b79e",
+          "md5": "ea5970926d79ffce5984f5f3fcbc8d5c"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "honoka-spring-boot-starter-2.0.0.jar",
           "url": "honoka-spring-boot-starter-2.0.0.jar",
-          "size": 51740,
-          "sha512": "c2a2655cc9cc3c7f96c99dc012eb52c2c9e0bfa061dfb6a175eda685699934bb7e25197c6651d6c34458505e047219c81dc19f9604801e15a6db99992729c295",
-          "sha256": "2606d725a67a3750b1c2876179b8b61e1ee00ab6a6cfb32e31c1dff1a56585f1",
-          "sha1": "33ae26e9e42dabd0c7483b0312ecbcad994ad682",
-          "md5": "2e83d529d5854ae2788e5686288e671d"
+          "size": 52979,
+          "sha512": "0ed73ad2b526f07da0e8cc1e7724346c6313f9323243eb237c4f966d108fac7b6f866c25dc608861b3b2431cc1453b8aae72d35dc7a0333fb3fc1de4fbd09a1e",
+          "sha256": "dd51036b3dcfbc360051ed09a0755f8ed827f701830e4e9a5ec4803f6daa09d0",
+          "sha1": "32d379e22bda0f01145e64fae7514004b824b79e",
+          "md5": "ea5970926d79ffce5984f5f3fcbc8d5c"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "honoka-spring-boot-starter-2.0.0-sources.jar",
           "url": "honoka-spring-boot-starter-2.0.0-sources.jar",
-          "size": 18539,
-          "sha512": "2f64849ca581caff107438aaa47d9c561e53c1e9f0c6a345905f969c1047aea6e20de1e0775e13bcdf82d7f076595ca8c5f5ebb4b14df131f29765281b84f265",
-          "sha256": "dfa4090f8930191a4945e979493de76b7dcc45e93f31c7bb100d2a8038c47ddf",
-          "sha1": "cc4ebc7c12dca69c63217f86ec9cc0fdc1898014",
-          "md5": "1ee2f7d8a6f128fad64d3ef7c0b72ac7"
+          "size": 18682,
+          "sha512": "8a4ec9461ecb7f80414c7fa5bcf0d0019dc2ccdebfa15256e58f22047e4a99e9ec101a594528583fe0fa76e3c31dfec46da96a38a10d496be8e4c45d1e3b567c",
+          "sha256": "34273e9f4f3b358a54483e59fde683143742643fc3d3a1a7de613d53d42e64cf",
+          "sha1": "afe4adad54c307d9a21ede375031293f11addaed",
+          "md5": "17105299be1ac31539b73b1c4b910908"
         }
       ]
     }
