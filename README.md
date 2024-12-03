@@ -35,6 +35,7 @@
 ```
 
 ### Gradle
+#### Groovy DSL
 ```groovy
 repositories {
     mavenCentral()
@@ -50,5 +51,20 @@ repositories {
     maven {
         url 'https://mirrors.honoka.de/maven-repo/release'
     }
+}
+```
+
+#### Kotlin DSL
+```kotlin
+repositories {
+    mavenCentral()
+    maven("https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository/release")
+}
+```
+或
+```kotlin
+repositories {
+    mavenCentral()
+    maven("https://mirrors.honoka.de/maven-repo/release")
 }
 ```
