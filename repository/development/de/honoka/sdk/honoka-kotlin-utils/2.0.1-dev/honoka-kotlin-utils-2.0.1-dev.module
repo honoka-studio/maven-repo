@@ -1,0 +1,137 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-kotlin-utils",
+    "version": "2.0.1-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "2.0.1-dev"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all",
+          "version": {
+            "requires": "5.8.18"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-2.0.1-dev.jar",
+          "url": "honoka-kotlin-utils-2.0.1-dev.jar",
+          "size": 8567,
+          "sha512": "4c54eda24ac7ad2943572b1b2859e256eb1f02786a0551fbdc7b8cf370c605f8650a98534b1cf794d20bdb29587ecec1a0068968b2daf80231b0458d2fa9ae4a",
+          "sha256": "1d40748f999b567ff7e889a9c58e65f3c7d079887791d0a77e52ecdea2f7a521",
+          "sha1": "3fbb9ab364d5c0fde5f34f2141b3f9fb2d0abe9b",
+          "md5": "f625fb7182813d0c62fe4836f81ef6ee"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "2.0.1-dev"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all",
+          "version": {
+            "requires": "5.8.18"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-2.0.1-dev.jar",
+          "url": "honoka-kotlin-utils-2.0.1-dev.jar",
+          "size": 8567,
+          "sha512": "4c54eda24ac7ad2943572b1b2859e256eb1f02786a0551fbdc7b8cf370c605f8650a98534b1cf794d20bdb29587ecec1a0068968b2daf80231b0458d2fa9ae4a",
+          "sha256": "1d40748f999b567ff7e889a9c58e65f3c7d079887791d0a77e52ecdea2f7a521",
+          "sha1": "3fbb9ab364d5c0fde5f34f2141b3f9fb2d0abe9b",
+          "md5": "f625fb7182813d0c62fe4836f81ef6ee"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-2.0.1-dev-sources.jar",
+          "url": "honoka-kotlin-utils-2.0.1-dev-sources.jar",
+          "size": 4006,
+          "sha512": "43ba9b9253121aab4bfa71ee4e9461314afd4dd30adc3831be0826fe8c618508189a6fa1b637f82ecc4071d1a21f7989fe56bc80c2828f479a135befbca9211c",
+          "sha256": "a84db346c6983ae419cfa73f4b3442710310b3fa4eee49b275b0e01f4ab38492",
+          "sha1": "4404cc020ddafc03b2b869ea31d5acfcc41488d4",
+          "md5": "95c21291c2ea642a73f426397b223131"
+        }
+      ]
+    }
+  ]
+}
