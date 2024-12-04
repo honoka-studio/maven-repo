@@ -32,13 +32,6 @@
           "version": {
             "requires": "2.0.1-dev"
           }
-        },
-        {
-          "group": "cn.hutool",
-          "module": "hutool-all",
-          "version": {
-            "requires": "5.8.18"
-          }
         }
       ],
       "files": [
@@ -46,10 +39,10 @@
           "name": "honoka-kotlin-utils-2.0.1-dev.jar",
           "url": "honoka-kotlin-utils-2.0.1-dev.jar",
           "size": 11026,
-          "sha512": "de0cde911f7d2d3b93e5f925890e1e8e6798a3eb0ec7a820848d5807361532e3bd1a8fb7d3361debaa6a9b358cbf39667894beca7f6bcfc3f5317372f2d7967e",
-          "sha256": "d996de998e3376e576c2134654339fd63bc2727b8314f607d6518923069ed7ca",
-          "sha1": "3a8f3008b3ce51548e3cd538a10946b64975ecd6",
-          "md5": "19d09206e770c718e78999a33c94073d"
+          "sha512": "f811a2b99d08c68f980a0f5cb08b3a6305f68a4f9f5d24b700b26974cbd0424f0a5995401ecd195e243244567e28c0528d1ffb5c8c359b9e97e23207b57f23df",
+          "sha256": "ac7bc78e9a1ed60deabbb09b3f66d4f8c1ccd0eaa9b20204c9db506b345d0c3f",
+          "sha1": "c47b666e9de75ee9db97f6c3069b4ea4c80ab913",
+          "md5": "1e032f7a94b4551b54b4a45115fe5dcb"
         }
       ]
     },
@@ -92,13 +85,6 @@
           "version": {
             "requires": "2.0.1-dev"
           }
-        },
-        {
-          "group": "cn.hutool",
-          "module": "hutool-all",
-          "version": {
-            "requires": "5.8.18"
-          }
         }
       ],
       "files": [
@@ -106,10 +92,10 @@
           "name": "honoka-kotlin-utils-2.0.1-dev.jar",
           "url": "honoka-kotlin-utils-2.0.1-dev.jar",
           "size": 11026,
-          "sha512": "de0cde911f7d2d3b93e5f925890e1e8e6798a3eb0ec7a820848d5807361532e3bd1a8fb7d3361debaa6a9b358cbf39667894beca7f6bcfc3f5317372f2d7967e",
-          "sha256": "d996de998e3376e576c2134654339fd63bc2727b8314f607d6518923069ed7ca",
-          "sha1": "3a8f3008b3ce51548e3cd538a10946b64975ecd6",
-          "md5": "19d09206e770c718e78999a33c94073d"
+          "sha512": "f811a2b99d08c68f980a0f5cb08b3a6305f68a4f9f5d24b700b26974cbd0424f0a5995401ecd195e243244567e28c0528d1ffb5c8c359b9e97e23207b57f23df",
+          "sha256": "ac7bc78e9a1ed60deabbb09b3f66d4f8c1ccd0eaa9b20204c9db506b345d0c3f",
+          "sha1": "c47b666e9de75ee9db97f6c3069b4ea4c80ab913",
+          "md5": "1e032f7a94b4551b54b4a45115fe5dcb"
         }
       ]
     },
@@ -126,10 +112,10 @@
           "name": "honoka-kotlin-utils-2.0.1-dev-sources.jar",
           "url": "honoka-kotlin-utils-2.0.1-dev-sources.jar",
           "size": 4690,
-          "sha512": "c8e9e67fb040bd8cc35e9dbdc7fcc3f5351009e165afe748c2c54e1d844e2d4281ef1a3bae84413506c611e65422a71a27f90d44e74c32514113e988b0364c5b",
-          "sha256": "4f56e544284ff5c89b8d05d003e5c4f6f1542d3c8e4abae0af734214c11886e6",
-          "sha1": "accaeef75a1a39d6b1e34d71d0475255126f43f5",
-          "md5": "07ff59bfab5d8c3dbf3eb408b46b9000"
+          "sha512": "52ff16447460070d2ce4e829a02de93f1a80e24c5fab85cbc01cf73c7bd851d0c4418f9caeb7c821500089811de5660ef1f16d1fb8c39d6c44538a5ab1c71fd9",
+          "sha256": "4708b85839de30def7ddc08ff262db450b832924e4f1dad5b6641ecaf4f0e2a0",
+          "sha1": "e04744181f878508199ba865f4e64d90dd07975b",
+          "md5": "2467443061f2176decd4570f0fd42d55"
         }
       ]
     }

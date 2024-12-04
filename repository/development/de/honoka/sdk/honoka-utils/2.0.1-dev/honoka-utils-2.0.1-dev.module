@@ -25,24 +25,10 @@
       },
       "dependencies": [
         {
-          "group": "org.apache.commons",
-          "module": "commons-text",
+          "group": "cn.hutool",
+          "module": "hutool-all",
           "version": {
-            "requires": "1.9"
-          }
-        },
-        {
-          "group": "org.apache.commons",
-          "module": "commons-lang3",
-          "version": {
-            "requires": "3.10"
-          }
-        },
-        {
-          "group": "commons-io",
-          "module": "commons-io",
-          "version": {
-            "requires": "2.11.0"
+            "requires": "5.8.25"
           }
         },
         {
@@ -56,7 +42,7 @@
           "group": "org.jsoup",
           "module": "jsoup",
           "version": {
-            "requires": "1.11.3"
+            "requires": "1.18.1"
           }
         }
       ],
@@ -64,11 +50,11 @@
         {
           "name": "honoka-utils-2.0.1-dev.jar",
           "url": "honoka-utils-2.0.1-dev.jar",
-          "size": 71183,
-          "sha512": "3e6c2c273d91917743ef935da9847a32e472f9c5731b34691ab4127d544960fb8fc31ec065e6bacb5f242bd324f1fcc34ca0bc1e07cbe648f56ae86972183d17",
-          "sha256": "a9b0387bb5a7194972af21f3f6bc45cb0190e90fbd31fba25577b7ff3a52e5e5",
-          "sha1": "ed3b786bc578427f3ede2bb9496c6ad419508177",
-          "md5": "33f4cdfb1302729077fe98a6f0d5b0fd"
+          "size": 71199,
+          "sha512": "c7e4221c74039cf51c8b9beb7dcbe167f71a2ba179c757be17114fd28129efd29c821b95a52d7f0fb6d7f68a68acae5288ade507ce9677159aba34e8623eb140",
+          "sha256": "68073808dc94a77dd6b6b6c44e4f8b126393a36568771a4799a4f2aa80054f05",
+          "sha1": "5fad92222a386b5355bd4d30ea0d7f8388506078",
+          "md5": "c17247ba5fa141120b045d1d14cec87d"
         }
       ]
     },
@@ -83,24 +69,10 @@
       },
       "dependencies": [
         {
-          "group": "org.apache.commons",
-          "module": "commons-text",
+          "group": "cn.hutool",
+          "module": "hutool-all",
           "version": {
-            "requires": "1.9"
-          }
-        },
-        {
-          "group": "org.apache.commons",
-          "module": "commons-lang3",
-          "version": {
-            "requires": "3.10"
-          }
-        },
-        {
-          "group": "commons-io",
-          "module": "commons-io",
-          "version": {
-            "requires": "2.11.0"
+            "requires": "5.8.25"
           }
         },
         {
@@ -114,7 +86,7 @@
           "group": "org.jsoup",
           "module": "jsoup",
           "version": {
-            "requires": "1.11.3"
+            "requires": "1.18.1"
           }
         },
         {
@@ -142,11 +114,11 @@
         {
           "name": "honoka-utils-2.0.1-dev.jar",
           "url": "honoka-utils-2.0.1-dev.jar",
-          "size": 71183,
-          "sha512": "3e6c2c273d91917743ef935da9847a32e472f9c5731b34691ab4127d544960fb8fc31ec065e6bacb5f242bd324f1fcc34ca0bc1e07cbe648f56ae86972183d17",
-          "sha256": "a9b0387bb5a7194972af21f3f6bc45cb0190e90fbd31fba25577b7ff3a52e5e5",
-          "sha1": "ed3b786bc578427f3ede2bb9496c6ad419508177",
-          "md5": "33f4cdfb1302729077fe98a6f0d5b0fd"
+          "size": 71199,
+          "sha512": "c7e4221c74039cf51c8b9beb7dcbe167f71a2ba179c757be17114fd28129efd29c821b95a52d7f0fb6d7f68a68acae5288ade507ce9677159aba34e8623eb140",
+          "sha256": "68073808dc94a77dd6b6b6c44e4f8b126393a36568771a4799a4f2aa80054f05",
+          "sha1": "5fad92222a386b5355bd4d30ea0d7f8388506078",
+          "md5": "c17247ba5fa141120b045d1d14cec87d"
         }
       ]
     },
@@ -162,11 +134,11 @@
         {
           "name": "honoka-utils-2.0.1-dev-sources.jar",
           "url": "honoka-utils-2.0.1-dev-sources.jar",
-          "size": 38117,
-          "sha512": "954baa8bd8c3168ecbd53e747ea37b630d583a289e73be98cafdb5b5273be82ff3ffd6c149d89ea3c7f9eadea074dfaeebf4472e5d78b458c03bd8e9abe1c16f",
-          "sha256": "0d92af7db934ee0aebccd00c456b6388f022bd2112f0c16732d3091380b1d2f8",
-          "sha1": "0f15e13820e6d35a99806acb1ed7c6b166179e23",
-          "md5": "57bfd74c54d18535d91292e7494719c1"
+          "size": 38149,
+          "sha512": "164a748cba742bd249cdacb49ccd8d3e09a0c8fab4417d111de5900c74c85c795d875cb55f2a4a4fd909cfdd8a5badc2172f9bd098268721f4f846958f3944fd",
+          "sha256": "624e54fc1dc2f81b4f1c991ad13633d0976d9606c4fdbce13477465396c7dd88",
+          "sha1": "133650e2f2306b5b71fc1d9cecefb920f5e678fb",
+          "md5": "40710e0b4e0966e24969557c28e172d9"
         }
       ]
     }
