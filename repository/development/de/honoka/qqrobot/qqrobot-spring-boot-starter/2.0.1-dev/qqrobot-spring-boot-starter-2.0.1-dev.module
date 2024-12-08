@@ -45,11 +45,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 1220677,
-          "sha512": "cc25a0f66a53f0c47251b55353dedddb725fe13c654e0ba45e3d5c8f12952a9b98bf01e01d685fe0ab7388b9569029910bf65820a5ceebc469fa9089fb60ade8",
-          "sha256": "30a893b47887d03451fc765d6fa0bf8c5a7fa69ce31f66b7efccd588c601e647",
-          "sha1": "158a5cd1002e79f98d5a78fc6dc9498130868883",
-          "md5": "2ef05ccc85bcfa9c0c7c3be6bf5390cb"
+          "size": 1222054,
+          "sha512": "647a0c341162e1892c15b845b1af35dd7361b268981a01ecf51c1f6fd10c50a437cf86e8ecb6c45c77379b2114a1f23320f392b21e9dcf5ab0fa8941d256093f",
+          "sha256": "b45eb9ac7dd39dc91fdecc267ef565cfa30d161148a4d704b2fd6b26ce6e918a",
+          "sha1": "bc6b101045ef4e20b7bc6b7909d3163ed307273b",
+          "md5": "00da6244c13f2821aa9267ad74123668"
         }
       ]
     },
@@ -143,11 +143,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 1220677,
-          "sha512": "cc25a0f66a53f0c47251b55353dedddb725fe13c654e0ba45e3d5c8f12952a9b98bf01e01d685fe0ab7388b9569029910bf65820a5ceebc469fa9089fb60ade8",
-          "sha256": "30a893b47887d03451fc765d6fa0bf8c5a7fa69ce31f66b7efccd588c601e647",
-          "sha1": "158a5cd1002e79f98d5a78fc6dc9498130868883",
-          "md5": "2ef05ccc85bcfa9c0c7c3be6bf5390cb"
+          "size": 1222054,
+          "sha512": "647a0c341162e1892c15b845b1af35dd7361b268981a01ecf51c1f6fd10c50a437cf86e8ecb6c45c77379b2114a1f23320f392b21e9dcf5ab0fa8941d256093f",
+          "sha256": "b45eb9ac7dd39dc91fdecc267ef565cfa30d161148a4d704b2fd6b26ce6e918a",
+          "sha1": "bc6b101045ef4e20b7bc6b7909d3163ed307273b",
+          "md5": "00da6244c13f2821aa9267ad74123668"
         }
       ]
     },
@@ -164,10 +164,10 @@
           "name": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
           "size": 1144707,
-          "sha512": "3415faf837f766fa3554d695a2dc6281ef7113501f82dd59fb5f7427412c08323f5089ec1936200ca837a82432479d0543e857ff8c702f77081dec6941660012",
-          "sha256": "7a9846df8bf85b390d21c63c444eae538dc29abd6ece8a48e153e85503abceeb",
-          "sha1": "853cfb85ad8aa0a614ba66e704762ad7a473a3a4",
-          "md5": "e0a2c55e1bcbec5e414b7341404ca12a"
+          "sha512": "7ec7bb53f801fcfc26ff374efd144cc4ecb2d798638e0ae68bb257c666bd28e3fc8c87e489c2eff57569dc6a9e04ecee1a906f49c56cb0f321e03554b6808087",
+          "sha256": "234180d5b242664bee05debd69ee14cf7c47f42113a04fd1cad456567ecb6170",
+          "sha1": "2494e93bd2b1b82a8d4679c8dc618432a670397b",
+          "md5": "9888b41dc03ef4b38484711492f0ae1c"
         }
       ]
     }
