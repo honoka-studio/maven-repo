@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-kotlin-utils",
+    "version": "1.0.2-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.1.1-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-1.0.2-dev.jar",
+          "url": "honoka-kotlin-utils-1.0.2-dev.jar",
+          "size": 13181,
+          "sha512": "f6477c6655fe22537ec94d3c7bc1e3843613f0c06c1fea46f39af681a8e3fc87680adfbd175ae6d409cc2d0f8c27dbd655288442fc625dee8a1ed510cb441110",
+          "sha256": "939d9d666a4ac54efacd1530a79eab08ec7772f737a05d1491413c59f03e66e5",
+          "sha1": "eba08bbf63ad4edf316e13c5557c9a85fd21fdbe",
+          "md5": "0828a890db157e10bff9d5bc6435f2db"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.1.1-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-1.0.2-dev.jar",
+          "url": "honoka-kotlin-utils-1.0.2-dev.jar",
+          "size": 13181,
+          "sha512": "f6477c6655fe22537ec94d3c7bc1e3843613f0c06c1fea46f39af681a8e3fc87680adfbd175ae6d409cc2d0f8c27dbd655288442fc625dee8a1ed510cb441110",
+          "sha256": "939d9d666a4ac54efacd1530a79eab08ec7772f737a05d1491413c59f03e66e5",
+          "sha1": "eba08bbf63ad4edf316e13c5557c9a85fd21fdbe",
+          "md5": "0828a890db157e10bff9d5bc6435f2db"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-1.0.2-dev-sources.jar",
+          "url": "honoka-kotlin-utils-1.0.2-dev-sources.jar",
+          "size": 5097,
+          "sha512": "71c3c2fe5c09e80c37d44a47656cadf206f3d9ef4d66d96bd2edfa57aad99033e06ec7acb6a0dc2b25c3f0db7cb24f6d96f3d34efec580a3806040c9eeced9d7",
+          "sha256": "320cf304e30124b7ad3c85e20142dcecf9a09365fadff82ed0238793231692fc",
+          "sha1": "08d10b7ad6e94af25d4fb2319ad071073056be94",
+          "md5": "29533f2ea0df327f5a800fc00b1d8dd6"
+        }
+      ]
+    }
+  ]
+}
