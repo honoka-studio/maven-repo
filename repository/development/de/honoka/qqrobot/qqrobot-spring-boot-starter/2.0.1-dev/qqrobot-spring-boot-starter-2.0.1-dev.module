@@ -45,11 +45,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 1224475,
-          "sha512": "7c97c92bc5d5259d66877fdfe2299a06891c97007c8d9aeec7f35532b1a840d5ca02c37daa668fc0bd2bf4c542aabb14d5daee95fa13d8f383ac4c43599cb39e",
-          "sha256": "c0b89564497259924abfa348f8e31e460138e7b17892cb6a7ac07d81d986c697",
-          "sha1": "a34f2865260e02982e837fbd37be8e2070cde254",
-          "md5": "30da173851a9b6c17ca758d0c5e83f04"
+          "size": 1224623,
+          "sha512": "6c8c7946ad360a0dbce068139f78090767666f2ab4bb6eb99922467ff76ed3554b53cbd37579c6e4136742aebce74144da1d15fafb3f844e938bcc39e11a7479",
+          "sha256": "9a7fd68b174a4afcb24b20cf94a4170726c585aba0a32769475256f4e38e6d89",
+          "sha1": "1f1f2f0a446d6978daa6638504088b80e27d2cab",
+          "md5": "471c4b43adccc5a2b8f900eebc2eb661"
         }
       ]
     },
@@ -87,6 +87,20 @@
           }
         },
         {
+          "group": "de.honoka.sdk",
+          "module": "honoka-spring-boot-starter",
+          "version": {
+            "requires": "1.0.1-dev"
+          }
+        },
+        {
+          "group": "de.honoka.qqrobot",
+          "module": "qqrobot-framework-api",
+          "version": {
+            "requires": "2.0.0"
+          }
+        },
+        {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter"
         },
@@ -101,24 +115,6 @@
         {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-websocket"
-        },
-        {
-          "group": "org.springframework.boot",
-          "module": "spring-boot-configuration-processor"
-        },
-        {
-          "group": "de.honoka.sdk",
-          "module": "honoka-spring-boot-starter",
-          "version": {
-            "requires": "1.0.1-dev"
-          }
-        },
-        {
-          "group": "de.honoka.qqrobot",
-          "module": "qqrobot-framework-api",
-          "version": {
-            "requires": "2.0.0"
-          }
         },
         {
           "group": "com.github.houbb",
@@ -137,17 +133,21 @@
           "version": {
             "requires": "2.1.214"
           }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-configuration-processor"
         }
       ],
       "files": [
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 1224475,
-          "sha512": "7c97c92bc5d5259d66877fdfe2299a06891c97007c8d9aeec7f35532b1a840d5ca02c37daa668fc0bd2bf4c542aabb14d5daee95fa13d8f383ac4c43599cb39e",
-          "sha256": "c0b89564497259924abfa348f8e31e460138e7b17892cb6a7ac07d81d986c697",
-          "sha1": "a34f2865260e02982e837fbd37be8e2070cde254",
-          "md5": "30da173851a9b6c17ca758d0c5e83f04"
+          "size": 1224623,
+          "sha512": "6c8c7946ad360a0dbce068139f78090767666f2ab4bb6eb99922467ff76ed3554b53cbd37579c6e4136742aebce74144da1d15fafb3f844e938bcc39e11a7479",
+          "sha256": "9a7fd68b174a4afcb24b20cf94a4170726c585aba0a32769475256f4e38e6d89",
+          "sha1": "1f1f2f0a446d6978daa6638504088b80e27d2cab",
+          "md5": "471c4b43adccc5a2b8f900eebc2eb661"
         }
       ]
     },
@@ -163,11 +163,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
-          "size": 1144050,
-          "sha512": "8182224d01b28628cda00962e5d06e6b7edad8e27aaa98b1905c4c708dd23f5c6f52fbddcadc3ab477f1e0a77e92d6ca0fe4cdc3099e3dc948c014a37aad3e36",
-          "sha256": "0b1145ebb40d15e09571af024638de1524ace04e236ab4aa2cde4a2de9278fca",
-          "sha1": "95de2e1b300664d0f43f296d4c549bb1d3354d9c",
-          "md5": "a12dcfbc7d86bb90f401493159d47091"
+          "size": 1144070,
+          "sha512": "49c4a829635cf83a05e7c59fee2445170a3aeba29da116a07663521a9b9c553f9d6522028874873dcc0bde858099ec7f031817b0614a1672bbc0037224f6fdad",
+          "sha256": "46db0ee94de4aec607ef9769d19f467ae9d962f799c9401a30fef42fbab8748a",
+          "sha1": "378ccddc0d14b13e79b4277c08494858ed01debf",
+          "md5": "da97c5873ecc55ddaa242793ad01c843"
         }
       ]
     }
