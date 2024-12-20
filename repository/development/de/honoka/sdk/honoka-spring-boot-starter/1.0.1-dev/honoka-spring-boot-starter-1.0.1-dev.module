@@ -38,11 +38,11 @@
         {
           "name": "honoka-spring-boot-starter-1.0.1-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.1-dev.jar",
-          "size": 56796,
-          "sha512": "77537a42a039c7801ebce2125ba38f3bbd1180f33ff0ebbfae4157ca373e1445ab126060ed4253e010adbbd7a360c3f6a7ac796079a1b0cc2d560e07578b4d74",
-          "sha256": "a935abb4d7c9fb1d7e7af57a062c90d64b315cc1bb606915893e234f7c0e97ac",
-          "sha1": "e43ff96dc43f743f8a408a981a46f267dfbb5ee9",
-          "md5": "74b09dcd39dddc195967bf1b6db8def8"
+          "size": 56797,
+          "sha512": "d88675140046b9e9027f334c444d15adda5a09d2a7f69b048da0bad29915484af44d35faf181ffecddbe4e581e9cc6a1601c6b2bd23fd7adf8b26521f0913742",
+          "sha256": "da7cb67b72da04fed66df71cc35edf55d8f3364bb669cea1c7b09009382b50d6",
+          "sha1": "a655cd4d705e3c8c535c0e927f94707a99fd4fce",
+          "md5": "448776547fb3d68dea8750f00f0f63d4"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "honoka-spring-boot-starter-1.0.1-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.1-dev.jar",
-          "size": 56796,
-          "sha512": "77537a42a039c7801ebce2125ba38f3bbd1180f33ff0ebbfae4157ca373e1445ab126060ed4253e010adbbd7a360c3f6a7ac796079a1b0cc2d560e07578b4d74",
-          "sha256": "a935abb4d7c9fb1d7e7af57a062c90d64b315cc1bb606915893e234f7c0e97ac",
-          "sha1": "e43ff96dc43f743f8a408a981a46f267dfbb5ee9",
-          "md5": "74b09dcd39dddc195967bf1b6db8def8"
+          "size": 56797,
+          "sha512": "d88675140046b9e9027f334c444d15adda5a09d2a7f69b048da0bad29915484af44d35faf181ffecddbe4e581e9cc6a1601c6b2bd23fd7adf8b26521f0913742",
+          "sha256": "da7cb67b72da04fed66df71cc35edf55d8f3364bb669cea1c7b09009382b50d6",
+          "sha1": "a655cd4d705e3c8c535c0e927f94707a99fd4fce",
+          "md5": "448776547fb3d68dea8750f00f0f63d4"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "honoka-spring-boot-starter-1.0.1-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.0.1-dev-sources.jar",
-          "size": 19062,
-          "sha512": "595424077d6699c741deb65cfb45f3e49d488d20bd076da09ab2bb7bd335c61329557280724404406949d260d5e57cbf7f40ea9edbc2595722bbbb4841214a55",
-          "sha256": "f5589af2ff5464645e327128074e9f9298bb539a88df0d8d993a5bad57b0f75b",
-          "sha1": "a750e737781afcbdc2a2552ce80c34430666d343",
-          "md5": "c242c57ba023bf1f14c671572f5035b1"
+          "size": 19064,
+          "sha512": "43b4272876aa64d9f9aa59fe882ea39f5321cdbe06b4e242d28b622cf804a71345bf4f3f3b68da9acb86334409a91fd12a4742d01e9fc3a061f8435b6d000cea",
+          "sha256": "46ef2d0f622a4393538c93ec79dd229da0f2d77e0f4017d992e8310ce4b130a9",
+          "sha1": "710beee7f2f34b0e9db64df0e992129cea2abe78",
+          "md5": "fde480369e343011d554a36eafbf0352"
         }
       ]
     }
