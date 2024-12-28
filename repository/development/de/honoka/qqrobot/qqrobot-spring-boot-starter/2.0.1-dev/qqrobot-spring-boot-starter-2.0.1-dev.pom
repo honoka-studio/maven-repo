@@ -13,7 +13,7 @@
     <dependency>
       <groupId>de.honoka.sdk</groupId>
       <artifactId>honoka-spring-boot-starter</artifactId>
-      <version>1.0.1-dev</version>
+      <version>1.0.2-dev</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
