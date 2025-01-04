@@ -1,0 +1,107 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.qqrobot",
+    "module": "qqrobot-framework-api",
+    "version": "2.0.1-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "qqrobot-framework-api-2.0.1-dev.jar",
+          "url": "qqrobot-framework-api-2.0.1-dev.jar",
+          "size": 8563,
+          "sha512": "f46812488265009755cae9de22bef5a06bf3dbd4d6b7713f0a3c25c219e990d9448ad403b3a884d33d1409567887a4849c05118062b6026169932e82f809ad56",
+          "sha256": "4a588a7e1dca9fe58e106f4e5020e4b69df5f97f9d89bc79f42cd7917ef76998",
+          "sha1": "12bc40c91606db522a3acbe53800e646c4620c74",
+          "md5": "3ac12258a70fa5514ac4e0996adf4338"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "qqrobot-framework-api-2.0.1-dev.jar",
+          "url": "qqrobot-framework-api-2.0.1-dev.jar",
+          "size": 8563,
+          "sha512": "f46812488265009755cae9de22bef5a06bf3dbd4d6b7713f0a3c25c219e990d9448ad403b3a884d33d1409567887a4849c05118062b6026169932e82f809ad56",
+          "sha256": "4a588a7e1dca9fe58e106f4e5020e4b69df5f97f9d89bc79f42cd7917ef76998",
+          "sha1": "12bc40c91606db522a3acbe53800e646c4620c74",
+          "md5": "3ac12258a70fa5514ac4e0996adf4338"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "qqrobot-framework-api-2.0.1-dev-sources.jar",
+          "url": "qqrobot-framework-api-2.0.1-dev-sources.jar",
+          "size": 4438,
+          "sha512": "4cbf0c2c4363dcafaa0f0512b98093aa8f166fcd37e4d6fbc56926624a4e8d4171aa6cae8665bfe4b68fe999ab6d982d9e4d64b4a27cb4e70a41379947c4facd",
+          "sha256": "936fce15c772e596cdd0e1083c0a643abf9eb7af0d4788ea91c3a2be84c85b5f",
+          "sha1": "42606f0a07a9b34106937cb098c8def19cd78241",
+          "md5": "2af90b0011247eac749d4b8bde9ca251"
+        }
+      ]
+    }
+  ]
+}
