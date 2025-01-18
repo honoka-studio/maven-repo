@@ -45,11 +45,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 1234136,
-          "sha512": "5c5185407f976a05f610a7454d462961d92696a29bcbb856217c5ad1d6daa3dacbbf742debb58e201ee87785213531002defa013e1dd085b7573df2ace31aacc",
-          "sha256": "24e1ac93fba1ce2829366cabd74c4cc9920f34933cb0f4853d36866760a824aa",
-          "sha1": "fc1fa2d8bd837a98b4be96ece545b124c27874ce",
-          "md5": "11191d6996fb960c3d823dd682c0a85d"
+          "size": 1232448,
+          "sha512": "85b5844142176218ffaffd303e14168cbb74d26df6bb6ae5892e6f246c37f2b7b0a479623f3d1f799bde3f2ec5200852320fba2ea24efb48ce5d4459e9b2cc21",
+          "sha256": "7e62e594fcb934df71b1e10113e05de76b91df2cfd4f84196f63789f434273a1",
+          "sha1": "44e4144feab6696094a1f1661385436f44dfb158",
+          "md5": "adb166b22023c22e7b2ec6be1623291b"
         }
       ]
     },
@@ -139,11 +139,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 1234136,
-          "sha512": "5c5185407f976a05f610a7454d462961d92696a29bcbb856217c5ad1d6daa3dacbbf742debb58e201ee87785213531002defa013e1dd085b7573df2ace31aacc",
-          "sha256": "24e1ac93fba1ce2829366cabd74c4cc9920f34933cb0f4853d36866760a824aa",
-          "sha1": "fc1fa2d8bd837a98b4be96ece545b124c27874ce",
-          "md5": "11191d6996fb960c3d823dd682c0a85d"
+          "size": 1232448,
+          "sha512": "85b5844142176218ffaffd303e14168cbb74d26df6bb6ae5892e6f246c37f2b7b0a479623f3d1f799bde3f2ec5200852320fba2ea24efb48ce5d4459e9b2cc21",
+          "sha256": "7e62e594fcb934df71b1e10113e05de76b91df2cfd4f84196f63789f434273a1",
+          "sha1": "44e4144feab6696094a1f1661385436f44dfb158",
+          "md5": "adb166b22023c22e7b2ec6be1623291b"
         }
       ]
     },
@@ -159,11 +159,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
-          "size": 1135314,
-          "sha512": "5ed4c7d5b9ad7c23e7da146c7f98e181003cc42d06ef7adfff41ff24ba58e32cf4ff7caa08f8a670dff0592f3ce1b1df2e8dfcd32f79ded236e60ff505c5298f",
-          "sha256": "b64d8d49415922d190341e8d9da2127324209dab64f9d267bf176289c93dbb54",
-          "sha1": "2d4ee31dfc85ff8f37fd32c54334daf943f26067",
-          "md5": "fb126b51d52083d717767961a91c7ea2"
+          "size": 1135294,
+          "sha512": "8f39911ec3f8b171b32a633a3374b0506cef6de9129a6df80365ed6b9bb21833a1b0db5ed7bae2e7e1b3baf3bb04edac4e3d1cc3eedc1c2809b591f1e613e4d1",
+          "sha256": "2e78a664b00dd52bfff134e6f75924ce0f08618b420cdae60262da6875747441",
+          "sha1": "880b83ea522fc6467a5d7985da48dd342930bdf6",
+          "md5": "4a1ef2d2d09db1830f57cdc0b6bfb637"
         }
       ]
     }
