@@ -44,17 +44,24 @@
           "version": {
             "requires": "1.18.1"
           }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.7"
+          }
         }
       ],
       "files": [
         {
           "name": "honoka-utils-1.1.2-dev.jar",
           "url": "honoka-utils-1.1.2-dev.jar",
-          "size": 78215,
-          "sha512": "a425f69235defffaf243055eeb83c337becf36f5a0f5bfe9d2881d634e3b3bf02fe565e2c4377a31149ae72863b87139c9cccf460d3d237a48b33a505a6f4d47",
-          "sha256": "543f7e62416fc4ac857f4086defeed92034990ae4f102b0d66cebcb84bdc9a37",
-          "sha1": "9fa12628550df731b33d6968e069a074824fe418",
-          "md5": "b0d1d2bfcd7e6c2bcba6355b7b6dfea9"
+          "size": 79206,
+          "sha512": "7c104bff18a2258d2b706076343c8195d187a0c6cda2187f06918347caf1e6a4598da862882785425341da3e9ddff8d3c5caff01b66b39cf5ea5c155d43121f9",
+          "sha256": "36b8b69e7f5c597ecfa083df7a6bb6c454de97fd0d37469107eb01ea6abccfc6",
+          "sha1": "24841502be8512daff4ce65b521a4bbffbeaa119",
+          "md5": "15c5b51b34ac98432af968893f4eca19"
         }
       ]
     },
@@ -103,6 +110,20 @@
           ]
         },
         {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.7"
+          }
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.4.14"
+          }
+        },
+        {
           "group": "org.bouncycastle",
           "module": "bcprov-jdk18on",
           "version": {
@@ -114,11 +135,11 @@
         {
           "name": "honoka-utils-1.1.2-dev.jar",
           "url": "honoka-utils-1.1.2-dev.jar",
-          "size": 78215,
-          "sha512": "a425f69235defffaf243055eeb83c337becf36f5a0f5bfe9d2881d634e3b3bf02fe565e2c4377a31149ae72863b87139c9cccf460d3d237a48b33a505a6f4d47",
-          "sha256": "543f7e62416fc4ac857f4086defeed92034990ae4f102b0d66cebcb84bdc9a37",
-          "sha1": "9fa12628550df731b33d6968e069a074824fe418",
-          "md5": "b0d1d2bfcd7e6c2bcba6355b7b6dfea9"
+          "size": 79206,
+          "sha512": "7c104bff18a2258d2b706076343c8195d187a0c6cda2187f06918347caf1e6a4598da862882785425341da3e9ddff8d3c5caff01b66b39cf5ea5c155d43121f9",
+          "sha256": "36b8b69e7f5c597ecfa083df7a6bb6c454de97fd0d37469107eb01ea6abccfc6",
+          "sha1": "24841502be8512daff4ce65b521a4bbffbeaa119",
+          "md5": "15c5b51b34ac98432af968893f4eca19"
         }
       ]
     },
@@ -134,11 +155,11 @@
         {
           "name": "honoka-utils-1.1.2-dev-sources.jar",
           "url": "honoka-utils-1.1.2-dev-sources.jar",
-          "size": 41719,
-          "sha512": "2b74bc90e2b8fc3dd96d9a3efa4f5fca4778e20b685c8cd16e6ee5012bb80b8236e905c175994d5e1bddfce6cc2e9aaf86b3139fa8905ddf5ecd9d233a6d0259",
-          "sha256": "96b92297865eb3d5b347b15725e69640ec08b0d10e3c2ef003e0b697e7e7192e",
-          "sha1": "4c07bca084d40a89303f1ec5576bec722604c749",
-          "md5": "1b4f8408a8b17bfd8b6630849113941f"
+          "size": 42224,
+          "sha512": "98fe75e8eefec6dd764370db57568c505f2bd486e603167d9914ef2596d65e7659e65b02d925cdbf8c585d6cf35072da8097dd75b168dab2141421fcb8fee5af",
+          "sha256": "0c144f1d703d246f3134ce4ea485770b2100876dc6e38de2866a55f0ec68a3e8",
+          "sha1": "017bcbd976e4f72a0f89e2fb8e89bf31d477dc3b",
+          "md5": "527f3caba2967fbec33fa19b9242c479"
         }
       ]
     }

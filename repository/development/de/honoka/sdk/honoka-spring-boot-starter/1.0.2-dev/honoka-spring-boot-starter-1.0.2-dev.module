@@ -39,10 +39,10 @@
           "name": "honoka-spring-boot-starter-1.0.2-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.2-dev.jar",
           "size": 64256,
-          "sha512": "779de15b19167376ef1431f37a232fb29318afc1e1a1741479aa1607c47b601e71d5735579619f5f4d8d48ce51042514d2045649a0aefc20f5a976dce0d36006",
-          "sha256": "bca4f49d684148eb2321dcd4a688940acf9e1696d60aec26cb356454d5ae23ef",
-          "sha1": "f34331b7abd730c0a08ac202e11b6d688b04a3d8",
-          "md5": "7f0b6911d59d3e5eadf74e544997c577"
+          "sha512": "482508130cf995850370149169bf97627b5ba9de381a6a43e3a6bd75c7269db0f2e5f4d871072aec295b60d413f9cf2cc2d04f58e4f0f461bf82ab2395a0af68",
+          "sha256": "32707e7fa90c0fa57dc75fc36393442f9ea0fabf5af2136c4022883b3423ed51",
+          "sha1": "b59fa261fd0b16dba20861ddf4fc93ee6172fd58",
+          "md5": "bde46ef91a6fbddc088ea6db08e615ac"
         }
       ]
     },
@@ -92,10 +92,10 @@
           "name": "honoka-spring-boot-starter-1.0.2-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.2-dev.jar",
           "size": 64256,
-          "sha512": "779de15b19167376ef1431f37a232fb29318afc1e1a1741479aa1607c47b601e71d5735579619f5f4d8d48ce51042514d2045649a0aefc20f5a976dce0d36006",
-          "sha256": "bca4f49d684148eb2321dcd4a688940acf9e1696d60aec26cb356454d5ae23ef",
-          "sha1": "f34331b7abd730c0a08ac202e11b6d688b04a3d8",
-          "md5": "7f0b6911d59d3e5eadf74e544997c577"
+          "sha512": "482508130cf995850370149169bf97627b5ba9de381a6a43e3a6bd75c7269db0f2e5f4d871072aec295b60d413f9cf2cc2d04f58e4f0f461bf82ab2395a0af68",
+          "sha256": "32707e7fa90c0fa57dc75fc36393442f9ea0fabf5af2136c4022883b3423ed51",
+          "sha1": "b59fa261fd0b16dba20861ddf4fc93ee6172fd58",
+          "md5": "bde46ef91a6fbddc088ea6db08e615ac"
         }
       ]
     },
@@ -112,10 +112,10 @@
           "name": "honoka-spring-boot-starter-1.0.2-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.0.2-dev-sources.jar",
           "size": 19381,
-          "sha512": "03e31159552ab07118efaef93bfe33eda2cde316341718970600a48441e28b80f4a494fcbd1d7892f536d26edfd0e076fb3a21d147ad9f96692af1eab29b20f1",
-          "sha256": "063012b01e95998b41186b8a5079870137f969ebdadc15a9e605b1716894472f",
-          "sha1": "cd62a18e33f14dfb701c62ef854719a5d77be7d7",
-          "md5": "0e64705fa6e11be085d8ff9c10e82d1f"
+          "sha512": "499d6e79022b48d541cbf95bc5f7eba2050ccceeac86b3af8a91b7c816578b7c6e51fe0a76ae5f1da24caf4aba2b3530e6e247808baf533681cbd3abe272e6c7",
+          "sha256": "df9f49e7829149f992cf0317808aa794e4f1cee5b9cf80b8bb8e7e132e09e540",
+          "sha1": "02fc4d5cac8a2e43bad5aaa509c716393fd02970",
+          "md5": "96fe46c0b7a65e8e5952e8ff241daf75"
         }
       ]
     }

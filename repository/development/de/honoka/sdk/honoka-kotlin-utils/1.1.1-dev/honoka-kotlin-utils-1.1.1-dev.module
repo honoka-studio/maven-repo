@@ -38,11 +38,11 @@
         {
           "name": "honoka-kotlin-utils-1.1.1-dev.jar",
           "url": "honoka-kotlin-utils-1.1.1-dev.jar",
-          "size": 133320,
-          "sha512": "ef1092931ec6a4318b000cb00d0877378a02fb112140012a89146c09e754342f515c2d6a1077a58f3554e7088afb0f70c4b72637630e4b2484605e281a90ae72",
-          "sha256": "482a4ff94e6108c8b52a9ce4adaf6caeda89095143e780c286ad2430af2eb45b",
-          "sha1": "4e28200598b70717037f627d4256cdf0ad0a181c",
-          "md5": "f04e2025fee1ce8179be299aa3138e11"
+          "size": 135307,
+          "sha512": "ab4d8d3a3ac89fa8e645a39317b0e79c79bb6b1a46b68f6c32313d51e30e876f0ff988c3e0c9f0a93e452f05940bb623f0b8807ead09c6b544e9c7bb32e2940f",
+          "sha256": "20f13bb4c26777ca90a318f043a742fd78f0772c7f2cb7f42881a974bfbd8fa7",
+          "sha1": "7c593feb867c2683e0afb94075ba99eae27b8d44",
+          "md5": "f0365e89cb36221c0c836e3a758633f1"
         }
       ]
     },
@@ -85,17 +85,24 @@
           "version": {
             "requires": "1.1.2-dev"
           }
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.4.14"
+          }
         }
       ],
       "files": [
         {
           "name": "honoka-kotlin-utils-1.1.1-dev.jar",
           "url": "honoka-kotlin-utils-1.1.1-dev.jar",
-          "size": 133320,
-          "sha512": "ef1092931ec6a4318b000cb00d0877378a02fb112140012a89146c09e754342f515c2d6a1077a58f3554e7088afb0f70c4b72637630e4b2484605e281a90ae72",
-          "sha256": "482a4ff94e6108c8b52a9ce4adaf6caeda89095143e780c286ad2430af2eb45b",
-          "sha1": "4e28200598b70717037f627d4256cdf0ad0a181c",
-          "md5": "f04e2025fee1ce8179be299aa3138e11"
+          "size": 135307,
+          "sha512": "ab4d8d3a3ac89fa8e645a39317b0e79c79bb6b1a46b68f6c32313d51e30e876f0ff988c3e0c9f0a93e452f05940bb623f0b8807ead09c6b544e9c7bb32e2940f",
+          "sha256": "20f13bb4c26777ca90a318f043a742fd78f0772c7f2cb7f42881a974bfbd8fa7",
+          "sha1": "7c593feb867c2683e0afb94075ba99eae27b8d44",
+          "md5": "f0365e89cb36221c0c836e3a758633f1"
         }
       ]
     },
@@ -111,11 +118,11 @@
         {
           "name": "honoka-kotlin-utils-1.1.1-dev-sources.jar",
           "url": "honoka-kotlin-utils-1.1.1-dev-sources.jar",
-          "size": 25243,
-          "sha512": "21179ce463261eeb18dcbe175d377f04f47906d2c3da27ea6930be1111eb2323ee926fe7c039e6eea658faf8983898de02a9348c20a81d3dcbd8c39246501e50",
-          "sha256": "b6355ad8917325efe920d4bb85974155f6d3bf084cefc2eb90ebefd4f281ee70",
-          "sha1": "969a2a1f235f35f2a777b6d410fce3886ba61c7d",
-          "md5": "996923bdabd030881169c17e74a42168"
+          "size": 26726,
+          "sha512": "dae948e162c5039ddd0a208e8223622f7c2ba4ad7c9701b9236a166baf5b01875c58fb05f783d33cfc04690182ba5b49da22462873b90cbfda2153fde18f6241",
+          "sha256": "85ab3aea9ad2b710e439d805ca840730398c41226e93b2c187fde0ada773bf61",
+          "sha1": "57049f85af7416133ccf336db4bf7b50b88d834c",
+          "md5": "1eafb20f7b951db91b1c9e613821d6b7"
         }
       ]
     }
