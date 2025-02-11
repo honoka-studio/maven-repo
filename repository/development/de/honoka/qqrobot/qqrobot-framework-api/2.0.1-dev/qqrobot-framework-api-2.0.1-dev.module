@@ -29,11 +29,11 @@
         {
           "name": "qqrobot-framework-api-2.0.1-dev.jar",
           "url": "qqrobot-framework-api-2.0.1-dev.jar",
-          "size": 11522,
-          "sha512": "4d7db442f4bfbe37e3983ab42558d0060d09b71030836f814824fc10f42238173795873722745314f64a58ee58e125c8a4d60184c484d6c68b74692faa0e9bb6",
-          "sha256": "d275619eda8b44d3c964456f2a83dc3f98528b8235e1e242fe1480cbb782246a",
-          "sha1": "f0afb9c9054e66271c5fbe2e49d627a58db71521",
-          "md5": "5ae826d993b5a53b08a2d7e7248e290e"
+          "size": 11557,
+          "sha512": "d804f07e786b70ed526be73be2f52f8f78dcd233ae4b0b3cc503aeee38de4b3cc04fed1df558213d6f9c1285700582a7015e54ce96725f4e86cd6c702eb8e1ef",
+          "sha256": "22e134f2fb419972d0c43d29cfe1a2698aa24c602b56f8aee8cfa800cdf559c8",
+          "sha1": "186ebdcfb2c2addcbf38233a784deaa71de61a18",
+          "md5": "21432f7f007ca69f107d350bf2426e46"
         }
       ]
     },
@@ -75,11 +75,11 @@
         {
           "name": "qqrobot-framework-api-2.0.1-dev.jar",
           "url": "qqrobot-framework-api-2.0.1-dev.jar",
-          "size": 11522,
-          "sha512": "4d7db442f4bfbe37e3983ab42558d0060d09b71030836f814824fc10f42238173795873722745314f64a58ee58e125c8a4d60184c484d6c68b74692faa0e9bb6",
-          "sha256": "d275619eda8b44d3c964456f2a83dc3f98528b8235e1e242fe1480cbb782246a",
-          "sha1": "f0afb9c9054e66271c5fbe2e49d627a58db71521",
-          "md5": "5ae826d993b5a53b08a2d7e7248e290e"
+          "size": 11557,
+          "sha512": "d804f07e786b70ed526be73be2f52f8f78dcd233ae4b0b3cc503aeee38de4b3cc04fed1df558213d6f9c1285700582a7015e54ce96725f4e86cd6c702eb8e1ef",
+          "sha256": "22e134f2fb419972d0c43d29cfe1a2698aa24c602b56f8aee8cfa800cdf559c8",
+          "sha1": "186ebdcfb2c2addcbf38233a784deaa71de61a18",
+          "md5": "21432f7f007ca69f107d350bf2426e46"
         }
       ]
     },
@@ -96,10 +96,10 @@
           "name": "qqrobot-framework-api-2.0.1-dev-sources.jar",
           "url": "qqrobot-framework-api-2.0.1-dev-sources.jar",
           "size": 4270,
-          "sha512": "2c3d8c58d94f66cda0f556e6ecdfe6ccc50df1415e2861383651390d446ef78b3fa31d76fb2345f458215b3878231952622f32a90e21317e45e201137f283b84",
-          "sha256": "a4bdfaae2b005bf2e462f91665474349d02f5883c8cd193ecb0d1bd89bf84544",
-          "sha1": "5ed647719b7b1ebfb3a9c646e18c1c976a2989df",
-          "md5": "4aaa4f377ff25a98aaae556ce123ced7"
+          "sha512": "ef4448fd9ed31319c3bb8a396eba638728892455650346b9584774a06615653672aefdee5bae1907f351b4159ad06daac0e9ebf2753c25765e36db272c061465",
+          "sha256": "927fa63c86f66b97f40f92223f97a2808e634ce2d2457da3234fbd4a94b71930",
+          "sha1": "d6bc0ab634e9b3dd4a2f67dfe559073ab7eee1e0",
+          "md5": "1d5555c5704435010461ab448e31d977"
         }
       ]
     }
