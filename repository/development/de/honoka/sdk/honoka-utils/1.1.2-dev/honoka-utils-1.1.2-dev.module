@@ -35,7 +35,7 @@
           "group": "org.dom4j",
           "module": "dom4j",
           "version": {
-            "requires": "2.1.3"
+            "requires": "2.1.4"
           }
         },
         {
@@ -58,10 +58,10 @@
           "name": "honoka-utils-1.1.2-dev.jar",
           "url": "honoka-utils-1.1.2-dev.jar",
           "size": 79590,
-          "sha512": "1d47da79b8ad27c116d3070b5b6dd7fd38be1cb761a6946ac3f00f7980bcddaaaf8f9eacbe931a1a35c75dd5ab457ed17fb9bd499a85a75ec47b180190a7ca93",
-          "sha256": "0abf41821749e3a46fcb2f4f43833a351bb0336573ca15ba627c6bfbbdeb4ea0",
-          "sha1": "efbad4ad949b88f72ba323ef153b461e05bb4e20",
-          "md5": "980361d714d2c90e25a0dbdf2edaa886"
+          "sha512": "17f7a98f910c3e6250a5ab0160151f7af75772dd0f5330f560ac8c4ecfdb625b2176a011b155882bf778ddba686b0e47fd898bd789c8759469e63ded974f9145",
+          "sha256": "f7788942463f7bc0dc4e35a4d1bf088648ad4b684c709d5c2dbd9e61b95f4059",
+          "sha1": "615fcb96d3600601e97d56362162dc76030dd8df",
+          "md5": "390258aa457f7d3ce5b118068121d2e1"
         }
       ]
     },
@@ -86,7 +86,7 @@
           "group": "org.dom4j",
           "module": "dom4j",
           "version": {
-            "requires": "2.1.3"
+            "requires": "2.1.4"
           }
         },
         {
@@ -136,10 +136,10 @@
           "name": "honoka-utils-1.1.2-dev.jar",
           "url": "honoka-utils-1.1.2-dev.jar",
           "size": 79590,
-          "sha512": "1d47da79b8ad27c116d3070b5b6dd7fd38be1cb761a6946ac3f00f7980bcddaaaf8f9eacbe931a1a35c75dd5ab457ed17fb9bd499a85a75ec47b180190a7ca93",
-          "sha256": "0abf41821749e3a46fcb2f4f43833a351bb0336573ca15ba627c6bfbbdeb4ea0",
-          "sha1": "efbad4ad949b88f72ba323ef153b461e05bb4e20",
-          "md5": "980361d714d2c90e25a0dbdf2edaa886"
+          "sha512": "17f7a98f910c3e6250a5ab0160151f7af75772dd0f5330f560ac8c4ecfdb625b2176a011b155882bf778ddba686b0e47fd898bd789c8759469e63ded974f9145",
+          "sha256": "f7788942463f7bc0dc4e35a4d1bf088648ad4b684c709d5c2dbd9e61b95f4059",
+          "sha1": "615fcb96d3600601e97d56362162dc76030dd8df",
+          "md5": "390258aa457f7d3ce5b118068121d2e1"
         }
       ]
     },
@@ -156,10 +156,10 @@
           "name": "honoka-utils-1.1.2-dev-sources.jar",
           "url": "honoka-utils-1.1.2-dev-sources.jar",
           "size": 42438,
-          "sha512": "52991c15db3f56853ad590473513b983243f976f51d616dd7cfcd217cb742d4f8cff8eeffea7c336738ef235957cc3d2e135e98ac1e8d0e4dc6a1f509dc9b129",
-          "sha256": "161e52f733d02013781a2d5a22cac1c354f95cd116c3754d0256dc8de7e04a5f",
-          "sha1": "8adb4f519eb5d1750c035816553fd2f3d8f92c53",
-          "md5": "390829838da0d569601b59d2c2c4b2d8"
+          "sha512": "d1e945bf3cb6775c2d11db3a3fa6400d4bba5016bb44e9e274948d20d02b372bf9acaac18ab5b6074da3f9ce02bf51e6f1ef7b9131a9556a17c65809f1bce6f9",
+          "sha256": "231c409ce980dbf9bc70386b93f26896f5b46d85e1301afa3e4e15b7aeacd495",
+          "sha1": "67451bc3a38e60212b7fdd3d0062293ac6b3d661",
+          "md5": "d9e2eacef6f16cf43678a8f0b61ab8c7"
         }
       ]
     }
