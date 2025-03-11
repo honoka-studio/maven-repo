@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-kotlin-utils",
+    "version": "1.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-1.1.1.jar",
+          "url": "honoka-kotlin-utils-1.1.1.jar",
+          "size": 70970,
+          "sha512": "ca33dc98e5160f228773f326917ac66cc8d1b5f80827ce6e3e67c54418c98dc7e65154d5baec7131d74b3393e8541f7ef1bfa1c2ca166f950f859439e99612cb",
+          "sha256": "916e34645046d40acef4c54359d2f1f77898b546c61eddcaa5fb8ed6dac415ee",
+          "sha1": "1e7cf688a96d3725b88630026c5ac8b525e20448",
+          "md5": "f96a03e23d08109769099c54741737da"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-utils",
+          "version": {
+            "requires": "1.1.2"
+          }
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.4.14"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-1.1.1.jar",
+          "url": "honoka-kotlin-utils-1.1.1.jar",
+          "size": 70970,
+          "sha512": "ca33dc98e5160f228773f326917ac66cc8d1b5f80827ce6e3e67c54418c98dc7e65154d5baec7131d74b3393e8541f7ef1bfa1c2ca166f950f859439e99612cb",
+          "sha256": "916e34645046d40acef4c54359d2f1f77898b546c61eddcaa5fb8ed6dac415ee",
+          "sha1": "1e7cf688a96d3725b88630026c5ac8b525e20448",
+          "md5": "f96a03e23d08109769099c54741737da"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-kotlin-utils-1.1.1-sources.jar",
+          "url": "honoka-kotlin-utils-1.1.1-sources.jar",
+          "size": 17429,
+          "sha512": "fcf37428b297b2e779ffd5421579ed9263c4ad61371f695806e8cd1594a96354d70b15a085c88cd1ce3acfa5d9d869a9ecc8528a5ab028723603784f6b56bcb9",
+          "sha256": "b76dab6a23fca8e0156eb20243ffacd5a1a774e4edf7d32d5ea74aa53e9ca009",
+          "sha1": "2988622091219e216d4e1220832337f7208c9c3b",
+          "md5": "66bbef9cc720bc7b3bc65f13f8093f42"
+        }
+      ]
+    }
+  ]
+}
