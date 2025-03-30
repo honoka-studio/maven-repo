@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-spring-boot-starter",
+    "version": "1.0.3-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.1.2-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-spring-boot-starter-1.0.3-dev.jar",
+          "url": "honoka-spring-boot-starter-1.0.3-dev.jar",
+          "size": 64401,
+          "sha512": "e2d7b9bb8ac6d78f9c848a44b7076383bbac5678d3d397522431e65a4cfa37938b3c61d973227d1aaf824c19b318a640e8ef67da9b99dac52b34293b17602c5d",
+          "sha256": "5911c826307e52d2291e0b758b67a33b524cc00f4646093c75822d6e3963f616",
+          "sha1": "0b0e1651a92a6c0c23a2c639657299698f917d7e",
+          "md5": "cebaa4419df39f85bb4226a0baa0f6ae"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "de.honoka.sdk",
+          "module": "honoka-kotlin-utils",
+          "version": {
+            "requires": "1.1.2-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-spring-boot-starter-1.0.3-dev.jar",
+          "url": "honoka-spring-boot-starter-1.0.3-dev.jar",
+          "size": 64401,
+          "sha512": "e2d7b9bb8ac6d78f9c848a44b7076383bbac5678d3d397522431e65a4cfa37938b3c61d973227d1aaf824c19b318a640e8ef67da9b99dac52b34293b17602c5d",
+          "sha256": "5911c826307e52d2291e0b758b67a33b524cc00f4646093c75822d6e3963f616",
+          "sha1": "0b0e1651a92a6c0c23a2c639657299698f917d7e",
+          "md5": "cebaa4419df39f85bb4226a0baa0f6ae"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-spring-boot-starter-1.0.3-dev-sources.jar",
+          "url": "honoka-spring-boot-starter-1.0.3-dev-sources.jar",
+          "size": 19407,
+          "sha512": "bcf0e803469aed381456fefe6d8bad351d5236a1b82bcabbcd69b3240a263f3ada77ea6c47f8a237c89f65743ead62349234c126a53a61c99b1eaa19fcac96cc",
+          "sha256": "abee15dd176e5a2b26779c7c3747829dab786ca2023e15a6f781f74247893e1f",
+          "sha1": "851ab41cd5740e25508102f805aff8da6022a9cb",
+          "md5": "fa802e9da79be74a3b251c9cceb53de0"
+        }
+      ]
+    }
+  ]
+}

@@ -3,13 +3,14 @@
   <groupId>de.honoka.sdk</groupId>
   <artifactId>honoka-spring-boot-starter</artifactId>
   <versioning>
-    <latest>1.0.2-dev</latest>
-    <release>1.0.2-dev</release>
+    <latest>1.0.3-dev</latest>
+    <release>1.0.3-dev</release>
     <versions>
       <version>1.0.1-dev</version>
       <version>1.0.0-dev</version>
       <version>1.0.2-dev</version>
+      <version>1.0.3-dev</version>
     </versions>
-    <lastUpdated>20250212125730</lastUpdated>
+    <lastUpdated>20250330220304</lastUpdated>
   </versioning>
 </metadata>
