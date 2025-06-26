@@ -29,11 +29,11 @@
         {
           "name": "honoka-gradle-utils-1.0.0-dev.jar",
           "url": "honoka-gradle-utils-1.0.0-dev.jar",
-          "size": 15856,
-          "sha512": "77b851704e595e92bb98d44e2c3df32b1e8596600eb219342048dfa8371fb31ef6413b3c7b7044dec101c6a47d07e94310c05633ccedfc81b99cb7835db82bc3",
-          "sha256": "8c2c3b1e93552089511e0ea80ecb72a96188eb3acf0b229a9eee8a226ed2ea48",
-          "sha1": "d73a18be0dbaaab1355f29b1c4080f6aed75e561",
-          "md5": "352c4c636483733d9f269fd962c4b002"
+          "size": 21839,
+          "sha512": "16ce85d0b90b86883830841121d99b181923684b67ff2e1b96f76d74ff223139c4eb70bcec75929158927d080a659922f0a721d22b2607e5f78c1c13672d2466",
+          "sha256": "fbe386ef256f57b6ffc0e3ecec58cf982f38375c4369977fa2b2bbce29fb6b74",
+          "sha1": "320789ff68b6c76e1d2d152850a71b67e0bf05e1",
+          "md5": "dae9a6026c4551e888a6af875098870d"
         }
       ]
     },
@@ -52,11 +52,11 @@
         {
           "name": "honoka-gradle-utils-1.0.0-dev.jar",
           "url": "honoka-gradle-utils-1.0.0-dev.jar",
-          "size": 15856,
-          "sha512": "77b851704e595e92bb98d44e2c3df32b1e8596600eb219342048dfa8371fb31ef6413b3c7b7044dec101c6a47d07e94310c05633ccedfc81b99cb7835db82bc3",
-          "sha256": "8c2c3b1e93552089511e0ea80ecb72a96188eb3acf0b229a9eee8a226ed2ea48",
-          "sha1": "d73a18be0dbaaab1355f29b1c4080f6aed75e561",
-          "md5": "352c4c636483733d9f269fd962c4b002"
+          "size": 21839,
+          "sha512": "16ce85d0b90b86883830841121d99b181923684b67ff2e1b96f76d74ff223139c4eb70bcec75929158927d080a659922f0a721d22b2607e5f78c1c13672d2466",
+          "sha256": "fbe386ef256f57b6ffc0e3ecec58cf982f38375c4369977fa2b2bbce29fb6b74",
+          "sha1": "320789ff68b6c76e1d2d152850a71b67e0bf05e1",
+          "md5": "dae9a6026c4551e888a6af875098870d"
         }
       ]
     },
@@ -72,11 +72,11 @@
         {
           "name": "honoka-gradle-utils-1.0.0-dev-sources.jar",
           "url": "honoka-gradle-utils-1.0.0-dev-sources.jar",
-          "size": 3850,
-          "sha512": "e31c2a2c752f404ca1c6337694cf60c1a21aba07c6f8dd739a18296930a9a6d0577bf57debe0e775c7e6c122bdc555e6a0aeb219f9050b0017f87c91c6fa0039",
-          "sha256": "d2f380a2da7eab981d58340847ea480fc48e36f368c752ec743af33a8fd396cd",
-          "sha1": "d32c463fc6b10eee9fcf40a7560f84e8d9d33bbf",
-          "md5": "6f8026489a6ea3f623e7bc2826e11da7"
+          "size": 4304,
+          "sha512": "4dbcabf3d77f68908503083759514415f2d1158c2c9cbb3c76ec1d127202e97269cac24f17edb129de71559af6b0acf3a5749598e77fccc9eb29fee55cebcb98",
+          "sha256": "d6149cb44197c729986c878419dbbbe88782f5bb0d14ac5d6f719cff1eb71417",
+          "sha1": "b2645b63a9840b80b11e3e8c0ead3f6295ec24d9",
+          "md5": "11b2e945de99c3c39e4fe0b7f99da872"
         }
       ]
     }
