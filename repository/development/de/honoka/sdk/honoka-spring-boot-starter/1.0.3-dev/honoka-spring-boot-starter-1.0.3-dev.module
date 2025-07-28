@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -39,10 +39,10 @@
           "name": "honoka-spring-boot-starter-1.0.3-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.3-dev.jar",
           "size": 64727,
-          "sha512": "dcc7e8e1d8a7d69fe0b671c4c8f2a97c08bfd4dc51be1e6c578a75a50c350b6678264b7490bc270be1f37e52020b913949a561e6703eaa3a072b49d08dd1a117",
-          "sha256": "f3f2dd696207d8f63ffcacf76f8d3bdc52637b32c0ae84a91e416ef1764f09b4",
-          "sha1": "8a6b7badfc89bceedb51858dfbff8200763c526b",
-          "md5": "23bea8b9c05180afbadb06cc94863de4"
+          "sha512": "194b83221c5e342dfd335c4431e9db29cb8bc305f839b051224f226a231b154e8e510895d2e72e64eaf19616f33dabd2f213f547a53af9e2a9c899ea36f295d9",
+          "sha256": "580b45e827c42ad9c610ad1237e794cf399a9f2d77435e808f701808a9ca79e2",
+          "sha1": "42b7c8fd3a4ca35dbad049f124c41edbc252abb1",
+          "md5": "b8ef67d144f5b6a36129425b1708c95f"
         }
       ]
     },
@@ -92,10 +92,10 @@
           "name": "honoka-spring-boot-starter-1.0.3-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.3-dev.jar",
           "size": 64727,
-          "sha512": "dcc7e8e1d8a7d69fe0b671c4c8f2a97c08bfd4dc51be1e6c578a75a50c350b6678264b7490bc270be1f37e52020b913949a561e6703eaa3a072b49d08dd1a117",
-          "sha256": "f3f2dd696207d8f63ffcacf76f8d3bdc52637b32c0ae84a91e416ef1764f09b4",
-          "sha1": "8a6b7badfc89bceedb51858dfbff8200763c526b",
-          "md5": "23bea8b9c05180afbadb06cc94863de4"
+          "sha512": "194b83221c5e342dfd335c4431e9db29cb8bc305f839b051224f226a231b154e8e510895d2e72e64eaf19616f33dabd2f213f547a53af9e2a9c899ea36f295d9",
+          "sha256": "580b45e827c42ad9c610ad1237e794cf399a9f2d77435e808f701808a9ca79e2",
+          "sha1": "42b7c8fd3a4ca35dbad049f124c41edbc252abb1",
+          "md5": "b8ef67d144f5b6a36129425b1708c95f"
         }
       ]
     },
@@ -112,10 +112,10 @@
           "name": "honoka-spring-boot-starter-1.0.3-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.0.3-dev-sources.jar",
           "size": 19437,
-          "sha512": "79f9656c4a782425998212338dcc7bcd01819d7d8ceedda6cc4b77b1c85325cd304524287da9513066aed8b5fdb8226aa712ada352d422b2091bacce3f1cc1c3",
-          "sha256": "f74fa492ce399e9f58843a1aa9f31cb839c597cab13f27c882981926da16f6c5",
-          "sha1": "4da2c05119ee662bd149985b904d9063324f1d85",
-          "md5": "fec7a965e5fa7e26cd7e65525f014bdd"
+          "sha512": "6cc64eb48394e14d8608642230779d6970c42a8df6bbd5e1ea17df19e5dd3be036cbca5bc49241c4d3f85e392101714924697ecd85fac65c8e3db54c1d9cdd84",
+          "sha256": "56ba9096c45fe93033e412dba53820e864085a51f7c5bf2fb971e5d82796bce9",
+          "sha1": "25da9e662e152fbed14227c27e5dc9fee15e89ca",
+          "md5": "e20cab2c1ec796504f1ff6414c4630e7"
         }
       ]
     }

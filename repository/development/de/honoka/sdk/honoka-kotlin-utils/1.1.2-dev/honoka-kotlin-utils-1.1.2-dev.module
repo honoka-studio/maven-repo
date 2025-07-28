@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "8.13"
     }
   },
   "variants": [
@@ -39,10 +39,10 @@
           "name": "honoka-kotlin-utils-1.1.2-dev.jar",
           "url": "honoka-kotlin-utils-1.1.2-dev.jar",
           "size": 71269,
-          "sha512": "b35642929888827ea64eaa27a38866485097bfcbcd870249f9c05747c3a89f573aa958742b8cb0bce238550fba12a0e8826627729de493290243c0b92eaefbcd",
-          "sha256": "1b98d5a72b50e0ad6fe19d3e9e1e8d1ced667d6f9b7e5f3d4440367974e52051",
-          "sha1": "21b37c5e0dfbc90ed765f6e0af0dbab1a400e064",
-          "md5": "485b3511c312b7d90a65613e6054de5d"
+          "sha512": "24618fe92fd286ce8c0221bd255df67aec17cbd4ac8e7cdf6332476d7fe85a1c4448ab3ea507ba1d0f93eb3d53bdd56188159dc0a79fd71f654b13c165e8fea7",
+          "sha256": "bacc1f7ff815ce3c8843d274199bb4174b95ee2e1ebd4fc69ab7ebd6f595c200",
+          "sha1": "addd0c7935b68b0dda167c46448cf686694ca771",
+          "md5": "24221f5f94179f7b5486cb9924f36b85"
         }
       ]
     },
@@ -99,10 +99,10 @@
           "name": "honoka-kotlin-utils-1.1.2-dev.jar",
           "url": "honoka-kotlin-utils-1.1.2-dev.jar",
           "size": 71269,
-          "sha512": "b35642929888827ea64eaa27a38866485097bfcbcd870249f9c05747c3a89f573aa958742b8cb0bce238550fba12a0e8826627729de493290243c0b92eaefbcd",
-          "sha256": "1b98d5a72b50e0ad6fe19d3e9e1e8d1ced667d6f9b7e5f3d4440367974e52051",
-          "sha1": "21b37c5e0dfbc90ed765f6e0af0dbab1a400e064",
-          "md5": "485b3511c312b7d90a65613e6054de5d"
+          "sha512": "24618fe92fd286ce8c0221bd255df67aec17cbd4ac8e7cdf6332476d7fe85a1c4448ab3ea507ba1d0f93eb3d53bdd56188159dc0a79fd71f654b13c165e8fea7",
+          "sha256": "bacc1f7ff815ce3c8843d274199bb4174b95ee2e1ebd4fc69ab7ebd6f595c200",
+          "sha1": "addd0c7935b68b0dda167c46448cf686694ca771",
+          "md5": "24221f5f94179f7b5486cb9924f36b85"
         }
       ]
     },
@@ -119,10 +119,10 @@
           "name": "honoka-kotlin-utils-1.1.2-dev-sources.jar",
           "url": "honoka-kotlin-utils-1.1.2-dev-sources.jar",
           "size": 17154,
-          "sha512": "ebc80da298e77d6a9e96e764b5ba165c76c346740d1d933e1b65a3f1c68df8d8420c6172ebee1ef89d3a1fdbf8915ac73342ebfa5d9eaa602933a118ac1203c8",
-          "sha256": "f229ad186a8ea49f4da707bc6b7f5da4a058f86af824816df1ce63c3ecfcccf3",
-          "sha1": "84ddc441d86a1e5d4621144b2d7add5272c59001",
-          "md5": "39f14dd6f73a0e139dd988e6d5597ec7"
+          "sha512": "7c7873677b3fc9160c41d5c803caef447f68b6945912089877401cbb575f8e3430bd018118ed484d115ab8ea4db7c868556507059cb2396a1563944917683cc0",
+          "sha256": "ded937778b286bf06e17b28eedc735c7eb44beabd8793e8cd22268dd257c9541",
+          "sha1": "dd19378bb4fce1aab73f0e93fce76d8579b3a0f2",
+          "md5": "3db9b1a8bf1a0afb2fe883c64a6da2d0"
         }
       ]
     }
