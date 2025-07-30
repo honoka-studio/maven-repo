@@ -3,12 +3,13 @@
   <groupId>de.honoka.gradle.plugin</groupId>
   <artifactId>honoka-basic-plugin</artifactId>
   <versioning>
-    <latest>1.0.1-dev</latest>
-    <release>1.0.1-dev</release>
+    <latest>1.0.2-dev</latest>
+    <release>1.0.2-dev</release>
     <versions>
       <version>1.0.0-dev</version>
       <version>1.0.1-dev</version>
+      <version>1.0.2-dev</version>
     </versions>
-    <lastUpdated>20250729130756</lastUpdated>
+    <lastUpdated>20250730064329</lastUpdated>
   </versioning>
 </metadata>
