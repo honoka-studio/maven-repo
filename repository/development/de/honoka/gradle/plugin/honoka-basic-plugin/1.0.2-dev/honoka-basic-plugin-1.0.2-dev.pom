@@ -14,7 +14,7 @@
       <groupId>de.honoka.gradle</groupId>
       <artifactId>honoka-gradle-utils</artifactId>
       <version>1.0.2-dev</version>
-      <scope>runtime</scope>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
 </project>
