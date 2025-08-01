@@ -29,11 +29,11 @@
         {
           "name": "honoka-android-plugin-1.0.0-dev.jar",
           "url": "honoka-android-plugin-1.0.0-dev.jar",
-          "size": 24116,
-          "sha512": "dd958a910a516510513824b42c27ec487d999c2d8e5c3849b9760cecb8ecd6c73954d13d6eb6023a2de7463eff0fd3b46dc9411fb4b06ff595b28e2b92274d84",
-          "sha256": "d218e01fd67638e8177854077629d73a4e269f6f1b703cde572df35b49aa99d0",
-          "sha1": "6cea55e54788368d2945c06abeee6d689e25f88a",
-          "md5": "481357a007bf35b5ffb401227ab8587d"
+          "size": 28019,
+          "sha512": "fcc7fc03a6b1befcdc367817cdcbda71c22c52899b558fd966ca9cfbad74813d225c323729feb2280b3a01c0598b78886cf58759e2b7c5c32e79c898b8987561",
+          "sha256": "aead59956841718618c9e48f4376fb9a32057838b6fa322afaa3337e4ef2d660",
+          "sha1": "2474699ec448a5c5cf8d024fb9a1d3919a110646",
+          "md5": "3fddf7322b45b81e9968c301f5738229"
         }
       ]
     },
@@ -61,11 +61,11 @@
         {
           "name": "honoka-android-plugin-1.0.0-dev.jar",
           "url": "honoka-android-plugin-1.0.0-dev.jar",
-          "size": 24116,
-          "sha512": "dd958a910a516510513824b42c27ec487d999c2d8e5c3849b9760cecb8ecd6c73954d13d6eb6023a2de7463eff0fd3b46dc9411fb4b06ff595b28e2b92274d84",
-          "sha256": "d218e01fd67638e8177854077629d73a4e269f6f1b703cde572df35b49aa99d0",
-          "sha1": "6cea55e54788368d2945c06abeee6d689e25f88a",
-          "md5": "481357a007bf35b5ffb401227ab8587d"
+          "size": 28019,
+          "sha512": "fcc7fc03a6b1befcdc367817cdcbda71c22c52899b558fd966ca9cfbad74813d225c323729feb2280b3a01c0598b78886cf58759e2b7c5c32e79c898b8987561",
+          "sha256": "aead59956841718618c9e48f4376fb9a32057838b6fa322afaa3337e4ef2d660",
+          "sha1": "2474699ec448a5c5cf8d024fb9a1d3919a110646",
+          "md5": "3fddf7322b45b81e9968c301f5738229"
         }
       ]
     },
@@ -81,11 +81,11 @@
         {
           "name": "honoka-android-plugin-1.0.0-dev-sources.jar",
           "url": "honoka-android-plugin-1.0.0-dev-sources.jar",
-          "size": 3303,
-          "sha512": "663893b7dfa7f5360f73d39477ca33ce40d5d1faf157ba6b2baafdd2b3981e0c12d2843e88d21c7c7ef14a5163826d44cf336c44342c7adbdd8f04e6971a0629",
-          "sha256": "a932f019ade44c79d16e87418799358918c8220fed5e4591551cc81f4488c4d3",
-          "sha1": "5f443aeb1d22af57f5893349d9bc367e7b152f2c",
-          "md5": "fd6bd967409b8784c4162f8649a02017"
+          "size": 3933,
+          "sha512": "90004c338795744506d4a74e02e8b8c277bcdd74631e53c3bd58527ff5682ce337530f18cce400647f8256d66c17a9d4186a4a09dce1a0cdcccbcbe9501c8541",
+          "sha256": "934f1ed9864dada5044ac6656c8ceae01a34f1d3235a1d11840531d33150ab7b",
+          "sha1": "c70ef86458b6f5181d932312e82e097674e0f95b",
+          "md5": "cf586558e538fdf8ff3f6f6b28bf9ade"
         }
       ]
     }
