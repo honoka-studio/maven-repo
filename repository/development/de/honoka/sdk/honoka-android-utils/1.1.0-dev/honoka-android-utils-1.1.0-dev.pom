@@ -6,19 +6,21 @@
   <version>1.1.0-dev</version>
   <packaging>aar</packaging>
   <dependencyManagement>
-    <dependencies/>
+    <dependencies>
+      <dependency>
+        <groupId>org.jetbrains.kotlin</groupId>
+        <artifactId>kotlin-bom</artifactId>
+        <version>1.8.10</version>
+        <scope>import</scope>
+        <type>pom</type>
+      </dependency>
+    </dependencies>
   </dependencyManagement>
   <dependencies>
     <dependency>
       <artifactId>appcompat</artifactId>
       <version>1.5.1</version>
       <groupId>androidx.appcompat</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>kotlinx-coroutines-android</artifactId>
-      <version>1.6.1</version>
-      <groupId>org.jetbrains.kotlinx</groupId>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -72,8 +74,21 @@
     </dependency>
     <dependency>
       <artifactId>kotlin-stdlib-jdk8</artifactId>
-      <version>1.8.0</version>
+      <version>1.8.10</version>
       <groupId>org.jetbrains.kotlin</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>kotlin-reflect</artifactId>
+      <version>1.8.10</version>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>kotlinx-coroutines-android</artifactId>
+      <version>1.6.4</version>
+      <groupId>org.jetbrains.kotlinx</groupId>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
