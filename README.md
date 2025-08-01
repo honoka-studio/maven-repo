@@ -1,11 +1,11 @@
 # Honoka Maven Repository
-[![License](https://img.shields.io/github/license/kosaka-bun/maven-repo?label=License&color=blue&logo=Github)](./LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/kosaka-bun/maven-repo?label=Stars&logo=GitHub&style=flat)
+[![License](https://img.shields.io/github/license/honoka-studio/maven-repo?label=License&color=blue&logo=Github)](https://github.com/honoka-studio/maven-repo/blob/master/LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/honoka-studio/maven-repo?label=Stars&logo=GitHub&style=flat)
 
 ## 简介
 本仓库主要用于存储由[Kosaka Bun](https://github.com/kosaka-bun)所开发的几款Java与Kotlin类库与框架，亦用于存储某些在Maven中心仓库中不存在的依赖库。
 
-请参阅：[Maven示例](./example/maven)&emsp;[Gradle示例](./example/gradle)
+请参阅：[Maven示例](https://github.com/honoka-studio/maven-repo/tree/master/example/maven)&emsp;[Gradle示例](https://github.com/honoka-studio/maven-repo/tree/master/example/gradle)
 
 其包含：
 
@@ -16,15 +16,6 @@
 
 ## 使用
 ### Maven
-```xml
-<repositories>
-    <repository>
-        <id>honoka-maven-repo</id>
-        <url>https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository/release</url>
-    </repository>
-</repositories>
-```
-或
 ```xml
 <repositories>
     <repository>
@@ -40,28 +31,12 @@
 repositories {
     mavenCentral()
     maven {
-        url 'https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository/release'
-    }
-}
-```
-或
-```groovy
-repositories {
-    mavenCentral()
-    maven {
         url 'https://mirrors.honoka.de/maven-repo/release'
     }
 }
 ```
 
 #### Kotlin DSL
-```kotlin
-repositories {
-    mavenCentral()
-    maven("https://raw.githubusercontent.com/kosaka-bun/maven-repo/master/repository/release")
-}
-```
-或
 ```kotlin
 repositories {
     mavenCentral()
