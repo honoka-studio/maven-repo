@@ -25,12 +25,7 @@
     </dependency>
     <dependency>
       <artifactId>honoka-kotlin-utils</artifactId>
-      <version>1.0.1-dev</version>
-      <groupId>de.honoka.sdk</groupId>
-    </dependency>
-    <dependency>
-      <artifactId>honoka-framework-utils</artifactId>
-      <version>1.0.4</version>
+      <version>1.1.2-dev</version>
       <groupId>de.honoka.sdk</groupId>
     </dependency>
     <dependency>
@@ -64,12 +59,6 @@
       <artifactId>ktor-server-cors</artifactId>
       <version>2.2.3</version>
       <groupId>io.ktor</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>nanohttpd</artifactId>
-      <version>2.3.1</version>
-      <groupId>org.nanohttpd</groupId>
       <scope>runtime</scope>
     </dependency>
     <dependency>
