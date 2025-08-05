@@ -1,0 +1,44 @@
+{
+	"name": "@honoka/js-utils",
+	"versions": {
+		"1.0.0-dev": {
+			"name": "@honoka/js-utils",
+			"version": "1.0.0-dev",
+			"type": "module",
+			"license": "Apache-2.0",
+			"scripts": {
+				"check-versions": "node ./test/check-versions.js"
+			},
+			"_id": "@honoka/js-utils@1.0.0-dev",
+			"gitHead": "a9b1106110774393661c04490bc6e4c710e67bcb",
+			"_nodeVersion": "22.17.1",
+			"_npmVersion": "10.9.2",
+			"dist": {
+				"integrity": "sha512-PNUPhljmV1CjpqHv+agl1rtWadIyRU1FTmrYkFFaFCT1i0v40EJkHAI/rNlm3Onzt4xdv7WDmwCd0muw6xr/sg==",
+				"shasum": "299a74adea3902f8d36bcffab764a6c216aa84e7",
+				"tarball": "http://localhost:4873/@honoka/js-utils/-/@honoka/js-utils-1.0.0-dev.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2025-08-05T13:06:10.523Z",
+		"created": "2025-08-05T13:06:10.523Z",
+		"1.0.0-dev": "2025-08-05T13:06:10.523Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.0-dev"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"js-utils-1.0.0-dev.tgz": {
+			"shasum": "299a74adea3902f8d36bcffab764a6c216aa84e7",
+			"version": "1.0.0-dev"
+		}
+	},
+	"_rev": "3-cb95c2743e429720",
+	"_id": "@honoka/js-utils",
+	"readme": "ERROR: No README data found!"
+}
