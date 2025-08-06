@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.13"
+      "version": "9.0.0"
     }
   },
   "variants": [
@@ -38,11 +38,11 @@
         {
           "name": "honoka-kotlin-utils-1.1.2-dev.jar",
           "url": "honoka-kotlin-utils-1.1.2-dev.jar",
-          "size": 71858,
-          "sha512": "cbe7fca98f0b7072f8cc6d652c036daf0d7dc73aed4a9cc655f5febbb59bc738d3debbf456897fd4575d45a645f4b258649cc88b33cfd062c5291aac9d6fbca2",
-          "sha256": "83ad5f8ee455ed099743b3dc281e5d6f72b320507ebf8e252edebaea30f7882c",
-          "sha1": "f25acf9226145c94a31e3dbf59bdb9bb37f0d753",
-          "md5": "0bf4e1093b04e99b8ccec304f2a7bb93"
+          "size": 65642,
+          "sha512": "bd15783b5fd9f811efe32f0b3957f7e4c639d1107ea9a58893d9c74a36a2fce01b02dacea629ffb67633b3340a3a078c058c6a942e0adc00ab9ae4900c048069",
+          "sha256": "f87b9c21a7cc7e2e0f09def8bd31b4358f56fbe78c50a2c6d308df29a607ac32",
+          "sha1": "f10cbaafe5e456c9bcd6c06f98c4de106b07a638",
+          "md5": "2ce9bdd772da92c31e0bc77e18f62d5c"
         }
       ]
     },
@@ -60,23 +60,43 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-bom",
           "version": {
-            "requires": "1.8.10"
-          }
-        },
-        {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-reflect",
-          "version": {
-            "requires": "1.8.10"
-          }
+            "requires": "2.2.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
         },
         {
           "group": "org.jetbrains.kotlinx",
-          "module": "kotlinx-coroutines-core",
+          "module": "kotlinx-coroutines-bom",
           "version": {
-            "requires": "1.6.4"
+            "requires": "1.10.2"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8"
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect"
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core"
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.4.14"
           }
         },
         {
@@ -85,12 +105,21 @@
           "version": {
             "requires": "1.1.3-dev"
           }
+        }
+      ],
+      "dependencyConstraints": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "2.2.0"
+          }
         },
         {
-          "group": "ch.qos.logback",
-          "module": "logback-classic",
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
           "version": {
-            "requires": "1.4.14"
+            "requires": "2.2.0"
           }
         }
       ],
@@ -98,11 +127,11 @@
         {
           "name": "honoka-kotlin-utils-1.1.2-dev.jar",
           "url": "honoka-kotlin-utils-1.1.2-dev.jar",
-          "size": 71858,
-          "sha512": "cbe7fca98f0b7072f8cc6d652c036daf0d7dc73aed4a9cc655f5febbb59bc738d3debbf456897fd4575d45a645f4b258649cc88b33cfd062c5291aac9d6fbca2",
-          "sha256": "83ad5f8ee455ed099743b3dc281e5d6f72b320507ebf8e252edebaea30f7882c",
-          "sha1": "f25acf9226145c94a31e3dbf59bdb9bb37f0d753",
-          "md5": "0bf4e1093b04e99b8ccec304f2a7bb93"
+          "size": 65642,
+          "sha512": "bd15783b5fd9f811efe32f0b3957f7e4c639d1107ea9a58893d9c74a36a2fce01b02dacea629ffb67633b3340a3a078c058c6a942e0adc00ab9ae4900c048069",
+          "sha256": "f87b9c21a7cc7e2e0f09def8bd31b4358f56fbe78c50a2c6d308df29a607ac32",
+          "sha1": "f10cbaafe5e456c9bcd6c06f98c4de106b07a638",
+          "md5": "2ce9bdd772da92c31e0bc77e18f62d5c"
         }
       ]
     },
@@ -119,10 +148,19 @@
           "name": "honoka-kotlin-utils-1.1.2-dev-sources.jar",
           "url": "honoka-kotlin-utils-1.1.2-dev-sources.jar",
           "size": 17460,
-          "sha512": "e0b5d8ce1fe357a84f36d52e9e9d6182e954f20982222991036e2fa97780dae6535394d1cf818e31154df668fc697a69ba2657588683bf9c08d9c3f81324dcbf",
-          "sha256": "36b50e5e6295b3c62f4d46d26bdf29a7cde351d7b2023aeb43e825cb32f94efb",
-          "sha1": "42cb9223bcccbe9c3aae13c23c2d2dc0b07fb7ae",
-          "md5": "4d2d4af59f8c5f6d7ff79cf7661955af"
+          "sha512": "4c5dd36b140fb412d616cc48cfa16349db4ee7c39dfb92468c979ae8229e2ef805acc095bff7ade0d8e387e4ee0c92963ae5e3118e8d47db99ba23729c78e461",
+          "sha256": "0cccc0c06a7c9907a1badabfd87d2b1a6fcfffb060216eacc17d39d0f1e1ebc5",
+          "sha1": "9f4022c3d9258ed2caae4059e5025d94edddc46e",
+          "md5": "9c199ff3e2275633002cb610a5193f72"
+        },
+        {
+          "name": "honoka-kotlin-utils-1.1.2-dev-sources.jar",
+          "url": "honoka-kotlin-utils-1.1.2-dev-sources.jar",
+          "size": 17460,
+          "sha512": "4c5dd36b140fb412d616cc48cfa16349db4ee7c39dfb92468c979ae8229e2ef805acc095bff7ade0d8e387e4ee0c92963ae5e3118e8d47db99ba23729c78e461",
+          "sha256": "0cccc0c06a7c9907a1badabfd87d2b1a6fcfffb060216eacc17d39d0f1e1ebc5",
+          "sha1": "9f4022c3d9258ed2caae4059e5025d94edddc46e",
+          "md5": "9c199ff3e2275633002cb610a5193f72"
         }
       ]
     }
