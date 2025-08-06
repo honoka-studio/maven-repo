@@ -29,11 +29,11 @@
         {
           "name": "honoka-android-plugin-1.0.0-dev.jar",
           "url": "honoka-android-plugin-1.0.0-dev.jar",
-          "size": 21361,
-          "sha512": "84bc60223aa49927fc89f4bfc4ae2891ede97ded92efe27d486c0b2b5926e9349867091f7408db6dfbe188129db7c5bace20852422d45bb514c3ae463666a697",
-          "sha256": "4283a11aca0aae99171af2691982c1d0cb10446b2ebc88ab1948daac081f4fb1",
-          "sha1": "6b5c8280d127acb09511c069cc74ea3938ae0b41",
-          "md5": "77ed4c357adabbbd420a1339b96d0851"
+          "size": 21346,
+          "sha512": "2684af3539f12c94086b327c4e9fbcf0f3e6c0986323a0e2029e7b9d79b9e9de0fefd17e96c97900ed6a3eac43967b2e489429d0b96c81f6002841af187034d3",
+          "sha256": "0204a1d406f9bc51d78dfe5982aa195187ebc6129d1364be6e31f9199642b82e",
+          "sha1": "9b90afde77b29bc8b6400ce7d192baeaa1c51bd8",
+          "md5": "00edc02d9f59986666df408fef42d38c"
         }
       ]
     },
@@ -61,11 +61,11 @@
         {
           "name": "honoka-android-plugin-1.0.0-dev.jar",
           "url": "honoka-android-plugin-1.0.0-dev.jar",
-          "size": 21361,
-          "sha512": "84bc60223aa49927fc89f4bfc4ae2891ede97ded92efe27d486c0b2b5926e9349867091f7408db6dfbe188129db7c5bace20852422d45bb514c3ae463666a697",
-          "sha256": "4283a11aca0aae99171af2691982c1d0cb10446b2ebc88ab1948daac081f4fb1",
-          "sha1": "6b5c8280d127acb09511c069cc74ea3938ae0b41",
-          "md5": "77ed4c357adabbbd420a1339b96d0851"
+          "size": 21346,
+          "sha512": "2684af3539f12c94086b327c4e9fbcf0f3e6c0986323a0e2029e7b9d79b9e9de0fefd17e96c97900ed6a3eac43967b2e489429d0b96c81f6002841af187034d3",
+          "sha256": "0204a1d406f9bc51d78dfe5982aa195187ebc6129d1364be6e31f9199642b82e",
+          "sha1": "9b90afde77b29bc8b6400ce7d192baeaa1c51bd8",
+          "md5": "00edc02d9f59986666df408fef42d38c"
         }
       ]
     },
