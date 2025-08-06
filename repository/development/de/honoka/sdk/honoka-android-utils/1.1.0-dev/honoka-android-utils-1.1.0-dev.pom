@@ -5,22 +5,65 @@
   <artifactId>honoka-android-utils</artifactId>
   <version>1.1.0-dev</version>
   <packaging>aar</packaging>
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.jetbrains.kotlin</groupId>
-        <artifactId>kotlin-bom</artifactId>
-        <version>1.8.10</version>
-        <scope>import</scope>
-        <type>pom</type>
-      </dependency>
-    </dependencies>
-  </dependencyManagement>
   <dependencies>
     <dependency>
       <artifactId>appcompat</artifactId>
-      <version>1.5.1</version>
+      <version>1.7.1</version>
       <groupId>androidx.appcompat</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>ktor-server-netty</artifactId>
+      <version>3.2.2</version>
+      <groupId>io.ktor</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>ktor-server-status-pages</artifactId>
+      <version>3.2.2</version>
+      <groupId>io.ktor</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>ktor-server-cors</artifactId>
+      <version>3.2.2</version>
+      <groupId>io.ktor</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>kotlin-bom</artifactId>
+      <version>2.2.0</version>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>kotlinx-coroutines-bom</artifactId>
+      <version>1.10.2</version>
+      <groupId>org.jetbrains.kotlinx</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>honoka-kotlin-utils</artifactId>
+      <version>1.1.2-dev</version>
+      <groupId>de.honoka.sdk</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>hutool-all</artifactId>
+      <version>5.8.39</version>
+      <groupId>cn.hutool</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>ormlite-android</artifactId>
+      <version>5.1</version>
+      <groupId>com.j256.ormlite</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>ktor-server-core</artifactId>
+      <version>3.2.2</version>
+      <groupId>io.ktor</groupId>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -30,7 +73,7 @@
     </dependency>
     <dependency>
       <artifactId>hutool-all</artifactId>
-      <version>5.8.18</version>
+      <version>5.8.39</version>
       <groupId>cn.hutool</groupId>
     </dependency>
     <dependency>
@@ -40,44 +83,8 @@
     </dependency>
     <dependency>
       <artifactId>ktor-server-core</artifactId>
-      <version>2.2.3</version>
+      <version>3.2.2</version>
       <groupId>io.ktor</groupId>
-    </dependency>
-    <dependency>
-      <artifactId>ktor-server-netty</artifactId>
-      <version>2.2.3</version>
-      <groupId>io.ktor</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>ktor-server-status-pages</artifactId>
-      <version>2.2.3</version>
-      <groupId>io.ktor</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>ktor-server-cors</artifactId>
-      <version>2.2.3</version>
-      <groupId>io.ktor</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>kotlin-stdlib-jdk8</artifactId>
-      <version>1.8.10</version>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>kotlin-reflect</artifactId>
-      <version>1.8.10</version>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>kotlinx-coroutines-android</artifactId>
-      <version>1.6.4</version>
-      <groupId>org.jetbrains.kotlinx</groupId>
-      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
