@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.13"
+      "version": "9.0.0"
     }
   },
   "variants": [
@@ -45,11 +45,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 151322,
-          "sha512": "1a19bc209d055085d02fac9e173fea46057a8df736e935884a052a7c6539768fa60ce8076956d2a4c483ce288b604a0bd43f599f01afb1f8e5218716f5e006ee",
-          "sha256": "44ad29c687cda51fdb180cd0c6f35991b13bd9a40114974f5661a90962ea1c2f",
-          "sha1": "9ef7d06c323d591286d08912bec3805a67ed70a8",
-          "md5": "f3b60d42d4a31a2d08a56b391f1f4917"
+          "size": 148215,
+          "sha512": "a12677893c1caaf04ccb899def24030131b1dcd0d5a1b4091322cada25032377558ad8454c6508b31d55c2e462e54fb2486a33e9d7f87a72dd5494eeadc81254",
+          "sha256": "d2a1181d863f9342b26a7057aa5de5c0a835e6291ed7328d7d3c4911638fe11e",
+          "sha1": "4457662c26e3c9da1c17be4090b569deca43ca6e",
+          "md5": "42918952e7ab134e736763d78517ef7b"
         }
       ]
     },
@@ -69,21 +69,21 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.8.10"
+            "requires": "2.2.0"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "1.8.10"
+            "requires": "2.2.0"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
-            "requires": "1.6.4"
+            "requires": "1.10.2"
           }
         },
         {
@@ -139,11 +139,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev.jar",
-          "size": 151322,
-          "sha512": "1a19bc209d055085d02fac9e173fea46057a8df736e935884a052a7c6539768fa60ce8076956d2a4c483ce288b604a0bd43f599f01afb1f8e5218716f5e006ee",
-          "sha256": "44ad29c687cda51fdb180cd0c6f35991b13bd9a40114974f5661a90962ea1c2f",
-          "sha1": "9ef7d06c323d591286d08912bec3805a67ed70a8",
-          "md5": "f3b60d42d4a31a2d08a56b391f1f4917"
+          "size": 148215,
+          "sha512": "a12677893c1caaf04ccb899def24030131b1dcd0d5a1b4091322cada25032377558ad8454c6508b31d55c2e462e54fb2486a33e9d7f87a72dd5494eeadc81254",
+          "sha256": "d2a1181d863f9342b26a7057aa5de5c0a835e6291ed7328d7d3c4911638fe11e",
+          "sha1": "4457662c26e3c9da1c17be4090b569deca43ca6e",
+          "md5": "42918952e7ab134e736763d78517ef7b"
         }
       ]
     },
@@ -159,11 +159,11 @@
         {
           "name": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
           "url": "qqrobot-spring-boot-starter-2.0.1-dev-sources.jar",
-          "size": 53924,
-          "sha512": "1d525ce4ee13c057e2d8d559dd2b23c9ad7cc15c561a2466912f5b87b030516a1a65b8c6a8a7cdaad2f4b63b36d1729f58ca6e5d125bd349917a229174890f74",
-          "sha256": "da3b15eec631624284f0de1e3f54513db663811f76d2cd3f4d529d806f0b2f9c",
-          "sha1": "32d910f69aed8a063a95a45e8066e1abb84e6b5c",
-          "md5": "6846de794ad624d073baacf07fb0bfb3"
+          "size": 53929,
+          "sha512": "387d7c8232f638e19833535286543de4d58c657f3830bcf162815e3826768c8fd5764c88b6195bc915b58bf3ffde460ed6e65edc5c657336a7c59b9654eeb00d",
+          "sha256": "8cccc216a8e090e1499bb776ec2ce51f65eb278a27f7817446b70f172a968281",
+          "sha1": "c430fcf0bb09c39d0226a6c906c83dbc6f30b7cd",
+          "md5": "a907246e370ac077163071da8031a176"
         }
       ]
     }

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.13"
+      "version": "9.0.0"
     }
   },
   "variants": [
@@ -29,11 +29,11 @@
         {
           "name": "qqrobot-framework-api-2.0.1-dev.jar",
           "url": "qqrobot-framework-api-2.0.1-dev.jar",
-          "size": 11557,
-          "sha512": "6aab2afb42cf6e3044dc0b62d6793bc0eba9567ed0f71c6adabaa4b6451043eae59f14e41909c22020bca8a5d27a6f30b743dbfa68222a6d40b39600efbee8a6",
-          "sha256": "a266169aa8a31d98b44a43a8318567bc569df20ed4d269328551f2b8bce842f2",
-          "sha1": "b0d0ca8f710451543ed4938320936e8030cf7117",
-          "md5": "b42d842993b8bb942415f76f8652a02e"
+          "size": 11669,
+          "sha512": "6c38eab5b046557d83f7ee47093ed757a0530497ff30d201a6f1915341ae597265e7736601375b52237ddfca377f013023d091cb29166401284e005730465b89",
+          "sha256": "a52b636b3fe173e9d621f2a547686500a6d6e086f830f4fc603a86343a1a963a",
+          "sha1": "09d934f5c018e6001288c57521acc1c1a8afc265",
+          "md5": "0a6d415f867abb9efc796b50575c66de"
         }
       ]
     },
@@ -53,21 +53,21 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.8.10"
+            "requires": "2.2.0"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "1.8.10"
+            "requires": "2.2.0"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
-            "requires": "1.6.4"
+            "requires": "1.10.2"
           }
         }
       ],
@@ -75,11 +75,11 @@
         {
           "name": "qqrobot-framework-api-2.0.1-dev.jar",
           "url": "qqrobot-framework-api-2.0.1-dev.jar",
-          "size": 11557,
-          "sha512": "6aab2afb42cf6e3044dc0b62d6793bc0eba9567ed0f71c6adabaa4b6451043eae59f14e41909c22020bca8a5d27a6f30b743dbfa68222a6d40b39600efbee8a6",
-          "sha256": "a266169aa8a31d98b44a43a8318567bc569df20ed4d269328551f2b8bce842f2",
-          "sha1": "b0d0ca8f710451543ed4938320936e8030cf7117",
-          "md5": "b42d842993b8bb942415f76f8652a02e"
+          "size": 11669,
+          "sha512": "6c38eab5b046557d83f7ee47093ed757a0530497ff30d201a6f1915341ae597265e7736601375b52237ddfca377f013023d091cb29166401284e005730465b89",
+          "sha256": "a52b636b3fe173e9d621f2a547686500a6d6e086f830f4fc603a86343a1a963a",
+          "sha1": "09d934f5c018e6001288c57521acc1c1a8afc265",
+          "md5": "0a6d415f867abb9efc796b50575c66de"
         }
       ]
     },
@@ -96,10 +96,10 @@
           "name": "qqrobot-framework-api-2.0.1-dev-sources.jar",
           "url": "qqrobot-framework-api-2.0.1-dev-sources.jar",
           "size": 4270,
-          "sha512": "6f3680b37c5b0ca3e76e00574e35c5c8f88da36c508047265da2b54e4b35324a711e0f9512163eefceab7bfec7399bf17249be5a62c1a4f198c5aaa51cfe955b",
-          "sha256": "726285fb29002c00a9d0286246edc5dd4d5e5c54f8379b3e70822a2369dc785f",
-          "sha1": "1388064f52a57d309efa1e6b2dfb72d9543e678d",
-          "md5": "7e41567df391ba0bbf8ab9bdf407c0eb"
+          "sha512": "b0fef05855c8114ee9485f3c5da954946e7b84697d693fb1f6f028a123c38a1741ce269ee69c450b7b75c2f3460f014087aaaf6a84426961221ac9cb6551e0e2",
+          "sha256": "3dd917497e1d251622ed4fa4396bb7d08be47c216af611b19b89e91de27a9520",
+          "sha1": "e3ab11683b5b67389c6844176baa42840adda2ff",
+          "md5": "8edd6591ec1939724559035e8855b7bf"
         }
       ]
     }
