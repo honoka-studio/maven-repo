@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.13"
+      "version": "9.0.0"
     }
   },
   "variants": [
@@ -29,11 +29,11 @@
         {
           "name": "honoka-gradle-utils-1.0.2-dev.jar",
           "url": "honoka-gradle-utils-1.0.2-dev.jar",
-          "size": 28730,
-          "sha512": "d570869a7c10ca28f94370485e9946417ce0ee4f758ae02d783e88ad8c186a961e822254d6cc38303010e958fdabffefcb1adb2a3a74f56cd80cd772939b3b98",
-          "sha256": "401e0fd9b33d0a6e429bae21319d71a3a523f514e74b6fa5c3b7f461a8884898",
-          "sha1": "28911623105f7386902a290110bb11921b60ae9a",
-          "md5": "42c361fd4745c01cc35d32072861089e"
+          "size": 24719,
+          "sha512": "3f96254a29f43340caecc84c8dcd74d322934b4cd8fa3eb1a0addf02733801944e0afc01a0bc4106bf7ec79578cf7c9d0bd45af7e6b0ca75073ae2e9f75c7e60",
+          "sha256": "2b216092433bdbd4ef61332d528d8533175f6a209e1e34765244b6ea10b91b80",
+          "sha1": "0da7e319bc9947e888c5848a46a8340763b4f0b0",
+          "md5": "4cc27a91bef8ed36e290ea3b519ff98d"
         }
       ]
     },
@@ -52,11 +52,11 @@
         {
           "name": "honoka-gradle-utils-1.0.2-dev.jar",
           "url": "honoka-gradle-utils-1.0.2-dev.jar",
-          "size": 28730,
-          "sha512": "d570869a7c10ca28f94370485e9946417ce0ee4f758ae02d783e88ad8c186a961e822254d6cc38303010e958fdabffefcb1adb2a3a74f56cd80cd772939b3b98",
-          "sha256": "401e0fd9b33d0a6e429bae21319d71a3a523f514e74b6fa5c3b7f461a8884898",
-          "sha1": "28911623105f7386902a290110bb11921b60ae9a",
-          "md5": "42c361fd4745c01cc35d32072861089e"
+          "size": 24719,
+          "sha512": "3f96254a29f43340caecc84c8dcd74d322934b4cd8fa3eb1a0addf02733801944e0afc01a0bc4106bf7ec79578cf7c9d0bd45af7e6b0ca75073ae2e9f75c7e60",
+          "sha256": "2b216092433bdbd4ef61332d528d8533175f6a209e1e34765244b6ea10b91b80",
+          "sha1": "0da7e319bc9947e888c5848a46a8340763b4f0b0",
+          "md5": "4cc27a91bef8ed36e290ea3b519ff98d"
         }
       ]
     },
@@ -73,10 +73,10 @@
           "name": "honoka-gradle-utils-1.0.2-dev-sources.jar",
           "url": "honoka-gradle-utils-1.0.2-dev-sources.jar",
           "size": 5317,
-          "sha512": "17d4864254b5a4c89d676861f5aa52669514fbd44b7652a35b08e5d8d6b89ff31372a932aba8267f1c032aaf6704428347c4eef5acdd4c53ab6448c2da9e0045",
-          "sha256": "f9bcc3f42e23dd5200c0540c8c7099bf3a1dd8af8ed25984e740c0f6f0f835ea",
-          "sha1": "dd0cd970335cefb9cd9cae0ad74f9496382d114e",
-          "md5": "1994ec35cfe79f72107c9871f266a038"
+          "sha512": "84a7663053a425bbb10d5a80b3c6c93b0fd36536a58be0d52e1aac5c4169643e4a2d4b6f3020bbe222cf691f61b97fbbb478ddbc4593355dc750485281250525",
+          "sha256": "44f6655916541104dd9c8808cb8a01065ec8b0959bbfc0ec9f7230d3bd21b447",
+          "sha1": "c50b95b5b9f741f94c9b633fd1c266401bc0af00",
+          "md5": "da4ed11b09dacf97797fe78acd9140ba"
         }
       ]
     }
