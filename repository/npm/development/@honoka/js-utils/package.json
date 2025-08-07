@@ -11,7 +11,7 @@
 				"remove-existing-package": "node ./scripts/remove-existing-package.js"
 			},
 			"_id": "@honoka/js-utils@1.0.0-dev",
-			"gitHead": "83e0e120c85f1444e25901294d31a869d8ae8ba3",
+			"gitHead": "f303eb57f17fff308d235803f31d0c14ebb587b1",
 			"_nodeVersion": "22.18.0",
 			"_npmVersion": "10.9.3",
 			"dist": {
@@ -23,9 +23,9 @@
 		}
 	},
 	"time": {
-		"modified": "2025-08-07T10:41:48.803Z",
+		"modified": "2025-08-07T13:27:28.076Z",
 		"created": "2025-08-05T13:06:10.523Z",
-		"1.0.0-dev": "2025-08-07T10:41:48.803Z"
+		"1.0.0-dev": "2025-08-07T13:27:28.076Z"
 	},
 	"users": {},
 	"dist-tags": {
@@ -39,7 +39,7 @@
 			"version": "1.0.0-dev"
 		}
 	},
-	"_rev": "15-fb0637f87660ba2f",
+	"_rev": "18-e9e72371ca5fafcd",
 	"_id": "@honoka/js-utils",
 	"readme": "ERROR: No README data found!"
 }
