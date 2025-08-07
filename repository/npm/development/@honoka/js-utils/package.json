@@ -11,21 +11,21 @@
 				"remove-existing-package": "node ./scripts/remove-existing-package.js"
 			},
 			"_id": "@honoka/js-utils@1.0.0-dev",
-			"gitHead": "0db0b3fd19030ab1f858af4119536f71e7848df2",
+			"gitHead": "60e68495f170763b2a5f117b7c15bc6eddaf61a9",
 			"_nodeVersion": "22.17.1",
 			"_npmVersion": "10.9.2",
 			"dist": {
-				"integrity": "sha512-909WuTA75NKLY+9o4hBFWFDWiQdVJPwAYsnlV5LCSbm9ctXg+GaIKYKI4QRRERkxkiXvcVEVSA7oVcINDtFPXQ==",
-				"shasum": "0e9849225e1c497d4fa8d97a52310a15218a91a7",
+				"integrity": "sha512-2sk4JXg2bkLKDoQ24vpDSXn/A8ApZzn4r3gRa4CcFdirD4y+pjZ+8B6S+OdMn7xCUHYsgIoW7BqL0zj926aTcA==",
+				"shasum": "016937150793503e00b91e33b2e3aab5e6a671a3",
 				"tarball": "http://localhost:4873/@honoka/js-utils/-/@honoka/js-utils-1.0.0-dev.tgz"
 			},
 			"contributors": []
 		}
 	},
 	"time": {
-		"modified": "2025-08-06T14:14:20.671Z",
+		"modified": "2025-08-07T09:47:04.012Z",
 		"created": "2025-08-05T13:06:10.523Z",
-		"1.0.0-dev": "2025-08-06T14:14:20.671Z"
+		"1.0.0-dev": "2025-08-07T09:47:04.012Z"
 	},
 	"users": {},
 	"dist-tags": {
@@ -35,11 +35,11 @@
 	"_distfiles": {},
 	"_attachments": {
 		"js-utils-1.0.0-dev.tgz": {
-			"shasum": "0e9849225e1c497d4fa8d97a52310a15218a91a7",
+			"shasum": "016937150793503e00b91e33b2e3aab5e6a671a3",
 			"version": "1.0.0-dev"
 		}
 	},
-	"_rev": "6-e37c1e00b4b7db98",
+	"_rev": "9-caf0f5e2c139c76d",
 	"_id": "@honoka/js-utils",
 	"readme": "ERROR: No README data found!"
 }
