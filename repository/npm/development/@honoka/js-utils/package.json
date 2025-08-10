@@ -7,7 +7,7 @@
 			"type": "module",
 			"license": "Apache-2.0",
 			"_id": "@honoka/js-utils@1.0.0-dev",
-			"gitHead": "7e7843183fc317b095237acbf1f9a58e8606e062",
+			"gitHead": "f15e82e78dca55d0d5b336963d2769c4288e25ed",
 			"_nodeVersion": "22.18.0",
 			"_npmVersion": "10.9.3",
 			"dist": {
@@ -19,9 +19,9 @@
 		}
 	},
 	"time": {
-		"modified": "2025-08-10T10:12:58.054Z",
+		"modified": "2025-08-10T11:08:54.749Z",
 		"created": "2025-08-05T13:06:10.523Z",
-		"1.0.0-dev": "2025-08-10T10:12:58.054Z"
+		"1.0.0-dev": "2025-08-10T11:08:54.749Z"
 	},
 	"users": {},
 	"dist-tags": {
@@ -35,7 +35,7 @@
 			"version": "1.0.0-dev"
 		}
 	},
-	"_rev": "30-9cf13335d20d273e",
+	"_rev": "33-35fc14790835651d",
 	"_id": "@honoka/js-utils",
 	"readme": "ERROR: No README data found!"
 }
