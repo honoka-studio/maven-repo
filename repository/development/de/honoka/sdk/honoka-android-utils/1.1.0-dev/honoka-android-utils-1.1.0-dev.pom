@@ -13,7 +13,7 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <artifactId>ktor-server-netty</artifactId>
+      <artifactId>ktor-server-cio</artifactId>
       <version>3.2.2</version>
       <groupId>io.ktor</groupId>
       <scope>runtime</scope>
