@@ -6,22 +6,25 @@
 			"version": "1.0.0-dev",
 			"type": "module",
 			"license": "Apache-2.0",
+			"dependencies": {
+				"uuid": "^11.1.0"
+			},
 			"_id": "@honoka/js-utils@1.0.0-dev",
-			"gitHead": "f15e82e78dca55d0d5b336963d2769c4288e25ed",
+			"gitHead": "f7377f9f7ea4dace5dca8d95d679302228279a56",
 			"_nodeVersion": "22.18.0",
 			"_npmVersion": "10.9.3",
 			"dist": {
-				"integrity": "sha512-ec2FzHXSQdolDhi+HuemrGSp7QR8Pm06uH8LT9lyAvkmOQspfTBr4BF3t9Xqo3ddYzma2Y6MtgrtTDA2dDd8Ww==",
-				"shasum": "6a051747ea4115125528dce22710ecbdefec8d9c",
+				"integrity": "sha512-FajHsoLzqeYidatIRn/AR0fRAXW26Kpb+L/MG6PcIx50wFKMZHkt38A1/9fJolsQ3or9KAFQmsm9UsHJBwCDng==",
+				"shasum": "bbc656211ffcf9128827647f53862fa4eb3f29fa",
 				"tarball": "http://localhost:4873/@honoka/js-utils/-/@honoka/js-utils-1.0.0-dev.tgz"
 			},
 			"contributors": []
 		}
 	},
 	"time": {
-		"modified": "2025-08-10T11:08:54.749Z",
+		"modified": "2025-08-13T17:47:54.555Z",
 		"created": "2025-08-05T13:06:10.523Z",
-		"1.0.0-dev": "2025-08-10T11:08:54.749Z"
+		"1.0.0-dev": "2025-08-13T17:47:54.555Z"
 	},
 	"users": {},
 	"dist-tags": {
@@ -31,11 +34,11 @@
 	"_distfiles": {},
 	"_attachments": {
 		"js-utils-1.0.0-dev.tgz": {
-			"shasum": "6a051747ea4115125528dce22710ecbdefec8d9c",
+			"shasum": "bbc656211ffcf9128827647f53862fa4eb3f29fa",
 			"version": "1.0.0-dev"
 		}
 	},
-	"_rev": "33-35fc14790835651d",
+	"_rev": "36-dd623d52f7c578a3",
 	"_id": "@honoka/js-utils",
 	"readme": "ERROR: No README data found!"
 }
