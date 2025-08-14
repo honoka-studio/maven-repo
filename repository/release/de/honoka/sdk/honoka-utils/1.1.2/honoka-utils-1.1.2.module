@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.0"
+      "version": "9.0.0"
     }
   },
   "variants": [
@@ -49,7 +49,7 @@
           "group": "org.slf4j",
           "module": "slf4j-api",
           "version": {
-            "requires": "2.0.7"
+            "requires": "2.0.17"
           }
         }
       ],
@@ -57,11 +57,11 @@
         {
           "name": "honoka-utils-1.1.2.jar",
           "url": "honoka-utils-1.1.2.jar",
-          "size": 79590,
-          "sha512": "45b6ef97b435057dc450e1d098a65138080af385fec27f11740697c823b17611ef77ac4b36a43aa1ce059338c8a800b6917b614f61ec329fbd47c7fbc2ec383c",
-          "sha256": "fb99fc864673cd36b32d89849ff3c72bd0c71c72b66dcf1d78939a32b4fc57bd",
-          "sha1": "3edb9c38adc86a9f082583edf6537ea85fdccf12",
-          "md5": "ce03b4e8801a671679febed5e0432039"
+          "size": 81997,
+          "sha512": "1621b51339ac0af8fc9467e6d19eaa7a46b864162c7f9ef492ab0b7f8244f89428a6c6cee4ffe66ed81ad8f549e95e8c472ba7baace744209ad2b8c288228ac9",
+          "sha256": "191c88eb0866bd342a8bb7957b8cc5673697becbc7b57b7f266c16b1c8961976",
+          "sha1": "92d54dbbadc161f3b4b7c8cf556313ef0cf596b0",
+          "md5": "7e9f11db4058409e5d6dbf553410dd55"
         }
       ]
     },
@@ -75,6 +75,26 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
+        {
+          "group": "gui.ava",
+          "module": "html2image",
+          "version": {
+            "requires": "2.0.1"
+          },
+          "excludes": [
+            {
+              "group": "xml-apis",
+              "module": "xml-apis"
+            }
+          ]
+        },
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.5.18"
+          }
+        },
         {
           "group": "cn.hutool",
           "module": "hutool-all",
@@ -97,30 +117,10 @@
           }
         },
         {
-          "group": "gui.ava",
-          "module": "html2image",
-          "version": {
-            "requires": "2.0.1"
-          },
-          "excludes": [
-            {
-              "group": "xml-apis",
-              "module": "xml-apis"
-            }
-          ]
-        },
-        {
           "group": "org.slf4j",
           "module": "slf4j-api",
           "version": {
-            "requires": "2.0.7"
-          }
-        },
-        {
-          "group": "ch.qos.logback",
-          "module": "logback-classic",
-          "version": {
-            "requires": "1.4.14"
+            "requires": "2.0.17"
           }
         },
         {
@@ -135,11 +135,11 @@
         {
           "name": "honoka-utils-1.1.2.jar",
           "url": "honoka-utils-1.1.2.jar",
-          "size": 79590,
-          "sha512": "45b6ef97b435057dc450e1d098a65138080af385fec27f11740697c823b17611ef77ac4b36a43aa1ce059338c8a800b6917b614f61ec329fbd47c7fbc2ec383c",
-          "sha256": "fb99fc864673cd36b32d89849ff3c72bd0c71c72b66dcf1d78939a32b4fc57bd",
-          "sha1": "3edb9c38adc86a9f082583edf6537ea85fdccf12",
-          "md5": "ce03b4e8801a671679febed5e0432039"
+          "size": 81997,
+          "sha512": "1621b51339ac0af8fc9467e6d19eaa7a46b864162c7f9ef492ab0b7f8244f89428a6c6cee4ffe66ed81ad8f549e95e8c472ba7baace744209ad2b8c288228ac9",
+          "sha256": "191c88eb0866bd342a8bb7957b8cc5673697becbc7b57b7f266c16b1c8961976",
+          "sha1": "92d54dbbadc161f3b4b7c8cf556313ef0cf596b0",
+          "md5": "7e9f11db4058409e5d6dbf553410dd55"
         }
       ]
     },
@@ -155,11 +155,11 @@
         {
           "name": "honoka-utils-1.1.2-sources.jar",
           "url": "honoka-utils-1.1.2-sources.jar",
-          "size": 42438,
-          "sha512": "a3d1069502ce349d0b3a57879dd56a9ab44a65cd103a59cf06e2f2abd82d55a8ce0fe1ddcc27faa606f807b8de17943067a5860a724e14bba04b1375c4bd6a7e",
-          "sha256": "a66d4aa3d0ebb4d6bda560daa4c4d88d87890a5b41594955a830133eb2d822d2",
-          "sha1": "be98c05066deba7243f2420d329df0d3061f0d11",
-          "md5": "d70292f02634ae95ba517d54f7e9528f"
+          "size": 43480,
+          "sha512": "a68d9b1b65a1d9baba04bf9c0f3e422f9909d3197b5ba84258f0d0998b56dd860d5ae9cbf2790b8658b824ffb6d9c2b12e21f30b3ea016cbd117485a70276b66",
+          "sha256": "19996ab17f2241193f13207599f99549765e774071b23cede8d263e30f908a41",
+          "sha1": "267dbd9e74768a7282308889abfaaf170a353352",
+          "md5": "35456fb38706756f88e73d5e29660cdb"
         }
       ]
     }
