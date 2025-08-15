@@ -1,0 +1,44 @@
+{
+	"name": "@honoka/js-utils",
+	"versions": {
+		"1.0.0": {
+			"name": "@honoka/js-utils",
+			"version": "1.0.0",
+			"type": "module",
+			"license": "Apache-2.0",
+			"dependencies": {
+				"uuid": "^11.1.0"
+			},
+			"_id": "@honoka/js-utils@1.0.0",
+			"gitHead": "bc93a4cee46180f657ea6132966ae9082c8529c6",
+			"_nodeVersion": "22.18.0",
+			"_npmVersion": "10.9.3",
+			"dist": {
+				"integrity": "sha512-xg8VWX6kIN+jbmDNjB/bSikwg5sJeSFrppPLJbP16uwqfDymlHPYvrHNRBAEN8gNVkoFJonh751+DDXA8zOaUQ==",
+				"shasum": "598286c420ee9307ddf496bbf75b4ea7ba7c2a89",
+				"tarball": "http://localhost:4873/@honoka/js-utils/-/@honoka/js-utils-1.0.0.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2025-08-15T11:54:35.679Z",
+		"created": "2025-08-15T11:54:35.679Z",
+		"1.0.0": "2025-08-15T11:54:35.679Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"js-utils-1.0.0.tgz": {
+			"shasum": "598286c420ee9307ddf496bbf75b4ea7ba7c2a89",
+			"version": "1.0.0"
+		}
+	},
+	"_rev": "3-6899c55218b42dda",
+	"_id": "@honoka/js-utils",
+	"readme": "ERROR: No README data found!"
+}
