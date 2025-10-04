@@ -38,11 +38,11 @@
         {
           "name": "honoka-spring-boot-starter-1.0.4-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.4-dev.jar",
-          "size": 65164,
-          "sha512": "1d29e525fafc41ca2ab7f73ace24fb92735178bbaacf39b4bca9f3f968785bf78c094bb1d2add839c5ea6def4a056fc120b36409b44fad9981a743af913d1cba",
-          "sha256": "13431ad4ea771906a95c305d5c68264c2555e837cc8a5b4261793c6e032dde42",
-          "sha1": "d1fb23d4e51697eea3f40dba4202697a0d1a04d3",
-          "md5": "ade300a40859b1a0eda9c549db481631"
+          "size": 68571,
+          "sha512": "cdeea8acc1c925f1a7102f9d0ebaa2cb0eed282764e697ecb88a7cfefdaa818780590a1f1aa026bf0266844d7822b48853fee15cd1beeb612b11695c6ed9fef7",
+          "sha256": "41ca95233eee33605db6e7feea2b1ffa5ae5d716b63f0568ecc4d956365b90fe",
+          "sha1": "610acf80a2cc2d31a1018ff0e4aa1af187c5d230",
+          "md5": "2e1167cb564f33854b16f1e9cec3fa61"
         }
       ]
     },
@@ -131,11 +131,11 @@
         {
           "name": "honoka-spring-boot-starter-1.0.4-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.4-dev.jar",
-          "size": 65164,
-          "sha512": "1d29e525fafc41ca2ab7f73ace24fb92735178bbaacf39b4bca9f3f968785bf78c094bb1d2add839c5ea6def4a056fc120b36409b44fad9981a743af913d1cba",
-          "sha256": "13431ad4ea771906a95c305d5c68264c2555e837cc8a5b4261793c6e032dde42",
-          "sha1": "d1fb23d4e51697eea3f40dba4202697a0d1a04d3",
-          "md5": "ade300a40859b1a0eda9c549db481631"
+          "size": 68571,
+          "sha512": "cdeea8acc1c925f1a7102f9d0ebaa2cb0eed282764e697ecb88a7cfefdaa818780590a1f1aa026bf0266844d7822b48853fee15cd1beeb612b11695c6ed9fef7",
+          "sha256": "41ca95233eee33605db6e7feea2b1ffa5ae5d716b63f0568ecc4d956365b90fe",
+          "sha1": "610acf80a2cc2d31a1018ff0e4aa1af187c5d230",
+          "md5": "2e1167cb564f33854b16f1e9cec3fa61"
         }
       ]
     },
@@ -151,20 +151,20 @@
         {
           "name": "honoka-spring-boot-starter-1.0.4-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.0.4-dev-sources.jar",
-          "size": 19444,
-          "sha512": "7d02489d34e041b8b5c8547aeba97444a01296a65d6053ac3872f24701fb194b1b8f01f1cded58e42b2cea679028b441ccd5ee14fe499acfab6d7bc35c8084fe",
-          "sha256": "dfc242cc72550e8d213a34786b4b368cffdc4613acad9597a32d44781ed9be51",
-          "sha1": "deb6df9192dbc30f858af422955f18ee5048273d",
-          "md5": "7019fb1092b41eb41baa9f705fc9a276"
+          "size": 19779,
+          "sha512": "b1879e26750c5d4c3369fd765f0e373c3ad38d38b5f8aaf4820b3025b8f43b3c197045f6c875d45c8ab775b0233b9051ad5acec8c82b9b2aeab7f253ddeeed56",
+          "sha256": "3f66f76a54b667c81d5271eea72ce8dd5cb63d0771b1bcc7d63abf9dfef3f1ef",
+          "sha1": "431064af28661698a6b749409f079c5888661605",
+          "md5": "eb3dcc308b527bc2e1fef397509505e2"
         },
         {
           "name": "honoka-spring-boot-starter-1.0.4-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.0.4-dev-sources.jar",
-          "size": 19444,
-          "sha512": "7d02489d34e041b8b5c8547aeba97444a01296a65d6053ac3872f24701fb194b1b8f01f1cded58e42b2cea679028b441ccd5ee14fe499acfab6d7bc35c8084fe",
-          "sha256": "dfc242cc72550e8d213a34786b4b368cffdc4613acad9597a32d44781ed9be51",
-          "sha1": "deb6df9192dbc30f858af422955f18ee5048273d",
-          "md5": "7019fb1092b41eb41baa9f705fc9a276"
+          "size": 19779,
+          "sha512": "b1879e26750c5d4c3369fd765f0e373c3ad38d38b5f8aaf4820b3025b8f43b3c197045f6c875d45c8ab775b0233b9051ad5acec8c82b9b2aeab7f253ddeeed56",
+          "sha256": "3f66f76a54b667c81d5271eea72ce8dd5cb63d0771b1bcc7d63abf9dfef3f1ef",
+          "sha1": "431064af28661698a6b749409f079c5888661605",
+          "md5": "eb3dcc308b527bc2e1fef397509505e2"
         }
       ]
     }
