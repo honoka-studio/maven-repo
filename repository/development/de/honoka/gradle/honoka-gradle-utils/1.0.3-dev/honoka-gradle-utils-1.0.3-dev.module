@@ -1,0 +1,84 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.gradle",
+    "module": "honoka-gradle-utils",
+    "version": "1.0.3-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.0.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "honoka-gradle-utils-1.0.3-dev.jar",
+          "url": "honoka-gradle-utils-1.0.3-dev.jar",
+          "size": 25865,
+          "sha512": "a4f9914c70cd38973bf3efec632890cc05631b89fc1d540dd53608c088fc47d05211b3b4382be1dc35b3deee772017be68ab9c44ce5eb0ef7bc6381d4a920acb",
+          "sha256": "dbfe8921f735ee246af89de909de902e502d5b7d96364136464ead348e71fd75",
+          "sha1": "59eb0f7ac022f442b60d1ea2ddb51b18a0de755e",
+          "md5": "0a60ac49fa78bbca4bf2baaa7dce6252"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "honoka-gradle-utils-1.0.3-dev.jar",
+          "url": "honoka-gradle-utils-1.0.3-dev.jar",
+          "size": 25865,
+          "sha512": "a4f9914c70cd38973bf3efec632890cc05631b89fc1d540dd53608c088fc47d05211b3b4382be1dc35b3deee772017be68ab9c44ce5eb0ef7bc6381d4a920acb",
+          "sha256": "dbfe8921f735ee246af89de909de902e502d5b7d96364136464ead348e71fd75",
+          "sha1": "59eb0f7ac022f442b60d1ea2ddb51b18a0de755e",
+          "md5": "0a60ac49fa78bbca4bf2baaa7dce6252"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-gradle-utils-1.0.3-dev-sources.jar",
+          "url": "honoka-gradle-utils-1.0.3-dev-sources.jar",
+          "size": 5432,
+          "sha512": "2ec974a3d64939aaa36b0ec4705238fc82ce0be307826bfd022179b6871340ec767545b11343fb0cb53f9e7261628635023781215171095ca872d9a92310e45a",
+          "sha256": "f38286bc0481903f06a1579ffa688212d44b4df35e87f37b61be98ff9cd8a732",
+          "sha1": "88e600934d9324e1592c1d163637f6bc62b90d38",
+          "md5": "2fec7bcc06cf224548949960004716f5"
+        }
+      ]
+    }
+  ]
+}
