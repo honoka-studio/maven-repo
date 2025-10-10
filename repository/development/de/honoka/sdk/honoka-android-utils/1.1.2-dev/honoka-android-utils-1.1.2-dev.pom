@@ -37,6 +37,21 @@
       <groupId>io.ktor</groupId>
     </dependency>
     <dependency>
+      <artifactId>kotlin-stdlib-jdk8</artifactId>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>kotlin-reflect</artifactId>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <artifactId>kotlinx-coroutines-android</artifactId>
+      <groupId>org.jetbrains.kotlinx</groupId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
       <artifactId>appcompat</artifactId>
       <version>1.7.1</version>
       <groupId>androidx.appcompat</groupId>
@@ -58,21 +73,6 @@
       <artifactId>ktor-server-cors</artifactId>
       <version>3.2.2</version>
       <groupId>io.ktor</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>kotlin-stdlib-jdk8</artifactId>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>kotlin-reflect</artifactId>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>kotlinx-coroutines-android</artifactId>
-      <groupId>org.jetbrains.kotlinx</groupId>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
