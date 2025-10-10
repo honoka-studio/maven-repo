@@ -38,17 +38,37 @@
 				"tarball": "http://localhost:4873/@honoka/js-utils/-/@honoka/js-utils-1.0.1-dev.tgz"
 			},
 			"contributors": []
+		},
+		"1.0.2-dev": {
+			"name": "@honoka/js-utils",
+			"version": "1.0.2-dev",
+			"type": "module",
+			"license": "Apache-2.0",
+			"dependencies": {
+				"axios": "^1.5.1"
+			},
+			"_id": "@honoka/js-utils@1.0.2-dev",
+			"gitHead": "422a83267b13ac060cac8e7706440d74b23dae5a",
+			"_nodeVersion": "22.18.0",
+			"_npmVersion": "10.9.3",
+			"dist": {
+				"integrity": "sha512-lIVGO4BB6eQ9Pe/mLrUo9ewoOkk04glTvNPW7O6xUadM8CxAta1qhU/dR0z9OXu9C0n47LMFnqto2762RLLrDw==",
+				"shasum": "65c8155cf2ea48ea5a35bdf84069451cd9cd3b19",
+				"tarball": "http://localhost:4873/@honoka/js-utils/-/@honoka/js-utils-1.0.2-dev.tgz"
+			},
+			"contributors": []
 		}
 	},
 	"time": {
-		"modified": "2025-10-03T03:34:26.496Z",
+		"modified": "2025-10-10T14:15:09.519Z",
 		"created": "2025-08-05T13:06:10.523Z",
 		"1.0.0-dev": "2025-08-13T17:47:54.555Z",
-		"1.0.1-dev": "2025-10-03T03:34:26.496Z"
+		"1.0.1-dev": "2025-10-03T03:34:26.496Z",
+		"1.0.2-dev": "2025-10-10T14:15:09.519Z"
 	},
 	"users": {},
 	"dist-tags": {
-		"latest": "1.0.1-dev"
+		"latest": "1.0.2-dev"
 	},
 	"_uplinks": {},
 	"_distfiles": {},
@@ -60,9 +80,13 @@
 		"js-utils-1.0.1-dev.tgz": {
 			"shasum": "04a07077c7ae4af29b798c53914a4e9cf25eae8a",
 			"version": "1.0.1-dev"
+		},
+		"js-utils-1.0.2-dev.tgz": {
+			"shasum": "65c8155cf2ea48ea5a35bdf84069451cd9cd3b19",
+			"version": "1.0.2-dev"
 		}
 	},
-	"_rev": "39-a20e0481ca5e6a81",
+	"_rev": "42-1be548ae70bff6d9",
 	"_id": "@honoka/js-utils",
 	"readme": "ERROR: No README data found!"
 }
