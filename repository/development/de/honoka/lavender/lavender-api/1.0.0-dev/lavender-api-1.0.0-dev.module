@@ -20,29 +20,20 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api",
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
-      "dependencies": [
-        {
-          "group": "de.honoka.sdk",
-          "module": "honoka-kotlin-utils",
-          "version": {
-            "requires": "1.1.3-dev"
-          }
-        }
-      ],
       "files": [
         {
           "name": "lavender-api-1.0.0-dev.jar",
           "url": "lavender-api-1.0.0-dev.jar",
-          "size": 41200,
-          "sha512": "602c4686b84df33435a07c8635cda56f0064296860febc88b8fc811b6cb1318ffb803da66ce37ca1361d39cfcb2484196b86c2e64f55d68670f4548a2ef59ffe",
-          "sha256": "b2f93d019e584dc654c8ab221c9db23898bbcb897211ace299e6d036e73cb0d4",
-          "sha1": "1fe1f5da617b45a96be4bf60c8f156cc20e3445a",
-          "md5": "7ce54e27075442f29ce189e887b440ea"
+          "size": 42218,
+          "sha512": "bbd4a51ae8411d5416e7c09bae113196b6f7e2027965d5d1c9ddc8505c11fc70756f6ae2384c71335c43aaeaca4271615685d46ab4966d813d2d5341525294a8",
+          "sha256": "ce92bce380450af9616ebe3300d90e8792ee03a575ecaa0627543441e9af15fc",
+          "sha1": "c26842f99d2e7d10288afaeab48a52e709005893",
+          "md5": "3e3a57866234fa4f12e55e396860f34b"
         }
       ]
     },
@@ -52,7 +43,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -91,13 +82,6 @@
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core"
-        },
-        {
-          "group": "de.honoka.sdk",
-          "module": "honoka-kotlin-utils",
-          "version": {
-            "requires": "1.1.3-dev"
-          }
         }
       ],
       "dependencyConstraints": [
@@ -120,11 +104,11 @@
         {
           "name": "lavender-api-1.0.0-dev.jar",
           "url": "lavender-api-1.0.0-dev.jar",
-          "size": 41200,
-          "sha512": "602c4686b84df33435a07c8635cda56f0064296860febc88b8fc811b6cb1318ffb803da66ce37ca1361d39cfcb2484196b86c2e64f55d68670f4548a2ef59ffe",
-          "sha256": "b2f93d019e584dc654c8ab221c9db23898bbcb897211ace299e6d036e73cb0d4",
-          "sha1": "1fe1f5da617b45a96be4bf60c8f156cc20e3445a",
-          "md5": "7ce54e27075442f29ce189e887b440ea"
+          "size": 42218,
+          "sha512": "bbd4a51ae8411d5416e7c09bae113196b6f7e2027965d5d1c9ddc8505c11fc70756f6ae2384c71335c43aaeaca4271615685d46ab4966d813d2d5341525294a8",
+          "sha256": "ce92bce380450af9616ebe3300d90e8792ee03a575ecaa0627543441e9af15fc",
+          "sha1": "c26842f99d2e7d10288afaeab48a52e709005893",
+          "md5": "3e3a57866234fa4f12e55e396860f34b"
         }
       ]
     },
@@ -140,11 +124,11 @@
         {
           "name": "lavender-api-1.0.0-dev-sources.jar",
           "url": "lavender-api-1.0.0-dev-sources.jar",
-          "size": 5952,
-          "sha512": "4503677f847649f9378c935a77d29346b8d8eb26431d45d19f58b075a48b42dabdb93e6330df5448990573b80d717ee8bf5e075d1e98b59979fcaf305b46d075",
-          "sha256": "ed638a0c3b5336e75849e993ab0c4f4f4709882603bb0f4fadc5152a7b72ad34",
-          "sha1": "03b81c9f6c30d510df7b2ae56ff43dca78b5d252",
-          "md5": "e660bedb06ea580dfcfbae18653cc6f6"
+          "size": 6005,
+          "sha512": "f06d9e6d50f941e23cdd61d2bee598a8b8aa49ea67c9e737aff7e9d97c20f511884ee6eefbb0690ea60adaa9f2aea2092578b9635e85bf6387a512a71fe1889a",
+          "sha256": "66ae51a57d5ef89ef67bb8b1430789784e44dda35a20c57c17d152e089227e82",
+          "sha1": "5d07de01f00461367919ce93c6b7da558a78af48",
+          "md5": "2b27b74621ba4c2ef4331185dc4effbd"
         }
       ]
     }
