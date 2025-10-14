@@ -30,7 +30,7 @@
           "group": "de.honoka.sdk",
           "module": "honoka-spring-boot-starter",
           "version": {
-            "requires": "1.0.4-dev"
+            "requires": "1.0.5-dev"
           }
         },
         {
@@ -126,7 +126,7 @@
           "group": "de.honoka.sdk",
           "module": "honoka-spring-boot-starter",
           "version": {
-            "requires": "1.0.4-dev"
+            "requires": "1.0.5-dev"
           }
         },
         {

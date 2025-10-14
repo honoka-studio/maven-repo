@@ -48,7 +48,7 @@
     <dependency>
       <groupId>de.honoka.sdk</groupId>
       <artifactId>honoka-spring-boot-starter</artifactId>
-      <version>1.0.4-dev</version>
+      <version>1.0.5-dev</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
