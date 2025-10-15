@@ -1,0 +1,152 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.lavender.lavsource",
+    "module": "lavsource-bilibili-business",
+    "version": "1.0.0-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.0.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.lavender",
+          "module": "lavender-api",
+          "version": {
+            "requires": "1.0.0-dev"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lavsource-bilibili-business-1.0.0-dev.jar",
+          "url": "lavsource-bilibili-business-1.0.0-dev.jar",
+          "size": 29313,
+          "sha512": "094856654b9b48c0d83be159cb190180de545023a84574d854235f22316c116111b298d88280289dc21d7ab60b34ee94c1b835c9246b59ab8a9a87ea79c29106",
+          "sha256": "eb0b3ba37a7b81794a70a90ad2f212137c900f1c608ddddb98ed81c7d8706339",
+          "sha1": "9e1f8c8c888a4176deaf8802879b6acad25e8fe1",
+          "md5": "843d1b88c8e58b97845c9f893eb31664"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-bom",
+          "version": {
+            "requires": "2.2.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-bom",
+          "version": {
+            "requires": "1.10.2"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8"
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect"
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core"
+        },
+        {
+          "group": "de.honoka.lavender",
+          "module": "lavender-api",
+          "version": {
+            "requires": "1.0.0-dev"
+          }
+        }
+      ],
+      "dependencyConstraints": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "2.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lavsource-bilibili-business-1.0.0-dev.jar",
+          "url": "lavsource-bilibili-business-1.0.0-dev.jar",
+          "size": 29313,
+          "sha512": "094856654b9b48c0d83be159cb190180de545023a84574d854235f22316c116111b298d88280289dc21d7ab60b34ee94c1b835c9246b59ab8a9a87ea79c29106",
+          "sha256": "eb0b3ba37a7b81794a70a90ad2f212137c900f1c608ddddb98ed81c7d8706339",
+          "sha1": "9e1f8c8c888a4176deaf8802879b6acad25e8fe1",
+          "md5": "843d1b88c8e58b97845c9f893eb31664"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "lavsource-bilibili-business-1.0.0-dev-sources.jar",
+          "url": "lavsource-bilibili-business-1.0.0-dev-sources.jar",
+          "size": 9087,
+          "sha512": "7735cdae23368cb78ba7795bf81f30d50d5dd1720e0a79f9208dd26758128018bd80c3d41e852600fd5e3cd2ce32e7b6a18dadaf9c37c7fbbb493c80e4c67348",
+          "sha256": "c7c48d45819bda131be1bdaa1f6a166f408b27d747b0901251a3ac38623321e6",
+          "sha1": "586e9132c1e97b8671df08d9e8a5b639ff2fc685",
+          "md5": "caf72887bddbd38a46706219e7d3e830"
+        }
+      ]
+    }
+  ]
+}
