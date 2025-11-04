@@ -30,7 +30,7 @@
           "group": "de.honoka.sdk",
           "module": "honoka-utils",
           "version": {
-            "requires": "1.1.2"
+            "requires": "1.1.3-dev"
           }
         }
       ],
@@ -38,11 +38,11 @@
         {
           "name": "honoka-kotlin-utils-1.1.4-dev.jar",
           "url": "honoka-kotlin-utils-1.1.4-dev.jar",
-          "size": 66634,
-          "sha512": "8f8655fb93348060364a868be29dd27774aa3ef34dde8a4bfb718accbcd2756c8cdad3ca6feccdbc1b80366849469759120d1eea1418cd0f935b0ca0d21efd16",
-          "sha256": "b17731da0b8c81bcb4f9921456c9ed2ef6e7f9604fd7a113bb072d7bbcc1204e",
-          "sha1": "257cd1db85df02e47e0f2962e142cb55057ca1a4",
-          "md5": "6cf98a6a4930bd1df3514aa10a4835ae"
+          "size": 67098,
+          "sha512": "99dd0df9d56bd6440da750ec3a9e7377b7d4a5072d043c0434ee63cb4cf94b65a7eb61398a5a9329a1c0f51a319e17ae7ab8f9d7e6d50cf536babf577e8206c4",
+          "sha256": "8496a24c5d0bfd94109e1a7eb330982c7060f7e90ec444388d400b0c1adecadf",
+          "sha1": "81a9b39e772cea096456d93566f924f406eff646",
+          "md5": "2e2a7988bfbd75f71553981f546b18ee"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "group": "de.honoka.sdk",
           "module": "honoka-utils",
           "version": {
-            "requires": "1.1.2"
+            "requires": "1.1.3-dev"
           }
         }
       ],
@@ -127,11 +127,11 @@
         {
           "name": "honoka-kotlin-utils-1.1.4-dev.jar",
           "url": "honoka-kotlin-utils-1.1.4-dev.jar",
-          "size": 66634,
-          "sha512": "8f8655fb93348060364a868be29dd27774aa3ef34dde8a4bfb718accbcd2756c8cdad3ca6feccdbc1b80366849469759120d1eea1418cd0f935b0ca0d21efd16",
-          "sha256": "b17731da0b8c81bcb4f9921456c9ed2ef6e7f9604fd7a113bb072d7bbcc1204e",
-          "sha1": "257cd1db85df02e47e0f2962e142cb55057ca1a4",
-          "md5": "6cf98a6a4930bd1df3514aa10a4835ae"
+          "size": 67098,
+          "sha512": "99dd0df9d56bd6440da750ec3a9e7377b7d4a5072d043c0434ee63cb4cf94b65a7eb61398a5a9329a1c0f51a319e17ae7ab8f9d7e6d50cf536babf577e8206c4",
+          "sha256": "8496a24c5d0bfd94109e1a7eb330982c7060f7e90ec444388d400b0c1adecadf",
+          "sha1": "81a9b39e772cea096456d93566f924f406eff646",
+          "md5": "2e2a7988bfbd75f71553981f546b18ee"
         }
       ]
     },
@@ -147,20 +147,20 @@
         {
           "name": "honoka-kotlin-utils-1.1.4-dev-sources.jar",
           "url": "honoka-kotlin-utils-1.1.4-dev-sources.jar",
-          "size": 18574,
-          "sha512": "1ae6bbafb5058c67dea05a5625fca14ac3fb6eb8abb4ceb4d715be9b8755d32ef02435691eed4340afbba48ae1b129e6b919ed68aa3dcd26bec8067517c1ece5",
-          "sha256": "bb554666583b60eebd6f7cdfb6585745da88f30e776ae2c44e3a0bf0aaced85a",
-          "sha1": "1a0228edc7945fe0e03896e6b6be531000d9654a",
-          "md5": "e212767ca22f3dc3968be318a277b910"
+          "size": 18650,
+          "sha512": "fba9b9141eb8879a46bbad57a0b88bc58df57346135d9f3abc73b476878f3f7ebd9311f9d3b56585cd07c45704df72e1dc64a75e8fde5f47c9e96f1c53aba4a4",
+          "sha256": "5df55b97f5f27e7c16cb7a37d614502bbac56b41664230057b22778dbd9059f6",
+          "sha1": "e1e09b1bbbf8f4ab6f6423ac3ffa8b40e5444ff1",
+          "md5": "f9eb5970a1d3e77012e5f5af2b399036"
         },
         {
           "name": "honoka-kotlin-utils-1.1.4-dev-sources.jar",
           "url": "honoka-kotlin-utils-1.1.4-dev-sources.jar",
-          "size": 18574,
-          "sha512": "1ae6bbafb5058c67dea05a5625fca14ac3fb6eb8abb4ceb4d715be9b8755d32ef02435691eed4340afbba48ae1b129e6b919ed68aa3dcd26bec8067517c1ece5",
-          "sha256": "bb554666583b60eebd6f7cdfb6585745da88f30e776ae2c44e3a0bf0aaced85a",
-          "sha1": "1a0228edc7945fe0e03896e6b6be531000d9654a",
-          "md5": "e212767ca22f3dc3968be318a277b910"
+          "size": 18650,
+          "sha512": "fba9b9141eb8879a46bbad57a0b88bc58df57346135d9f3abc73b476878f3f7ebd9311f9d3b56585cd07c45704df72e1dc64a75e8fde5f47c9e96f1c53aba4a4",
+          "sha256": "5df55b97f5f27e7c16cb7a37d614502bbac56b41664230057b22778dbd9059f6",
+          "sha1": "e1e09b1bbbf8f4ab6f6423ac3ffa8b40e5444ff1",
+          "md5": "f9eb5970a1d3e77012e5f5af2b399036"
         }
       ]
     }
