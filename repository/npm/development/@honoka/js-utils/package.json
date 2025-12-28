@@ -67,7 +67,7 @@
 				"axios": "^1.5.1"
 			},
 			"_id": "@honoka/js-utils@1.0.3-dev",
-			"gitHead": "d172977f2a2e3ca21f93a2af9d38c6575cb6149d",
+			"gitHead": "157af6254a60d393e613354887cfc70c9c77a3c6",
 			"_nodeVersion": "22.18.0",
 			"_npmVersion": "10.9.3",
 			"dist": {
@@ -79,12 +79,12 @@
 		}
 	},
 	"time": {
-		"modified": "2025-12-28T08:40:32.807Z",
+		"modified": "2025-12-28T15:45:27.172Z",
 		"created": "2025-08-05T13:06:10.523Z",
 		"1.0.0-dev": "2025-08-13T17:47:54.555Z",
 		"1.0.1-dev": "2025-10-03T03:34:26.496Z",
 		"1.0.2-dev": "2025-10-13T16:41:03.019Z",
-		"1.0.3-dev": "2025-12-28T08:40:32.807Z"
+		"1.0.3-dev": "2025-12-28T15:45:27.172Z"
 	},
 	"users": {},
 	"dist-tags": {
@@ -110,7 +110,7 @@
 			"version": "1.0.3-dev"
 		}
 	},
-	"_rev": "102-01fe16824d237b88",
+	"_rev": "105-a9d12d12c6d5ea4d",
 	"_id": "@honoka/js-utils",
 	"readme": "ERROR: No README data found!"
 }
