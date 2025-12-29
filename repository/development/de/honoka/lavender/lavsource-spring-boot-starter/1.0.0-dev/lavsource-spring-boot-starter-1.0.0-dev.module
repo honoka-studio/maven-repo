@@ -45,11 +45,11 @@
         {
           "name": "lavsource-spring-boot-starter-1.0.0-dev.jar",
           "url": "lavsource-spring-boot-starter-1.0.0-dev.jar",
-          "size": 17473,
-          "sha512": "046f594457701ccd44f1c211c9162ba068a57875607272d339d10f3f241918661ef67299b8df2c399f2b8c6bc2e108747a682603566c8ccf446ccc4f7f0c95db",
-          "sha256": "b8aae1da3d688fa2552ca847fb15c1c90024a289490f0a3199d9d287ea6b3198",
-          "sha1": "8c3c1233b3262b46fe280644da466ce82a968416",
-          "md5": "dff151866ffdffe42f685d3ad49e41c3"
+          "size": 17238,
+          "sha512": "b73e26d24a59875a466f3e142d0fe01d101cb586c901cbe051622124e26038a8ebaa13a232106904fc4e1f705122b785cb6a29043e2b009626bcca49972e3288",
+          "sha256": "f89aa69195f256fbefbbe2348ffe587f2566c4fc3a7189ece380a64c33f16246",
+          "sha1": "cb96c0a2f481df17621f961447fb99fe0eb1ab29",
+          "md5": "a8e7c8ce6baf5dbefa7d182c478a25fa"
         }
       ]
     },
@@ -157,11 +157,11 @@
         {
           "name": "lavsource-spring-boot-starter-1.0.0-dev.jar",
           "url": "lavsource-spring-boot-starter-1.0.0-dev.jar",
-          "size": 17473,
-          "sha512": "046f594457701ccd44f1c211c9162ba068a57875607272d339d10f3f241918661ef67299b8df2c399f2b8c6bc2e108747a682603566c8ccf446ccc4f7f0c95db",
-          "sha256": "b8aae1da3d688fa2552ca847fb15c1c90024a289490f0a3199d9d287ea6b3198",
-          "sha1": "8c3c1233b3262b46fe280644da466ce82a968416",
-          "md5": "dff151866ffdffe42f685d3ad49e41c3"
+          "size": 17238,
+          "sha512": "b73e26d24a59875a466f3e142d0fe01d101cb586c901cbe051622124e26038a8ebaa13a232106904fc4e1f705122b785cb6a29043e2b009626bcca49972e3288",
+          "sha256": "f89aa69195f256fbefbbe2348ffe587f2566c4fc3a7189ece380a64c33f16246",
+          "sha1": "cb96c0a2f481df17621f961447fb99fe0eb1ab29",
+          "md5": "a8e7c8ce6baf5dbefa7d182c478a25fa"
         }
       ]
     }
