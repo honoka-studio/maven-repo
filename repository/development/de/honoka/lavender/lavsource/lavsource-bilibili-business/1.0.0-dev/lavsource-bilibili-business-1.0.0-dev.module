@@ -38,11 +38,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev.jar",
-          "size": 30568,
-          "sha512": "fc80c03aa512d956188a63570c14894ff916ade95c071cbf421af21e88f45d81274633e7ac5a9325a0e57ccb24be7d957910eabd5d8a6a97ac56c9272d838f6d",
-          "sha256": "242a4357999bbe7d65b4b284f9bbd7adc5f63a5c9796cd0da6643dae72dccb1d",
-          "sha1": "d144f114e7ad1c6a600b9e65b1515344d02bcb44",
-          "md5": "d2b31fec62587f8dbada91d7f70cc45d"
+          "size": 30460,
+          "sha512": "32993d0b3011661c549ccdcf56b66cf98e28f6c9c08172b8516a4bdc49cd0f89887af43049dd0aec84bdadb9a426901c60127821b2f5b7e0af141293c8862867",
+          "sha256": "2f79f8f69013997f89c21b9cdd4d3bd5da5215feae7b1402f378545ccebfb32a",
+          "sha1": "64956286b2ea7c4adcd92ccb8d1bacb56ca056e3",
+          "md5": "6a57aa2b1183f247de17dd3da4f2f8d6"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev.jar",
-          "size": 30568,
-          "sha512": "fc80c03aa512d956188a63570c14894ff916ade95c071cbf421af21e88f45d81274633e7ac5a9325a0e57ccb24be7d957910eabd5d8a6a97ac56c9272d838f6d",
-          "sha256": "242a4357999bbe7d65b4b284f9bbd7adc5f63a5c9796cd0da6643dae72dccb1d",
-          "sha1": "d144f114e7ad1c6a600b9e65b1515344d02bcb44",
-          "md5": "d2b31fec62587f8dbada91d7f70cc45d"
+          "size": 30460,
+          "sha512": "32993d0b3011661c549ccdcf56b66cf98e28f6c9c08172b8516a4bdc49cd0f89887af43049dd0aec84bdadb9a426901c60127821b2f5b7e0af141293c8862867",
+          "sha256": "2f79f8f69013997f89c21b9cdd4d3bd5da5215feae7b1402f378545ccebfb32a",
+          "sha1": "64956286b2ea7c4adcd92ccb8d1bacb56ca056e3",
+          "md5": "6a57aa2b1183f247de17dd3da4f2f8d6"
         }
       ]
     },
@@ -140,11 +140,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev-sources.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev-sources.jar",
-          "size": 9565,
-          "sha512": "9009256d3ee4b4e5e9aa4483e1af87db9892d034f514bcd1b1b46f40f68df1b6b1dd15e9c402f02eb196cdf86c352b91bc2af7a3428d7ba85335b591d472772b",
-          "sha256": "875cb123a07b090bc0dd21b8912589226f203feff3bf2005f89f3b22a7b995a9",
-          "sha1": "37c6b514a1ed64987ac0cb3556069635b6a8f724",
-          "md5": "319e37afa17b75fa0dcba0e8b0c2c582"
+          "size": 9529,
+          "sha512": "76c1e6a48b51d3fda6eb9348f09eb9895f54f9a5447c3da9a26af02035dfeaefb55fe8ba336aa7c1d738af5ae6d2a58b4086f09f54a956cf301fc6ad7613f220",
+          "sha256": "9bd8cbc8e237f111c61f9fdefe962a02e63dfdf008317243940a34c7a1489f21",
+          "sha1": "8ffddf94428125603186e2023e6f287c1e411403",
+          "md5": "ed934ef0ce0e6e34092b7cdb1d3ba254"
         }
       ]
     }
