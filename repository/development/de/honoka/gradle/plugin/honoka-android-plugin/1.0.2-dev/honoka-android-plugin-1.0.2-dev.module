@@ -1,0 +1,93 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.gradle.plugin",
+    "module": "honoka-android-plugin",
+    "version": "1.0.2-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.0.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "honoka-android-plugin-1.0.2-dev.jar",
+          "url": "honoka-android-plugin-1.0.2-dev.jar",
+          "size": 20870,
+          "sha512": "7c8ce3bc7ec8dc6594991050390fbb0117d01675085eb3b8bb8b386687fbc15a698ee4216dd98650d5e3d307d52339af890a560533a07a10bf2572cd892b79e1",
+          "sha256": "73e50668472f0162f150b0187f5fd3616d76f6355618820cd25cd36dd81a44d0",
+          "sha1": "a58f3043388303ba7a4f0ad03a1f985ddf05a748",
+          "md5": "7eea70705baa676f139553be2d61e683"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "de.honoka.gradle.plugin",
+          "module": "honoka-basic-plugin",
+          "version": {
+            "requires": "1.0.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-android-plugin-1.0.2-dev.jar",
+          "url": "honoka-android-plugin-1.0.2-dev.jar",
+          "size": 20870,
+          "sha512": "7c8ce3bc7ec8dc6594991050390fbb0117d01675085eb3b8bb8b386687fbc15a698ee4216dd98650d5e3d307d52339af890a560533a07a10bf2572cd892b79e1",
+          "sha256": "73e50668472f0162f150b0187f5fd3616d76f6355618820cd25cd36dd81a44d0",
+          "sha1": "a58f3043388303ba7a4f0ad03a1f985ddf05a748",
+          "md5": "7eea70705baa676f139553be2d61e683"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-android-plugin-1.0.2-dev-sources.jar",
+          "url": "honoka-android-plugin-1.0.2-dev-sources.jar",
+          "size": 3940,
+          "sha512": "598892f1c2d9fa88f1fba048f142d9fe9813c59e83115af40d014ee9ce4cb088312d13a7b02882e4b721cd83d78a74500f6392d087faf8a731c602dc3948f2dd",
+          "sha256": "6ec32e286f621031ad93651c2eaa6ce9426860b8a97b21387eb1ac6ef59e9612",
+          "sha1": "47f8dffa2d158566ac1ae8b1f6b2253eb3e80719",
+          "md5": "f5e0425a419283c43b9c0e9acfa19b06"
+        }
+      ]
+    }
+  ]
+}
