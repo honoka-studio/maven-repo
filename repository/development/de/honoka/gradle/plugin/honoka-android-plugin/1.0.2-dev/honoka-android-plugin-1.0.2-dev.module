@@ -53,7 +53,7 @@
           "group": "de.honoka.gradle.plugin",
           "module": "honoka-basic-plugin",
           "version": {
-            "requires": "1.0.3"
+            "requires": "1.0.4-dev"
           }
         }
       ],

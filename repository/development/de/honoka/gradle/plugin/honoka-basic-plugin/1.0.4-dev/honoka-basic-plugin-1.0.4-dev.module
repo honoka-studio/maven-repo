@@ -30,7 +30,7 @@
           "group": "de.honoka.gradle",
           "module": "honoka-gradle-utils",
           "version": {
-            "requires": "1.0.3"
+            "requires": "1.0.4-dev"
           }
         }
       ],
@@ -62,7 +62,7 @@
           "group": "de.honoka.gradle",
           "module": "honoka-gradle-utils",
           "version": {
-            "requires": "1.0.3"
+            "requires": "1.0.4-dev"
           }
         }
       ],
