@@ -38,11 +38,11 @@
         {
           "name": "honoka-spring-boot-starter-1.0.5-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.5-dev.jar",
-          "size": 69500,
-          "sha512": "f568a5af44a59f6d04d71035792187c0cdcb3bc6d5a584f3d05fac3c4add872e1b5e4d98c24be1147a1c8956f7be8b676435714e264ce96704d6e519362df39c",
-          "sha256": "a467914bbf9ab290b73f4680935c8b0ee1959c0cd53b63a6e50114740e045d17",
-          "sha1": "c74b7ff52407885f01c79e69c4ace777e914e894",
-          "md5": "ca54c00b591fdb3eea803a023d916d75"
+          "size": 75222,
+          "sha512": "4c963982616144065bc182d6446485cbd7c6d7eef9024356d9363beb41471ab3842e9575d26432a25190ec59106ed9f6a4dcbb0e901320cd8f455af3179a26f8",
+          "sha256": "5c7f32ecbc007610f83abeaccc7b783ad962eaac844872488825cea1e93590eb",
+          "sha1": "109d42c35d1c0680a4c37dea508e7d49dfb154d7",
+          "md5": "26f4a848b438fc53ee5af98748bda4bf"
         }
       ]
     },
@@ -96,7 +96,7 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-dependencies",
           "version": {
-            "requires": "3.5.4"
+            "requires": "3.5.9"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -131,11 +131,11 @@
         {
           "name": "honoka-spring-boot-starter-1.0.5-dev.jar",
           "url": "honoka-spring-boot-starter-1.0.5-dev.jar",
-          "size": 69500,
-          "sha512": "f568a5af44a59f6d04d71035792187c0cdcb3bc6d5a584f3d05fac3c4add872e1b5e4d98c24be1147a1c8956f7be8b676435714e264ce96704d6e519362df39c",
-          "sha256": "a467914bbf9ab290b73f4680935c8b0ee1959c0cd53b63a6e50114740e045d17",
-          "sha1": "c74b7ff52407885f01c79e69c4ace777e914e894",
-          "md5": "ca54c00b591fdb3eea803a023d916d75"
+          "size": 75222,
+          "sha512": "4c963982616144065bc182d6446485cbd7c6d7eef9024356d9363beb41471ab3842e9575d26432a25190ec59106ed9f6a4dcbb0e901320cd8f455af3179a26f8",
+          "sha256": "5c7f32ecbc007610f83abeaccc7b783ad962eaac844872488825cea1e93590eb",
+          "sha1": "109d42c35d1c0680a4c37dea508e7d49dfb154d7",
+          "md5": "26f4a848b438fc53ee5af98748bda4bf"
         }
       ]
     },
@@ -151,20 +151,20 @@
         {
           "name": "honoka-spring-boot-starter-1.0.5-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.0.5-dev-sources.jar",
-          "size": 19731,
-          "sha512": "ade754fd4c5247bdd47dce433180f4d4a7b86de1e373a40b12b5471e3b2ec9b2e0f8e297cde678df8b8a87b05265a17f858086b28351a310a247cca0c461bdee",
-          "sha256": "ee8f26b1f877e41f2ed7a2d3ba84e42e0967c9376c0f5366eaa3c044ecbaabc9",
-          "sha1": "5d1e4e078c72f10f526896c738631f22d1aae258",
-          "md5": "82f2b0b561c925b5c914858abe3ced49"
+          "size": 20809,
+          "sha512": "c4512c584141a962c813539a61604b6bb3c657f464470b32049a9767558b425f459f8f1d36399adfa8236b9c9c19d7e92b331a3fa2cc2201a155c66983401fff",
+          "sha256": "e1648af1f1a5e528086ab4c586bfb469d28732f5b7b3cb1c0c7739acb726e5a0",
+          "sha1": "2efb85c49952fb1e7a8f74c398aab1d597d1de2f",
+          "md5": "9b4543b955d40495aa2cec5d8d5b299e"
         },
         {
           "name": "honoka-spring-boot-starter-1.0.5-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.0.5-dev-sources.jar",
-          "size": 19731,
-          "sha512": "ade754fd4c5247bdd47dce433180f4d4a7b86de1e373a40b12b5471e3b2ec9b2e0f8e297cde678df8b8a87b05265a17f858086b28351a310a247cca0c461bdee",
-          "sha256": "ee8f26b1f877e41f2ed7a2d3ba84e42e0967c9376c0f5366eaa3c044ecbaabc9",
-          "sha1": "5d1e4e078c72f10f526896c738631f22d1aae258",
-          "md5": "82f2b0b561c925b5c914858abe3ced49"
+          "size": 20809,
+          "sha512": "c4512c584141a962c813539a61604b6bb3c657f464470b32049a9767558b425f459f8f1d36399adfa8236b9c9c19d7e92b331a3fa2cc2201a155c66983401fff",
+          "sha256": "e1648af1f1a5e528086ab4c586bfb469d28732f5b7b3cb1c0c7739acb726e5a0",
+          "sha1": "2efb85c49952fb1e7a8f74c398aab1d597d1de2f",
+          "md5": "9b4543b955d40495aa2cec5d8d5b299e"
         }
       ]
     }
