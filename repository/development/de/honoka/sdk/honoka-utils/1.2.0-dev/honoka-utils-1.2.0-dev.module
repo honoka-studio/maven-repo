@@ -1,0 +1,154 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.honoka.sdk",
+    "module": "honoka-utils",
+    "version": "1.2.0-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.0.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all",
+          "version": {
+            "requires": "5.8.25"
+          }
+        },
+        {
+          "group": "org.dom4j",
+          "module": "dom4j",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.18.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-utils-1.2.0-dev.jar",
+          "url": "honoka-utils-1.2.0-dev.jar",
+          "size": 72947,
+          "sha512": "bb965d652cc21de6a62ae8f8ae34bf552c51d2c061b62871fc7c16aea3bdc1241a490494f13d8455ce4d8cd82c25efc8ad1cd77a955647767538ed8db0accd58",
+          "sha256": "a5bfb15259b0fddb08cf400513092e87211dccd67b55cf86093ecdec138bbe2d",
+          "sha1": "2a5ec736968acda7d08024e1b8ce3e86108b37ba",
+          "md5": "cd5989e6852e7a70c50caf78c186bdaf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "ch.qos.logback",
+          "module": "logback-classic",
+          "version": {
+            "requires": "1.5.18"
+          }
+        },
+        {
+          "group": "cn.hutool",
+          "module": "hutool-all",
+          "version": {
+            "requires": "5.8.25"
+          }
+        },
+        {
+          "group": "org.dom4j",
+          "module": "dom4j",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.18.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "2.0.17"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk18on",
+          "version": {
+            "requires": "1.78.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "honoka-utils-1.2.0-dev.jar",
+          "url": "honoka-utils-1.2.0-dev.jar",
+          "size": 72947,
+          "sha512": "bb965d652cc21de6a62ae8f8ae34bf552c51d2c061b62871fc7c16aea3bdc1241a490494f13d8455ce4d8cd82c25efc8ad1cd77a955647767538ed8db0accd58",
+          "sha256": "a5bfb15259b0fddb08cf400513092e87211dccd67b55cf86093ecdec138bbe2d",
+          "sha1": "2a5ec736968acda7d08024e1b8ce3e86108b37ba",
+          "md5": "cd5989e6852e7a70c50caf78c186bdaf"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "honoka-utils-1.2.0-dev-sources.jar",
+          "url": "honoka-utils-1.2.0-dev-sources.jar",
+          "size": 38909,
+          "sha512": "0fc4b64ae238736b0ff62f11150cf58b50ce1043976ebfb034368e30260dbc4d919755fb31eaf3668e9e2ca4c6028c03106468de2197e0e99336e6c2daa14b90",
+          "sha256": "c45be88d57f2b1af45be0e3ba31d29dc93f46e0f4bcac3828489ad4f17ff6351",
+          "sha1": "430df3697b5985cd3c8963b68b44a008ee55bd9d",
+          "md5": "0f5b48e494756cc68d95322f52693bfc"
+        }
+      ]
+    }
+  ]
+}
