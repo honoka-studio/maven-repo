@@ -38,11 +38,11 @@
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev.jar",
-          "size": 90510,
-          "sha512": "ff389dd90fdaec3a10a21c71fc6515131aa01910c4064e16924d49077c47a29e35fe1f2adcb6c5541a4031579c0a0b51afaed11771b7009b8d7965d2881966c5",
-          "sha256": "2926d3d3b43fc458cd87ea70cd2782a3c30083c0ec90cd39f8b048188c2c656a",
-          "sha1": "65cb2f3537cf33770c746dd1465850a1e3e6b08d",
-          "md5": "ed03e04492b87f63c55b44ab27104872"
+          "size": 97510,
+          "sha512": "0c64b2239639cc4727e620f49a850adcb091e38b6c63b05baeb9e0c593cbaef651f54267c1645d645b128734ab289c2b0b9f1ccc2a164b54e4a4af03a50ca692",
+          "sha256": "43cd0044fb5aa6da6de1466727bdbef545b935612e79c76a5065de2320c7e6e8",
+          "sha1": "28b72a527b6dfe718d0cc6a9975d024b576b6175",
+          "md5": "eb7d1e1470828279b571a277fcfc39b5"
         }
       ]
     },
@@ -98,6 +98,16 @@
           "version": {
             "requires": "3.5.9"
           },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlinx",
+              "module": "*"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "*"
+            }
+          ],
           "attributes": {
             "org.gradle.category": "platform"
           },
@@ -131,11 +141,11 @@
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev.jar",
-          "size": 90510,
-          "sha512": "ff389dd90fdaec3a10a21c71fc6515131aa01910c4064e16924d49077c47a29e35fe1f2adcb6c5541a4031579c0a0b51afaed11771b7009b8d7965d2881966c5",
-          "sha256": "2926d3d3b43fc458cd87ea70cd2782a3c30083c0ec90cd39f8b048188c2c656a",
-          "sha1": "65cb2f3537cf33770c746dd1465850a1e3e6b08d",
-          "md5": "ed03e04492b87f63c55b44ab27104872"
+          "size": 97510,
+          "sha512": "0c64b2239639cc4727e620f49a850adcb091e38b6c63b05baeb9e0c593cbaef651f54267c1645d645b128734ab289c2b0b9f1ccc2a164b54e4a4af03a50ca692",
+          "sha256": "43cd0044fb5aa6da6de1466727bdbef545b935612e79c76a5065de2320c7e6e8",
+          "sha1": "28b72a527b6dfe718d0cc6a9975d024b576b6175",
+          "md5": "eb7d1e1470828279b571a277fcfc39b5"
         }
       ]
     },
@@ -151,20 +161,20 @@
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
-          "size": 22916,
-          "sha512": "dd4c6e14c7fcacc6e4ba65499212326d8462a1fd43c940e095edbf4dbc249734fda0871a5e24ac1e5cc0061487312c510c660ecd38439878a68e6a3ec99e4add",
-          "sha256": "5c01cd50f8444524a9b43ee7c7d34c8f0205810350f4daf9045b50ed8449d6bd",
-          "sha1": "729aac6b93f80219dd0770f3a3f93543755a3cb7",
-          "md5": "2e4dcd875f1c2caf008069e5747b661c"
+          "size": 24136,
+          "sha512": "915aa70bea20b07cdbc7c79a61a5ad76931def72d74b884001158569f75b2c3b9aceb70ed9882913cbb75a4aa7a405a7e6b0dd20ad80bf31c66abb142055d158",
+          "sha256": "84e065e4b360741ad23ebeca0100928e2a6460a7a8fc842cc6154e3107014054",
+          "sha1": "a0cfe18652fab1f690792c15cc9379ed5b69d4b3",
+          "md5": "c19c0e6539f9d2aca9372f626a6c3212"
         },
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
-          "size": 22916,
-          "sha512": "dd4c6e14c7fcacc6e4ba65499212326d8462a1fd43c940e095edbf4dbc249734fda0871a5e24ac1e5cc0061487312c510c660ecd38439878a68e6a3ec99e4add",
-          "sha256": "5c01cd50f8444524a9b43ee7c7d34c8f0205810350f4daf9045b50ed8449d6bd",
-          "sha1": "729aac6b93f80219dd0770f3a3f93543755a3cb7",
-          "md5": "2e4dcd875f1c2caf008069e5747b661c"
+          "size": 24136,
+          "sha512": "915aa70bea20b07cdbc7c79a61a5ad76931def72d74b884001158569f75b2c3b9aceb70ed9882913cbb75a4aa7a405a7e6b0dd20ad80bf31c66abb142055d158",
+          "sha256": "84e065e4b360741ad23ebeca0100928e2a6460a7a8fc842cc6154e3107014054",
+          "sha1": "a0cfe18652fab1f690792c15cc9379ed5b69d4b3",
+          "md5": "c19c0e6539f9d2aca9372f626a6c3212"
         }
       ]
     }
