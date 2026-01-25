@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.0.0"
+      "version": "9.3.0"
     }
   },
   "variants": [
@@ -29,11 +29,11 @@
         {
           "name": "honoka-gradle-utils-1.0.4-dev.jar",
           "url": "honoka-gradle-utils-1.0.4-dev.jar",
-          "size": 25176,
-          "sha512": "d1a1555534efac525dfa06d5b5ecc3564d53cb63eccb6d0e2b79c8102927a400f9089f646bc431085f989e3ab857b15d67a971449ef7e7898356cad9b424557f",
-          "sha256": "27fe958ed724e0130cf407b41cdc74a7ed8cda75e5c05b1af3da760d620e8df6",
-          "sha1": "26cfecf30e8f6e43a8305e6e79eea1e2347e636a",
-          "md5": "98ebf30444c10eb0825f13f6dbbbad48"
+          "size": 25178,
+          "sha512": "5f763b54b6fd7f802b8df729f41bd74cbee3230063ede0769d1de251bf0b644323de8a2dc416665569d0e3a4def3afcdc9d109c848e78864ccd1d1bc75e4d329",
+          "sha256": "c749974eabbf948eae4779e81bd8c5f6bbbfedc54644666aaba125194de926f8",
+          "sha1": "84bbd878833647f8f8a388ba858f93363fc48b37",
+          "md5": "89e568bc74a7097bc3283801479909a6"
         }
       ]
     },
@@ -52,11 +52,11 @@
         {
           "name": "honoka-gradle-utils-1.0.4-dev.jar",
           "url": "honoka-gradle-utils-1.0.4-dev.jar",
-          "size": 25176,
-          "sha512": "d1a1555534efac525dfa06d5b5ecc3564d53cb63eccb6d0e2b79c8102927a400f9089f646bc431085f989e3ab857b15d67a971449ef7e7898356cad9b424557f",
-          "sha256": "27fe958ed724e0130cf407b41cdc74a7ed8cda75e5c05b1af3da760d620e8df6",
-          "sha1": "26cfecf30e8f6e43a8305e6e79eea1e2347e636a",
-          "md5": "98ebf30444c10eb0825f13f6dbbbad48"
+          "size": 25178,
+          "sha512": "5f763b54b6fd7f802b8df729f41bd74cbee3230063ede0769d1de251bf0b644323de8a2dc416665569d0e3a4def3afcdc9d109c848e78864ccd1d1bc75e4d329",
+          "sha256": "c749974eabbf948eae4779e81bd8c5f6bbbfedc54644666aaba125194de926f8",
+          "sha1": "84bbd878833647f8f8a388ba858f93363fc48b37",
+          "md5": "89e568bc74a7097bc3283801479909a6"
         }
       ]
     },

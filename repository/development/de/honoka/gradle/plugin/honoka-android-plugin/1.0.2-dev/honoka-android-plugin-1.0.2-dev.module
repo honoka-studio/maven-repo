@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.0.0"
+      "version": "9.3.0"
     }
   },
   "variants": [
@@ -29,11 +29,11 @@
         {
           "name": "honoka-android-plugin-1.0.2-dev.jar",
           "url": "honoka-android-plugin-1.0.2-dev.jar",
-          "size": 20890,
-          "sha512": "74ad244c9e8d681200b5e9369d78072c76179a177d11644f040875ee4f2b56a9e7243f3a5a456bb6d3a9e8090dfc221cc43827e9bddc27ee41eed3e50b1ddd84",
-          "sha256": "46d8688273192a39c6321f61241c854dec40debc0877255367b4064944c5bcdd",
-          "sha1": "5a250ab33d4ebdb8654e64d20de9cd6ef6385a33",
-          "md5": "4482de64c8e17344138df2f12d843cfe"
+          "size": 20832,
+          "sha512": "ed01019697c4693211779c009350fc5b2dd85dca01934b6c3b18502f68385cb3e3b1cfcac67a8f563adb7997fd718dad439d5435453aadf8bddbf7fab14d0c1f",
+          "sha256": "8d1ff35ae0afa2f5223c311d86d38dd17f19e3e133f5cad21346cc1918af7dcb",
+          "sha1": "7c66d140cf3f6339c5ff7f0b6322f3b67df1926e",
+          "md5": "f1889d4a342553ea3fa2796c9e77c55e"
         }
       ]
     },
@@ -61,11 +61,11 @@
         {
           "name": "honoka-android-plugin-1.0.2-dev.jar",
           "url": "honoka-android-plugin-1.0.2-dev.jar",
-          "size": 20890,
-          "sha512": "74ad244c9e8d681200b5e9369d78072c76179a177d11644f040875ee4f2b56a9e7243f3a5a456bb6d3a9e8090dfc221cc43827e9bddc27ee41eed3e50b1ddd84",
-          "sha256": "46d8688273192a39c6321f61241c854dec40debc0877255367b4064944c5bcdd",
-          "sha1": "5a250ab33d4ebdb8654e64d20de9cd6ef6385a33",
-          "md5": "4482de64c8e17344138df2f12d843cfe"
+          "size": 20832,
+          "sha512": "ed01019697c4693211779c009350fc5b2dd85dca01934b6c3b18502f68385cb3e3b1cfcac67a8f563adb7997fd718dad439d5435453aadf8bddbf7fab14d0c1f",
+          "sha256": "8d1ff35ae0afa2f5223c311d86d38dd17f19e3e133f5cad21346cc1918af7dcb",
+          "sha1": "7c66d140cf3f6339c5ff7f0b6322f3b67df1926e",
+          "md5": "f1889d4a342553ea3fa2796c9e77c55e"
         }
       ]
     },
