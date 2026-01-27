@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.0.0"
+      "version": "9.3.0"
     }
   },
   "variants": [
@@ -38,11 +38,11 @@
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev.jar",
-          "size": 97510,
-          "sha512": "0c64b2239639cc4727e620f49a850adcb091e38b6c63b05baeb9e0c593cbaef651f54267c1645d645b128734ab289c2b0b9f1ccc2a164b54e4a4af03a50ca692",
-          "sha256": "43cd0044fb5aa6da6de1466727bdbef545b935612e79c76a5065de2320c7e6e8",
-          "sha1": "28b72a527b6dfe718d0cc6a9975d024b576b6175",
-          "md5": "eb7d1e1470828279b571a277fcfc39b5"
+          "size": 97622,
+          "sha512": "fd72a6c1c2e924b747ab7dae1904b5e0caec09ab4ad30e3b88ec2f8c77c1dfc8d868f6e521493ae9f59dfdeebc52bc3dd5caf44dde35d1e2f4a3462a85b43775",
+          "sha256": "cf84faa60cdb54b58d2ebae28cdf19174dc34d9c0bde983acda8e4f8ea1a3029",
+          "sha1": "fd058b6d7d230ccbe1fb51eb61c4cf8b372a758d",
+          "md5": "11f2cf8c31d08aa37c9b3d8d22341e43"
         }
       ]
     },
@@ -62,7 +62,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-bom",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -126,14 +126,14 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           }
         }
       ],
@@ -141,11 +141,11 @@
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev.jar",
-          "size": 97510,
-          "sha512": "0c64b2239639cc4727e620f49a850adcb091e38b6c63b05baeb9e0c593cbaef651f54267c1645d645b128734ab289c2b0b9f1ccc2a164b54e4a4af03a50ca692",
-          "sha256": "43cd0044fb5aa6da6de1466727bdbef545b935612e79c76a5065de2320c7e6e8",
-          "sha1": "28b72a527b6dfe718d0cc6a9975d024b576b6175",
-          "md5": "eb7d1e1470828279b571a277fcfc39b5"
+          "size": 97622,
+          "sha512": "fd72a6c1c2e924b747ab7dae1904b5e0caec09ab4ad30e3b88ec2f8c77c1dfc8d868f6e521493ae9f59dfdeebc52bc3dd5caf44dde35d1e2f4a3462a85b43775",
+          "sha256": "cf84faa60cdb54b58d2ebae28cdf19174dc34d9c0bde983acda8e4f8ea1a3029",
+          "sha1": "fd058b6d7d230ccbe1fb51eb61c4cf8b372a758d",
+          "md5": "11f2cf8c31d08aa37c9b3d8d22341e43"
         }
       ]
     },
@@ -161,20 +161,20 @@
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
-          "size": 24136,
-          "sha512": "915aa70bea20b07cdbc7c79a61a5ad76931def72d74b884001158569f75b2c3b9aceb70ed9882913cbb75a4aa7a405a7e6b0dd20ad80bf31c66abb142055d158",
-          "sha256": "84e065e4b360741ad23ebeca0100928e2a6460a7a8fc842cc6154e3107014054",
-          "sha1": "a0cfe18652fab1f690792c15cc9379ed5b69d4b3",
-          "md5": "c19c0e6539f9d2aca9372f626a6c3212"
+          "size": 24155,
+          "sha512": "76ad408a8bd64b7df627ed428659ff3fa0c64918e8c4320102c617c98cd1305780939a81f3b621ed2134d18c08ddd9c5973e9fe48708209b8247bb67dfedc353",
+          "sha256": "8847cee3869b004c07763ffad2a60319f83fbafe8aa0c456ef19a8b8d127f70f",
+          "sha1": "ec921577f2da08f2a735ff19d2f304e97e7bc823",
+          "md5": "fd4907fbf9d8e6c11b2caef71624588d"
         },
         {
           "name": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
           "url": "honoka-spring-boot-starter-1.1.0-dev-sources.jar",
-          "size": 24136,
-          "sha512": "915aa70bea20b07cdbc7c79a61a5ad76931def72d74b884001158569f75b2c3b9aceb70ed9882913cbb75a4aa7a405a7e6b0dd20ad80bf31c66abb142055d158",
-          "sha256": "84e065e4b360741ad23ebeca0100928e2a6460a7a8fc842cc6154e3107014054",
-          "sha1": "a0cfe18652fab1f690792c15cc9379ed5b69d4b3",
-          "md5": "c19c0e6539f9d2aca9372f626a6c3212"
+          "size": 24155,
+          "sha512": "76ad408a8bd64b7df627ed428659ff3fa0c64918e8c4320102c617c98cd1305780939a81f3b621ed2134d18c08ddd9c5973e9fe48708209b8247bb67dfedc353",
+          "sha256": "8847cee3869b004c07763ffad2a60319f83fbafe8aa0c456ef19a8b8d127f70f",
+          "sha1": "ec921577f2da08f2a735ff19d2f304e97e7bc823",
+          "md5": "fd4907fbf9d8e6c11b2caef71624588d"
         }
       ]
     }
