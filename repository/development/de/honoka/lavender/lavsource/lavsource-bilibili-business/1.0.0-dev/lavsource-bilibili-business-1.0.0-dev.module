@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.0.0"
+      "version": "9.3.0"
     }
   },
   "variants": [
@@ -38,11 +38,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev.jar",
-          "size": 30438,
-          "sha512": "83bfe40e8a5ddc6093a7957cb2c9d1a834454107c139f151c3100e567ad50f3073bc275ae5430f91840b1c0e4afaf070bd5bfab59c8936df07a080ca73b2075d",
-          "sha256": "0c0f5120fc765dc7803b31a4c3dac2ce8ba0ba3d65ee6fe9be2f8ae95025e991",
-          "sha1": "dc77508151370b64d13dc7e4731b9bced300ebe4",
-          "md5": "184e7dbc8a6708b203c32d093e7e40db"
+          "size": 30245,
+          "sha512": "914cf464e672104ae1eda3b2cd793ea0fcdf4bacc6b5e4580e2ecb4632d03eadec58ee848411c7612042cb182409e640ecedb6377fae3eeb8a5786816c694fda",
+          "sha256": "9129702b52ef7ec5b7eeb9c9d9a468db95453f766ae31d7f9ec706fc45868ad2",
+          "sha1": "245a5448a9d908c75358a767a86678ecccf7ea2d",
+          "md5": "f05c1635fac95ac2beab6559538a21d5"
         }
       ]
     },
@@ -62,7 +62,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-bom",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -105,14 +105,14 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           }
         }
       ],
@@ -120,11 +120,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev.jar",
-          "size": 30438,
-          "sha512": "83bfe40e8a5ddc6093a7957cb2c9d1a834454107c139f151c3100e567ad50f3073bc275ae5430f91840b1c0e4afaf070bd5bfab59c8936df07a080ca73b2075d",
-          "sha256": "0c0f5120fc765dc7803b31a4c3dac2ce8ba0ba3d65ee6fe9be2f8ae95025e991",
-          "sha1": "dc77508151370b64d13dc7e4731b9bced300ebe4",
-          "md5": "184e7dbc8a6708b203c32d093e7e40db"
+          "size": 30245,
+          "sha512": "914cf464e672104ae1eda3b2cd793ea0fcdf4bacc6b5e4580e2ecb4632d03eadec58ee848411c7612042cb182409e640ecedb6377fae3eeb8a5786816c694fda",
+          "sha256": "9129702b52ef7ec5b7eeb9c9d9a468db95453f766ae31d7f9ec706fc45868ad2",
+          "sha1": "245a5448a9d908c75358a767a86678ecccf7ea2d",
+          "md5": "f05c1635fac95ac2beab6559538a21d5"
         }
       ]
     },
@@ -140,11 +140,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev-sources.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev-sources.jar",
-          "size": 9529,
-          "sha512": "0b33491c4b604138727e8020d6481ef4c28e50157816f70e65ed02655dfce10777af7e3a2673e38d377f7ad94590d499949933ef51e9c9c0ed78047e90f76770",
-          "sha256": "9d9fdc92e7fc241945f7460c132bf306659d12454cf4d380c100d06d0ba1e5c1",
-          "sha1": "0d7a1c2001430cf53c84acf033861cd30c8202fa",
-          "md5": "1ce90a8e47aa1d87f18e42dd5cef4873"
+          "size": 9489,
+          "sha512": "a0cb877f79ef8c2c3b1321c90b4aca70b209fe7bd64c718b1ce1191f6206e5f04aa2b27f5d30cb2f9da99ebb0e7b2b6308e08f712a096168abac7256a5834044",
+          "sha256": "c794569feb75900e1b92aa3ae73ab26df2deb905e7a24be8181187a034be0eb5",
+          "sha1": "b6c2d76f5cd1dd80d32d63276a7c11ec2766af08",
+          "md5": "508fcfcad162ff90db8274ffb5bd7299"
         }
       ]
     }
