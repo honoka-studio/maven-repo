@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "9.0.0"
+      "version": "9.3.0"
     }
   },
   "variants": [
@@ -29,11 +29,11 @@
         {
           "name": "lavender-api-1.0.0-dev.jar",
           "url": "lavender-api-1.0.0-dev.jar",
-          "size": 43968,
-          "sha512": "ddfb1eb684055870676fd14f0d1ff01bdd3ec20d416f29d436efd8272c918feecc33f8ffb30b59f586bbf8d6c554e59056cb7cf56e64d2f3fdcdecde6b81766f",
-          "sha256": "cac2e100386fc647d2f787d8f1acf52afe5eddee9342e7c583754481c62966f5",
-          "sha1": "449d681f036248abd9cf29ea786af9ab88bdcb11",
-          "md5": "8b6114ebb33df20f478d21511e91df43"
+          "size": 43812,
+          "sha512": "fcd956644eacc587f8ca310222444a0bf9ba34986f25610aec688872849705d20c6c51cb77b4b72edf802e17b7a1a551edf2a5e7bf271702f16e77d6eb329f9c",
+          "sha256": "a277dc5d9a191d7ef9731a82308d3c23e8500668fd8429a9eb52923e1f0b6ae3",
+          "sha1": "6ea21529c187c705326a918d69bacd6c93ea83af",
+          "md5": "49f0560290d4ca86356e6c571216f694"
         }
       ]
     },
@@ -53,7 +53,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-bom",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -89,14 +89,14 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "2.2.0"
+            "requires": "2.2.21"
           }
         }
       ],
@@ -104,11 +104,11 @@
         {
           "name": "lavender-api-1.0.0-dev.jar",
           "url": "lavender-api-1.0.0-dev.jar",
-          "size": 43968,
-          "sha512": "ddfb1eb684055870676fd14f0d1ff01bdd3ec20d416f29d436efd8272c918feecc33f8ffb30b59f586bbf8d6c554e59056cb7cf56e64d2f3fdcdecde6b81766f",
-          "sha256": "cac2e100386fc647d2f787d8f1acf52afe5eddee9342e7c583754481c62966f5",
-          "sha1": "449d681f036248abd9cf29ea786af9ab88bdcb11",
-          "md5": "8b6114ebb33df20f478d21511e91df43"
+          "size": 43812,
+          "sha512": "fcd956644eacc587f8ca310222444a0bf9ba34986f25610aec688872849705d20c6c51cb77b4b72edf802e17b7a1a551edf2a5e7bf271702f16e77d6eb329f9c",
+          "sha256": "a277dc5d9a191d7ef9731a82308d3c23e8500668fd8429a9eb52923e1f0b6ae3",
+          "sha1": "6ea21529c187c705326a918d69bacd6c93ea83af",
+          "md5": "49f0560290d4ca86356e6c571216f694"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "lavender-api-1.0.0-dev-sources.jar",
           "url": "lavender-api-1.0.0-dev-sources.jar",
-          "size": 6233,
-          "sha512": "720b9f1fb3044907ab21ccf6da964c323c8f5e929b1046973e42011d15fb9f9ddff6b4892ea44a3992598683d4f90eb633ea8571d48b1bc2109e221e36406b5e",
-          "sha256": "e80889f05567e05df508eed25e9b7ddce13eec521f4088ec741ab2774b04c56f",
-          "sha1": "46d4ebfb65ba6bd6feeac73f001416f8e84df6fa",
-          "md5": "b6223c2e807565acb320d56b8e421f52"
+          "size": 6209,
+          "sha512": "7e9f7b691442b299c081a6c94dc61fd973ab3f9f269b66b26927221caf61500982a6cee3f16c882f98bfd7ceac5fec1a4d399ac5089c9f0e81c2c470d27237b5",
+          "sha256": "4380978cb8870f8a4c32d1c71d9493ee47e1e4086a243763d71f8d3b753abce0",
+          "sha1": "6114ee1486f8710b2f9560f01852198875ba93e1",
+          "md5": "9e09901bc04a8e123977c14218749843"
         }
       ]
     }
