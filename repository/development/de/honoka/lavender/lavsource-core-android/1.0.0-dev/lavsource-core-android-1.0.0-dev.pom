@@ -7,7 +7,7 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <version>1.1.3-dev</version>
+      <version>1.2.0-dev</version>
       <artifactId>honoka-android-utils</artifactId>
       <groupId>de.honoka.sdk</groupId>
     </dependency>
@@ -29,12 +29,6 @@
     <dependency>
       <artifactId>kotlinx-coroutines-android</artifactId>
       <groupId>org.jetbrains.kotlinx</groupId>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <artifactId>hutool-all</artifactId>
-      <version>5.8.18</version>
-      <groupId>cn.hutool</groupId>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
