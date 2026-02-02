@@ -38,11 +38,11 @@
         {
           "name": "honoka-basic-plugin-1.1.0-dev.jar",
           "url": "honoka-basic-plugin-1.1.0-dev.jar",
-          "size": 35911,
-          "sha512": "2252515ae2868253464d84060813ba1407a2d0ef043404129f2068007865da1527677ce5c1eb94b48e19ab61b0bd42e7123c7737615f04eab70b2a8944514967",
-          "sha256": "446694354591a127a634dccc031638628fa4e9b6bfd990bcd1b12e4be9581280",
-          "sha1": "33da610c153585a567e2ad38e8996afab5059465",
-          "md5": "c32d3c5ec07fd5adaeb9eb2ed697d6d9"
+          "size": 37082,
+          "sha512": "6d4504c8add6e5ba42c615ef192a6e4369a7ce492a3f6cded0fab72890bbfecb2575cf2cd6b8d0b1f88e8fbe48ac8f0c9f3ee40f3a7fc4eac83e9d7544ae01df",
+          "sha256": "a5611c2523a120d41f0f4738a15b629b52944dbe77fe76550168fb87c48e0f2d",
+          "sha1": "1a833c488f108c6ab96c70c06bc93833671de5bb",
+          "md5": "9e72d8e35fbb87d0e5e6ba8449f16f28"
         }
       ]
     },
@@ -66,6 +66,13 @@
           }
         },
         {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-allopen",
+          "version": {
+            "requires": "2.2.21"
+          }
+        },
+        {
           "group": "de.honoka.gradle",
           "module": "honoka-gradle-utils",
           "version": {
@@ -77,11 +84,11 @@
         {
           "name": "honoka-basic-plugin-1.1.0-dev.jar",
           "url": "honoka-basic-plugin-1.1.0-dev.jar",
-          "size": 35911,
-          "sha512": "2252515ae2868253464d84060813ba1407a2d0ef043404129f2068007865da1527677ce5c1eb94b48e19ab61b0bd42e7123c7737615f04eab70b2a8944514967",
-          "sha256": "446694354591a127a634dccc031638628fa4e9b6bfd990bcd1b12e4be9581280",
-          "sha1": "33da610c153585a567e2ad38e8996afab5059465",
-          "md5": "c32d3c5ec07fd5adaeb9eb2ed697d6d9"
+          "size": 37082,
+          "sha512": "6d4504c8add6e5ba42c615ef192a6e4369a7ce492a3f6cded0fab72890bbfecb2575cf2cd6b8d0b1f88e8fbe48ac8f0c9f3ee40f3a7fc4eac83e9d7544ae01df",
+          "sha256": "a5611c2523a120d41f0f4738a15b629b52944dbe77fe76550168fb87c48e0f2d",
+          "sha1": "1a833c488f108c6ab96c70c06bc93833671de5bb",
+          "md5": "9e72d8e35fbb87d0e5e6ba8449f16f28"
         }
       ]
     },
@@ -97,11 +104,11 @@
         {
           "name": "honoka-basic-plugin-1.1.0-dev-sources.jar",
           "url": "honoka-basic-plugin-1.1.0-dev-sources.jar",
-          "size": 6617,
-          "sha512": "5331e2cff3f52d550fa72375d8bf3d1744fe27c4bed92a0f9f1a1b923ba1ee7c8492eb0d7f8c95924b6ca19f2c4bd5c59750a6414edcdbab4f55e386df2ab73c",
-          "sha256": "4f2cf2cbacdba1cf2c88ef92ba21d6485a5e60171bd00b73a11ff6076db56f56",
-          "sha1": "e41ced247804e0b16d2eb6a47c70f87bfe226124",
-          "md5": "1b84a0b04d0e31db7613fee503acd76c"
+          "size": 6704,
+          "sha512": "28a89fdd54015a7c13b755106e42461e8315be21d7b299ce12422f85588176f88124158009cee058e5d5b54e6601677b98f7bbbc34d87e056227ab7eb67b4a41",
+          "sha256": "703ba495f5d57bdac539c297c6d8a5801e6508b812d2bfef4652de39d5537086",
+          "sha1": "500018da78756247d9ae48b585570c1163bf1d61",
+          "md5": "4f1864fb6528ca34069c0683c371be9c"
         }
       ]
     }
