@@ -45,11 +45,11 @@
         {
           "name": "lavsource-spring-boot-starter-1.0.0-dev.jar",
           "url": "lavsource-spring-boot-starter-1.0.0-dev.jar",
-          "size": 17237,
-          "sha512": "dc01d4ed0fa3f59fb0e979970cc60a612f39beff60561bbdcc966b8dc86e28497b6ed37b2fddc92c7c3e831bf373655804dfeef6478384b0250ec8c9af691b12",
-          "sha256": "b9fe827b075d177bacbb4c575e153e9ac391b1c8d699e661a49d58ebf61c159c",
-          "sha1": "5bdf504ebb8c92ab57201ac6c9512a0bbc5628b7",
-          "md5": "819baf5dbcddf1c5c68b046837f9a922"
+          "size": 15521,
+          "sha512": "1ca3992414f5fedb290d22b73dd10e8dc189b9ceaf1603da3f22915432e677acaf1913993a391f756d05f85cf50006629608e780bf2846c11e9374850748a4bb",
+          "sha256": "ce68f3c6991f802d25cbb6f53ca7a7fdfa42b8629e2673cd07b48edbe8c20ee6",
+          "sha1": "3111174beb44bcb11ed242b66ee7f47275862649",
+          "md5": "d40e318e27847faa5e3b8c4edf7d2739"
         }
       ]
     },
@@ -167,11 +167,11 @@
         {
           "name": "lavsource-spring-boot-starter-1.0.0-dev.jar",
           "url": "lavsource-spring-boot-starter-1.0.0-dev.jar",
-          "size": 17237,
-          "sha512": "dc01d4ed0fa3f59fb0e979970cc60a612f39beff60561bbdcc966b8dc86e28497b6ed37b2fddc92c7c3e831bf373655804dfeef6478384b0250ec8c9af691b12",
-          "sha256": "b9fe827b075d177bacbb4c575e153e9ac391b1c8d699e661a49d58ebf61c159c",
-          "sha1": "5bdf504ebb8c92ab57201ac6c9512a0bbc5628b7",
-          "md5": "819baf5dbcddf1c5c68b046837f9a922"
+          "size": 15521,
+          "sha512": "1ca3992414f5fedb290d22b73dd10e8dc189b9ceaf1603da3f22915432e677acaf1913993a391f756d05f85cf50006629608e780bf2846c11e9374850748a4bb",
+          "sha256": "ce68f3c6991f802d25cbb6f53ca7a7fdfa42b8629e2673cd07b48edbe8c20ee6",
+          "sha1": "3111174beb44bcb11ed242b66ee7f47275862649",
+          "md5": "d40e318e27847faa5e3b8c4edf7d2739"
         }
       ]
     },
@@ -187,11 +187,11 @@
         {
           "name": "lavsource-spring-boot-starter-1.0.0-dev-sources.jar",
           "url": "lavsource-spring-boot-starter-1.0.0-dev-sources.jar",
-          "size": 6493,
-          "sha512": "3fbd6e7bb919506911651ac31b32e01a2c0f3a0a45687aa8a0f3069fa10eccb1941903fdb898de3a40a5f65e295d6ab07a78e5d9409f6126e24fe24ceb8e343a",
-          "sha256": "a57b0bab8dad0b04346ce048eb612740c8e9c1c0610f7bb5f047f4ef2429aff4",
-          "sha1": "42d430d504664e0fc708b545e0f01032185ed0af",
-          "md5": "10d9a9afe998da0b71e537707a1fda21"
+          "size": 6085,
+          "sha512": "2962c0397dff853043eb9b1bce917dbfb949ca074f0d7dd9a44681a8ae0ba91c007d66b7ea888a2e6f590bf1a87fd8d48d4d376a28dc43ac2a8828d2d02a13dc",
+          "sha256": "091b45d47833b5faa81a333bbc825b2427d5cd1ce7f63a2b1e9d7dc57a83ee96",
+          "sha1": "bc2245c407dc4146678eaa7b82deb0ff087917af",
+          "md5": "5cb0a0e36d8f5e6eb595ea3ddab175c5"
         }
       ]
     }
