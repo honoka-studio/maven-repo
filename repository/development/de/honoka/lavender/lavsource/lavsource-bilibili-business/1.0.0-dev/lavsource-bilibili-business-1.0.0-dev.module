@@ -20,7 +20,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -38,11 +38,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev.jar",
-          "size": 30245,
-          "sha512": "914cf464e672104ae1eda3b2cd793ea0fcdf4bacc6b5e4580e2ecb4632d03eadec58ee848411c7612042cb182409e640ecedb6377fae3eeb8a5786816c694fda",
-          "sha256": "9129702b52ef7ec5b7eeb9c9d9a468db95453f766ae31d7f9ec706fc45868ad2",
-          "sha1": "245a5448a9d908c75358a767a86678ecccf7ea2d",
-          "md5": "f05c1635fac95ac2beab6559538a21d5"
+          "size": 30086,
+          "sha512": "37fe735e614966977c491b5e548839fc343d1ca5e221bced43820f861af94ad4df6975116cecac2c5910cc8305f13fd1b701be7db8c6506985c4547eba8d273c",
+          "sha256": "c17a8c76c0aca9461d1e27128e152e54592551f4c8bdbae9ca606458a76f29a8",
+          "sha1": "0ab4d71bc1a65bd3151ddf7d4d8685a1799ed8da",
+          "md5": "2308ba37893ade82daa5f19e148e4e48"
         }
       ]
     },
@@ -52,7 +52,7 @@
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
         "org.gradle.jvm.environment": "standard-jvm",
-        "org.gradle.jvm.version": 17,
+        "org.gradle.jvm.version": 8,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime",
         "org.jetbrains.kotlin.platform.type": "jvm"
@@ -120,11 +120,11 @@
         {
           "name": "lavsource-bilibili-business-1.0.0-dev.jar",
           "url": "lavsource-bilibili-business-1.0.0-dev.jar",
-          "size": 30245,
-          "sha512": "914cf464e672104ae1eda3b2cd793ea0fcdf4bacc6b5e4580e2ecb4632d03eadec58ee848411c7612042cb182409e640ecedb6377fae3eeb8a5786816c694fda",
-          "sha256": "9129702b52ef7ec5b7eeb9c9d9a468db95453f766ae31d7f9ec706fc45868ad2",
-          "sha1": "245a5448a9d908c75358a767a86678ecccf7ea2d",
-          "md5": "f05c1635fac95ac2beab6559538a21d5"
+          "size": 30086,
+          "sha512": "37fe735e614966977c491b5e548839fc343d1ca5e221bced43820f861af94ad4df6975116cecac2c5910cc8305f13fd1b701be7db8c6506985c4547eba8d273c",
+          "sha256": "c17a8c76c0aca9461d1e27128e152e54592551f4c8bdbae9ca606458a76f29a8",
+          "sha1": "0ab4d71bc1a65bd3151ddf7d4d8685a1799ed8da",
+          "md5": "2308ba37893ade82daa5f19e148e4e48"
         }
       ]
     },
